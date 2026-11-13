@@ -1,0 +1,6224 @@
+{
+  "subject": "Mathematics_Competition",
+  "encoding": "UTF-8",
+  "version": 3,
+  "chapter_catalog": "Practice/Mathematics_Competition/Chapters/README.md",
+  "items": [
+    {
+      "path": "Practice/Mathematics_Competition/Edition_01/Final/Mathematics/Regular_Questions.md",
+      "title": "第1届全国大学生数学竞赛数学类决赛试卷（2010年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 1,
+      "stage": "Final",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "295d8bc3068959f0a0ab3a79c0f640751a29f2c025e72bf93eaa7013823699e7",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_01/Final/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_01/Final/Mathematics/Regular_Solutions.md",
+      "title": "第1届全国大学生数学竞赛数学类决赛试卷参考答案（2010年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 1,
+      "stage": "Final",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "0d251db0c53632d90377512ba683c177ad4381716f74394ffc8c8f2d363766a6",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_01/Final/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_01/Final/Non_Mathematics/Regular_Questions.md",
+      "title": "第1届全国大学生数学竞赛非数学类决赛试卷（2010年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 1,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "03_int1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "ff4618f11688a113707b1d3049916a1dac32124f85cb21f045e9ee4ed2e357f9",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_01/Final/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_01/Final/Non_Mathematics/Regular_Solutions.md",
+      "title": "第1届全国大学生数学竞赛非数学类决赛试卷参考答案（2010年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 1,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "05_intn"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "7c01945c659914ed1be52e67519cc60b479a4432b7603c5b32232999ec1acf1d",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_01/Final/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_01/Preliminary/Mathematics/Regular_Questions.md",
+      "title": "第1届全国大学生数学竞赛数学类初赛试卷（2009年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 1,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "9c472bb9f465e5027af4119f50b206026482c660157c72e337cafaa201691d06",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_01/Preliminary/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_01/Preliminary/Mathematics/Regular_Solutions.md",
+      "title": "第1届全国大学生数学竞赛数学类初赛试卷参考答案（2009年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 1,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "19da172da9fcb87bf01a5477e08ef3141010902ecd3c2068dd59944a7ce1250e",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_01/Preliminary/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_01/Preliminary/Non_Mathematics/Regular_Questions.md",
+      "title": "第1届全国大学生数学竞赛非数学类初赛试卷（2009年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 1,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "3c6f2a42563ec32f4b63957779ac77b3bde0173e4a090de42b3cf16648dbc4b8",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_01/Preliminary/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_01/Preliminary/Non_Mathematics/Regular_Solutions.md",
+      "title": "第1届全国大学生数学竞赛非数学类初赛试卷参考答案（2009年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 1,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "54b479c39a43459b182f48a01b949454fca1e88c1f90e08fd0683b85de35bc12",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_01/Preliminary/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_02/Final/Mathematics/Regular_Questions.md",
+      "title": "第2届全国大学生数学竞赛数学类决赛试卷（2011年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 2,
+      "stage": "Final",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "20a85cb97f1bb645e8b1e6c051c0a50df750b3febd850be9f1c228c9d47c8703",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_02/Final/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_02/Final/Mathematics/Regular_Solutions.md",
+      "title": "第2届全国大学生数学竞赛数学类决赛试卷参考答案（2011年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 2,
+      "stage": "Final",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "52894247527cbe6017453abe63ed30add5131ff3e8181d554f0369ce8e8dee65",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_02/Final/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_02/Final/Non_Mathematics/Regular_Questions.md",
+      "title": "第2届全国大学生数学竞赛非数学类决赛试卷（2011年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 2,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "1d5cb3ba8504aa01158112ef7eef44fa75d28d5387e6a2ad4f2e2162463ca0c8",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_02/Final/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_02/Final/Non_Mathematics/Regular_Solutions.md",
+      "title": "第2届全国大学生数学竞赛非数学类决赛试卷参考答案（2011年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 2,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "d828c9bf084c6bf3c72055a39dad102d8877f44929f634e4bf26f3c83e7655e8",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_02/Final/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_02/Preliminary/Mathematics/Regular_Questions.md",
+      "title": "第2届全国大学生数学竞赛数学类初赛试卷（2010年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 2,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "8dadf63ff26b28c2454fcf350b99237b304e20b75eb7733a13bcfbbcbe04f3ee",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_02/Preliminary/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_02/Preliminary/Mathematics/Regular_Solutions.md",
+      "title": "第2届全国大学生数学竞赛数学类初赛试卷参考答案（2010年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 2,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "2da4f4b5872939257811e73ec8ac52b15c7d69b200f6b910c93c3040174a874c",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_02/Preliminary/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_02/Preliminary/Non_Mathematics/Regular_Questions.md",
+      "title": "第2届全国大学生数学竞赛非数学类初赛试卷（2010年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 2,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "5694ae87a0d25924149a4f1fd4b80da0ab6262b1cfbb1b84e4307f18137e17b6",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_02/Preliminary/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_02/Preliminary/Non_Mathematics/Regular_Solutions.md",
+      "title": "第2届全国大学生数学竞赛非数学类初赛试卷参考答案（2010年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 2,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "f38676922c326958509c2d0269491966092685fc220d355c4b14dff36ce1fcd5",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_02/Preliminary/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_03/Final/Mathematics/Regular_Questions.md",
+      "title": "第3届全国大学生数学竞赛数学类决赛试卷（2012年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 3,
+      "stage": "Final",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "b7bf63142dd8634c10be1de195a8e38e1ac843a69859b1c3559c3f740e1b340f",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_03/Final/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_03/Final/Mathematics/Regular_Solutions.md",
+      "title": "第3届全国大学生数学竞赛数学类决赛试卷参考答案（2012年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 3,
+      "stage": "Final",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "36fbeef944bf91df7b7392ad25fb375f1515aab9ae63de2211b4776b30755509",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_03/Final/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_03/Final/Non_Mathematics/Regular_Questions.md",
+      "title": "第3届全国大学生数学竞赛非数学类决赛试卷（2012年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 3,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "96938af691342db433423349232dd2d1cc3f8946948f507bfa60cb432ae29de8",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_03/Final/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_03/Final/Non_Mathematics/Regular_Solutions.md",
+      "title": "第3届全国大学生数学竞赛非数学类决赛试卷参考答案（2012年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 3,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "a179bb92fb5348cbd1e8b1f8126eee745928e7e25c741f4f4f7e0f9be2dec0e0",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_03/Final/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_03/Preliminary/Mathematics/Regular_Questions.md",
+      "title": "第3届全国大学生数学竞赛数学类初赛试卷（2011年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 3,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "29436853696dff54e3470a6bf1f12b78ccd15ce93a39be29c3f70e64298c764d",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_03/Preliminary/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_03/Preliminary/Mathematics/Regular_Solutions.md",
+      "title": "第3届全国大学生数学竞赛数学类初赛试卷参考答案（2011年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 3,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "2d0271b9757433357db3d52209796650bffd8bf3f230ded3f4a2a5dfff624d1d",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_03/Preliminary/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_03/Preliminary/Non_Mathematics/Regular_Questions.md",
+      "title": "第3届全国大学生数学竞赛非数学类初赛试卷（2011年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 3,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "50005baebd2f55788bb1175aef6ba1878f2ead067c03340e22b973adbcb24c91",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_03/Preliminary/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_03/Preliminary/Non_Mathematics/Regular_Solutions.md",
+      "title": "第3届全国大学生数学竞赛非数学类初赛试卷参考答案（2011年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 3,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "3d8efdb473f73c25ed80226da5af86672f38b34158de3c9d60d739dbc83e57a9",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_03/Preliminary/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_04/Final/Mathematics/Regular_Questions.md",
+      "title": "第4届全国大学生数学竞赛数学类决赛试卷（2013年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 4,
+      "stage": "Final",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "5a9de82c5905003e458b29fb68841f074cb7561c42fd7ab15e15daf806e9e39c",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_04/Final/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_04/Final/Mathematics/Regular_Solutions.md",
+      "title": "第4届全国大学生数学竞赛数学类决赛试卷参考答案（2013年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 4,
+      "stage": "Final",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "536fd4be7c4ea13ef9fd411a2fe2d4bc1ecf6737d2ddb10de26cae816bc72bf6",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_04/Final/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_04/Final/Non_Mathematics/Regular_Questions.md",
+      "title": "第4届全国大学生数学竞赛非数学类决赛试卷（2013年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 4,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "d916bcca39ae44b8c557f3a008bc07f49c829027bd4a0f5875b2b09df268d54a",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_04/Final/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_04/Final/Non_Mathematics/Regular_Solutions.md",
+      "title": "第4届全国大学生数学竞赛非数学类决赛试卷参考答案（2013年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 4,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "af62d478ece67dfe3dc19c8888d0c32ff06ad56f13a5a866db7374d7989ee58e",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_04/Final/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_04/Preliminary/Mathematics/Regular_Questions.md",
+      "title": "第4届全国大学生数学竞赛数学类初赛试卷（2012年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 4,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "03_int1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "42cc8bf9e7c313d727ca04922e754dc77766955a6383c41929052c7cd6b1218a",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_04/Preliminary/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_04/Preliminary/Mathematics/Regular_Solutions.md",
+      "title": "第4届全国大学生数学竞赛数学类初赛试卷参考答案（2012年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 4,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "03_int1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "9f422f50816d58ff88dfc7b859eb0535cc588c67d8d0e998aa33ccf207892aa8",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_04/Preliminary/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_04/Preliminary/Non_Mathematics/Regular_Questions.md",
+      "title": "第4届全国大学生数学竞赛非数学类初赛试卷（2012年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 4,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "bbc3493bf59949ed04b8fe26efaf3548df0bd4c17630bb344d898791148b8bf9",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_04/Preliminary/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_04/Preliminary/Non_Mathematics/Regular_Solutions.md",
+      "title": "第4届全国大学生数学竞赛非数学类初赛试卷参考答案（2012年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 4,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "2ac0bde990e2ec182f530a2ab1e0cddd206f4d8571545fa3ec860853fc10a7ea",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_04/Preliminary/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_05/Final/Mathematics_Lower_Grades/Regular_Questions.md",
+      "title": "第5届全国大学生数学竞赛数学类一、二年级决赛试卷（2014年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 5,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "8a382fba70c3e4f59bc02e18a420fb71801187625552101fdb4692c516a93937",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_05/Final/Mathematics_Lower_Grades/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_05/Final/Mathematics_Lower_Grades/Regular_Solutions.md",
+      "title": "第5届全国大学生数学竞赛数学类一、二年级决赛试卷参考答案（2014年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 5,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "0e9f198a6070b22ebbba7319fe675cae48f910d2607b6ecc6a90227004060fe7",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_05/Final/Mathematics_Lower_Grades/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_05/Final/Mathematics_Upper_Grades/Regular_Questions.md",
+      "title": "第5届全国大学生数学竞赛数学类三、四年级决赛试卷（2014年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 5,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "c0d5d1dcd4ad1219642e3dae2ff0359f582b0cf43edbd47f4b7533a568217f3c",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_05/Final/Mathematics_Upper_Grades/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_05/Final/Mathematics_Upper_Grades/Regular_Solutions.md",
+      "title": "第5届全国大学生数学竞赛数学类三、四年级决赛试卷（2014年）参考答案",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 5,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "e348bc8813441afcce52e068417e9c60a9f7a39689c51d62c06c4cceb1d65233",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_05/Final/Mathematics_Upper_Grades/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_05/Final/Non_Mathematics/Regular_Questions.md",
+      "title": "第5届全国大学生数学竞赛非数学类决赛试卷（2014年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 5,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "aaaaa636843d8be7985e340c778337a4f02dd670e08ceed94a9d520806c3ec71",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_05/Final/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_05/Final/Non_Mathematics/Regular_Solutions.md",
+      "title": "第5届全国大学生数学竞赛非数学类决赛试卷参考答案（2014年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 5,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "02_diff1",
+        "03_int1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "3415ff65b0bf5454551fcbc4eebb370f76fb5a43a5fb40f8eba9972da167b491",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_05/Final/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_05/Preliminary/Mathematics/Regular_Questions.md",
+      "title": "第5届全国大学生数学竞赛数学类初赛试卷（2013年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 5,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "625a21940fdf353d0a42b35dd1c5c94bd919424947478d0496769e5d4ca1b57d",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_05/Preliminary/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_05/Preliminary/Mathematics/Regular_Solutions.md",
+      "title": "第5届全国大学生数学竞赛数学类初赛试卷参考答案（2013年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 5,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "4e2f8f19bf793cb383fba5a1dfe56b8a37080f8665ac14634b184238a493d488",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_05/Preliminary/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_05/Preliminary/Non_Mathematics/Regular_Questions.md",
+      "title": "第5届全国大学生数学竞赛非数学类初赛试卷（2013年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 5,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "c87a6afb73c965052b11b07b2e0fe5fd88826608c3a5166b8dc69d7609dfa255",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_05/Preliminary/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_05/Preliminary/Non_Mathematics/Regular_Solutions.md",
+      "title": "第5届全国大学生数学竞赛非数学类初赛试卷参考答案（2013年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 5,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "ff889f3230fb4ec492d6753f9b6d124425fcf8fa81b571cb8b62f8a94ca84b73",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_05/Preliminary/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_06/Final/Mathematics_Lower_Grades/Regular_Questions.md",
+      "title": "第6届全国大学生数学竞赛数学类一、二年级决赛试卷（2015年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 6,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "1a1a0239e825764e453fcee9ce5e27498cc39084ab1c2baca536d402ad6709d2",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_06/Final/Mathematics_Lower_Grades/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_06/Final/Mathematics_Lower_Grades/Regular_Solutions.md",
+      "title": "第6届全国大学生数学竞赛数学类一、二年级决赛试卷参考答案（2015年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 6,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "03_int1",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "888738dd0cb6a471a448fb3e5822f7a53f5392fc1b6f3bd41d6999be18eb22f8",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_06/Final/Mathematics_Lower_Grades/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_06/Final/Mathematics_Upper_Grades/Regular_Questions.md",
+      "title": "第6届全国大学生数学竞赛数学类三、四年级决赛试卷（2015年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 6,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "bac01515b67de1e2424363d333b2b2abce48d7ad44088580c124c2c7b180dd95",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_06/Final/Mathematics_Upper_Grades/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_06/Final/Mathematics_Upper_Grades/Regular_Solutions.md",
+      "title": "第6届全国大学生数学竞赛数学类三、四年级决赛试卷参考答案（2015年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 6,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "8b3aa3a9d82c5af90027e97c07ac010fb8118f303496f10099ea53f146c711c4",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_06/Final/Mathematics_Upper_Grades/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_06/Final/Non_Mathematics/Regular_Questions.md",
+      "title": "第6届全国大学生数学竞赛非数学类决赛试卷（2015年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 6,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "4b33f3087215b4873245eee18444e5c9ae5b6413313bbe09c5a7df52698234be",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_06/Final/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_06/Final/Non_Mathematics/Regular_Solutions.md",
+      "title": "第6届全国大学生数学竞赛非数学类决赛试卷参考答案（2015年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 6,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "e94716245453915874c9979ff8b1028c67d78360454b1338770ec9f8e7c960a6",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_06/Final/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_06/Preliminary/Mathematics/Regular_Questions.md",
+      "title": "第6届全国大学生数学竞赛数学类初赛试卷（2014年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 6,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "unclassified"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "needs_review",
+      "topic_spans": [],
+      "source_sha256": "b596b4e8829d852795bbe5e66465f96c6b66b4f3e4a6a1770e8dfd73cc468d77",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_06/Preliminary/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_06/Preliminary/Mathematics/Regular_Solutions.md",
+      "title": "第6届全国大学生数学竞赛数学类初赛试卷参考答案（2014年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 6,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "328f2d90adbdf1bc2af650945d87b0d623124938fc2cfc033c2aeab61197d5ec",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_06/Preliminary/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_06/Preliminary/Non_Mathematics/Regular_Questions.md",
+      "title": "第6届全国大学生数学竞赛非数学类初赛试卷（2014年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 6,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "b78d51dd81fef6c50c0260a59cf92c1c8e79aaafcffaaba0cc586a3f2d6e4073",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_06/Preliminary/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_06/Preliminary/Non_Mathematics/Regular_Solutions.md",
+      "title": "第6届全国大学生数学竞赛非数学类初赛试卷参考答案（2014年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 6,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "26a2d6a2d957150568a8c6d95015c5897353cafde5d86e9cec68501ee98017e0",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_06/Preliminary/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_07/Final/Mathematics_Lower_Grades/Regular_Questions.md",
+      "title": "第7届全国大学生数学竞赛数学类一、二年级决赛试卷（2016年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 7,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "1d8d5d04fcae0c61de452079b908ff4e6b2c6fce1440be3a9dd4af8fcbaa33cd",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_07/Final/Mathematics_Lower_Grades/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_07/Final/Mathematics_Lower_Grades/Regular_Solutions.md",
+      "title": "第7届全国大学生数学竞赛数学类一、二年级决赛试卷参考答案（2016年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 7,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "unclassified"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "needs_review",
+      "topic_spans": [],
+      "source_sha256": "756489b9569e350f7913ff01f0edf403160c974f58d4173859b1162510fd9e9d",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_07/Final/Mathematics_Lower_Grades/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_07/Final/Mathematics_Upper_Grades/Regular_Questions.md",
+      "title": "第7届全国大学生数学竞赛数学类三、四年级决赛试卷（2016年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 7,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "03_int1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "3fac90ecfd1961ba673b8c06c726745d7034cf682ea5f3e46291d3e673c31e59",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_07/Final/Mathematics_Upper_Grades/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_07/Final/Mathematics_Upper_Grades/Regular_Solutions.md",
+      "title": "第7届全国大学生数学竞赛数学类三、四年级决赛试卷参考答案（2016年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 7,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "03_int1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "668a12a3002729ef4e1ae29c70859f5d9569641a8c2d4f266e87410bba2adeb5",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_07/Final/Mathematics_Upper_Grades/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_07/Final/Non_Mathematics/Regular_Questions.md",
+      "title": "第7届全国大学生数学竞赛非数学类决赛试卷（2016年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 7,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "5bf5d761096a8589b6df0546dd60b9cd8524fcb95cd4c877c5b088d25f8889f5",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_07/Final/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_07/Final/Non_Mathematics/Regular_Solutions.md",
+      "title": "第7届全国大学生数学竞赛非数学类决赛试卷参考答案（2016年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 7,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "0a8528ffd52dcaaef7061c325da8e80856ecd970925ad1354108d4d0151af6b1",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_07/Final/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_07/Preliminary/Mathematics/Regular_Questions.md",
+      "title": "第7届全国大学生数学竞赛数学类初赛试卷（2015年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 7,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "51f67efaa7cf58d5d448f6ec638a170214199f99dfb55b760959359531cc0b04",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_07/Preliminary/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_07/Preliminary/Mathematics/Regular_Solutions.md",
+      "title": "第7届全国大学生数学竞赛数学类初赛试卷参考答案（2015年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 7,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "9f282a858a08228b9faa7f868544735143f7b903f618cb88eb7e75fdb8b0ad29",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_07/Preliminary/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_07/Preliminary/Non_Mathematics/Regular_Questions.md",
+      "title": "第7届全国大学生数学竞赛非数学类初赛试卷（2015年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 7,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "7a22ab4a0e7cb766d4b4a5b30d7427eea0fe623d08b45a306f1b2bede8d12100",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_07/Preliminary/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_07/Preliminary/Non_Mathematics/Regular_Solutions.md",
+      "title": "第7届全国大学生数学竞赛非数学类初赛试卷参考答案（2015年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 7,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "0c009561f23dd372c4713cdb00eeff904f68ed9d36a24e11dab936e086074791",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_07/Preliminary/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_08/Final/Mathematics_Lower_Grades/Regular_Questions.md",
+      "title": "第8届全国大学生数学竞赛数学类一、二年级决赛试卷（2017年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 8,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "03_int1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "79c266f5079ea9a051788057ea690dc1774cf033cf5a59d461b51e1e0a97c8b0",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_08/Final/Mathematics_Lower_Grades/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_08/Final/Mathematics_Lower_Grades/Regular_Solutions.md",
+      "title": "第8届全国大学生数学竞赛数学类一、二年级决赛试卷参考答案（2017年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 8,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "c1b5d00d24cfec46c3a984c8effbe63720b8e42389f3a3577f823882e20e8a2e",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_08/Final/Mathematics_Lower_Grades/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_08/Final/Mathematics_Upper_Grades/Regular_Questions.md",
+      "title": "第8届全国大学生数学竞赛数学类三、四年级决赛试卷（2017年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 8,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "03_int1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "c8b19e40723df27316b7726d09142fd5f7f2a29a6fb4f85144077959b11fd210",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_08/Final/Mathematics_Upper_Grades/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_08/Final/Mathematics_Upper_Grades/Regular_Solutions.md",
+      "title": "第8届全国大学生数学竞赛数学类三、四年级决赛试卷参考答案（2017年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 8,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "02_diff1",
+        "03_int1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "d09ea5bfda5c724dc43919ea68d6692006c0867957d58c790149cd7e9b5ab37a",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_08/Final/Mathematics_Upper_Grades/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_08/Final/Non_Mathematics/Regular_Questions.md",
+      "title": "第8届全国大学生数学竞赛非数学类决赛试卷（2017年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 8,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "fda9e77d854dc55c7eea3c957dfe383dc56dc4be3401c02a7c425c875a7b065c",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_08/Final/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_08/Final/Non_Mathematics/Regular_Solutions.md",
+      "title": "第8届全国大学生数学竞赛非数学类决赛试卷参考答案（2017年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 8,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "8289754c8847a1e59dd48781ce0631bfa3d59c426f466dcd9e863bc0b7deeaec",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_08/Final/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_08/Preliminary/Mathematics/Regular_Questions.md",
+      "title": "第8届全国大学生数学竞赛数学类初赛试卷（2016年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 8,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "24e7513f643dc5874208fddedf1ce320aeed1324510b7f43597015f5937aaab5",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_08/Preliminary/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_08/Preliminary/Mathematics/Regular_Solutions.md",
+      "title": "第8届全国大学生数学竞赛数学类初赛试卷参考答案（2016年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 8,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "da1984c0966b49b12ec25eb41c2005e29cf23e7256255873918a4c96837db5d0",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_08/Preliminary/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_08/Preliminary/Non_Mathematics/Regular_Questions.md",
+      "title": "第8届全国大学生数学竞赛非数学类初赛试卷（2016年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 8,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "a0e3b5d0fbd1792219563c0df6286c554cb435223af531f371dca1a8dfb47f83",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_08/Preliminary/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_08/Preliminary/Non_Mathematics/Regular_Solutions.md",
+      "title": "第8届全国大学生数学竞赛非数学类初赛试卷参考答案（2016年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 8,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "f3dd57b1bc10febf8fc58687e89fe65d4e21d9b097a3043a0b2135936b09f4ef",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_08/Preliminary/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_09/Final/Mathematics_Lower_Grades/Regular_Questions.md",
+      "title": "第9届全国大学生数学竞赛数学类一、二年级决赛试卷（2018年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 9,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "bc576dc6dd3dafd4970dac7fdc51e86d6c9472d4e503f70a7c16e91f835f41f9",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_09/Final/Mathematics_Lower_Grades/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_09/Final/Mathematics_Lower_Grades/Regular_Solutions.md",
+      "title": "第9届全国大学生数学竞赛数学类一、二年级决赛试卷参考答案（2018年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 9,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "02_diff1",
+        "03_int1",
+        "04_diffn"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "208c1025e853e04b14e1ecb5f4ae491f0a1b61ebdcc6123b73d10fcd7c8d3f9b",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_09/Final/Mathematics_Lower_Grades/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_09/Final/Mathematics_Upper_Grades/Regular_Questions.md",
+      "title": "第9届全国大学生数学竞赛数学类三、四年级决赛试卷（2018年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 9,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "04_diffn",
+        "05_intn"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "a0a0d673e3996912c67d18666ba5ed2b3a69b34d00847f73f7de0d112c68d401",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_09/Final/Mathematics_Upper_Grades/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_09/Final/Mathematics_Upper_Grades/Regular_Solutions.md",
+      "title": "第9届全国大学生数学竞赛数学类三、四年级决赛试卷参考答案（2018年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 9,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "abb15d5af1f82295665fe478797e2e2053bbeab6665a261dc8fbff8a6c992fda",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_09/Final/Mathematics_Upper_Grades/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_09/Final/Non_Mathematics/Regular_Questions.md",
+      "title": "第9届全国大学生数学竞赛非数学类决赛试卷（2018年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 9,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "2f11be4ebe5235db113460cd0e101e4a724cc0607553f9faf6e19214a2951ff3",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_09/Final/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_09/Final/Non_Mathematics/Regular_Solutions.md",
+      "title": "第9届全国大学生数学竞赛非数学类决赛试卷参考答案（2018年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 9,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "9a3ddcb3fec3e3c4c5de5dcd5682cb231ec47915bfd4aec1b8015f988bec8430",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_09/Final/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_09/Preliminary/Mathematics/Regular_Questions.md",
+      "title": "第9届全国大学生数学竞赛数学类初赛试卷（2017年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 9,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "2ac10baa1401cd4898371a66a4624be3b7e472265863efceeac9df9e1e7cc023",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_09/Preliminary/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_09/Preliminary/Mathematics/Regular_Solutions.md",
+      "title": "第9届全国大学生数学竞赛数学类初赛试卷参考答案（2017年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 9,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "03_int1",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "7d58f3e029f89921b612f0b98a113509c8b278841ccd5dd4724916c3aae1a203",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_09/Preliminary/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_09/Preliminary/Non_Mathematics/Regular_Questions.md",
+      "title": "第9届全国大学生数学竞赛非数学类初赛试卷（2017年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 9,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "73965e8454360464ff90479d80bc4ee73948522e3406bb803a8388e6e8b385c9",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_09/Preliminary/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_09/Preliminary/Non_Mathematics/Regular_Solutions.md",
+      "title": "第9届全国大学生数学竞赛非数学类初赛试卷参考答案（2017年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 9,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "82e09b207c41f9817287aba411788c36aae564f0f3db2dbcf15b792ce8adbd79",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_09/Preliminary/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_10/Final/Mathematics_Lower_Grades/Regular_Questions.md",
+      "title": "第10届全国大学生数学竞赛数学类一、二年级决赛试卷（2019年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 10,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "unclassified"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "needs_review",
+      "topic_spans": [],
+      "source_sha256": "ab83aeab784a1b9392cae4cd0cc63e31cc1d13a8d3fd74989e8542070671db02",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_10/Final/Mathematics_Lower_Grades/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_10/Final/Mathematics_Lower_Grades/Regular_Solutions.md",
+      "title": "第10届全国大学生数学竞赛数学类一、二年级决赛试卷参考答案（2019年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 10,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "e9baaa639be71181a745fa7877e152e6dcbdaf32f137ecc4c87e2852eddca127",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_10/Final/Mathematics_Lower_Grades/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_10/Final/Mathematics_Upper_Grades/Regular_Questions.md",
+      "title": "第10届全国大学生数学竞赛数学类三、四年级决赛试卷（2019年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 10,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "04_diffn"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "e4e15a9ed1e95513cd0e6166b3a5bbac8713cc2611564208650d6dc7b8d82c9b",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_10/Final/Mathematics_Upper_Grades/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_10/Final/Mathematics_Upper_Grades/Regular_Solutions.md",
+      "title": "第10届全国大学生数学竞赛数学类三、四年级决赛试卷参考答案（2019年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 10,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "04_diffn"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "cce196d228f7b7ed480aa66ebc471f7d637af6155431d046165d59851ce9305f",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_10/Final/Mathematics_Upper_Grades/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_10/Final/Non_Mathematics/Regular_Questions.md",
+      "title": "第10届全国大学生数学竞赛非数学类决赛试卷（2019年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 10,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "33852d948f67a4111df9e7ad9e3fb2bffcd825ed8bb8004aa9c4dc6a64683099",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_10/Final/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_10/Final/Non_Mathematics/Regular_Solutions.md",
+      "title": "第10届全国大学生数学竞赛非数学类决赛试卷参考答案（2019年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 10,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "3696bf445669c7b3701675e1e36ff5dff790b371d5fb64139883a5b9168a81be",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_10/Final/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_10/Preliminary/Mathematics/Regular_Questions.md",
+      "title": "第10届全国大学生数学竞赛数学类初赛试卷（2018年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 10,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "8789a851c8ef00c6f82a61dab174a3ea5d9cbdb8e4f33ab8aa1d0b88c61404cd",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_10/Preliminary/Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_10/Preliminary/Mathematics/Regular_Solutions.md",
+      "title": "第10届全国大学生数学竞赛数学类初赛试卷（2018年）参考答案",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 10,
+      "stage": "Preliminary",
+      "category": "Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "526eb92ddf5bf5a7543589d5e016a045dfdf31ce31855f0fb9e69151edb0a5c8",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_10/Preliminary/Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_10/Preliminary/Non_Mathematics/Regular_Questions.md",
+      "title": "第10届全国大学生数学竞赛非数学类初赛试卷（2018年）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 10,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "08825ff998aeab513de89dc4e8690f3f7f86f40a701a5273daba8a9d1f802770",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_10/Preliminary/Non_Mathematics/Regular_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_10/Preliminary/Non_Mathematics/Regular_Solutions.md",
+      "title": "第10届全国大学生数学竞赛非数学类初赛试卷参考答案（2018年）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 10,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "a08767f5c2ff9e5026d18a303e9717c98699cf4ce7ae2c152f80282514a03c9a",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_10/Preliminary/Non_Mathematics/Regular_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_11/Final/Mathematics_Lower_Grades/Regular_Questions_and_Solutions.md",
+      "title": "第十一届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 11,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "e809594df04cb2b74b1fec0e5c768956f82045e4dc06bf959f8bff352e5fc415",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_11/Final/Mathematics_Upper_Grades/Regular_Questions_and_Solutions.md",
+      "title": "第十一届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 11,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "4ba11e342e6674e5ea6fb8e78fb61177f9d973101a6b0243acb9b961c95568e3",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_11/Final/Non_Mathematics/Regular_Questions_and_Solutions.md",
+      "title": "第十一届全国大学生数学竞赛决赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 11,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "7bba69f84f796679ee396f9530e07428b0e29a5df59c797695d45849b4c80061",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_11/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md",
+      "title": "第十一届全国大学生数学竞赛初赛试题及参考答案（数学A类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 11,
+      "stage": "Preliminary",
+      "category": "Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "c0d05bf11f41c72cce46814c5de6ca0fcb3cecc47b54464db339b7293eff3c67",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_11/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md",
+      "title": "第十一届全国大学生数学竞赛初赛试题及参考答案（数学B类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 11,
+      "stage": "Preliminary",
+      "category": "Mathematics_B",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "4ad7819315435bbee65698c7fa9f9c4a93bb5b94ca5579560612e39e3e1aaa1a",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_11/Preliminary/Non_Mathematics/Regular_Questions_and_Solutions.md",
+      "title": "第十一届全国大学生数学竞赛初赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 11,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "unclassified"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "needs_review",
+      "topic_spans": [],
+      "source_sha256": "916db81c642b27fe27a30d3aa0b91b89c55e6784f816fbd7655085cc263d8403",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_12/Final/Mathematics_Lower_Grades/Regular_Questions_and_Solutions.md",
+      "title": "第十二届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 12,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "ce802dee69903c653978cf36b45a68b11ad92001f0b8359c2eb86b03f3f6e93c",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_12/Final/Mathematics_Upper_Grades/Regular_Questions_and_Solutions.md",
+      "title": "第十二届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 12,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "a2e30af1ed1a86046404586f6cb4765b3f795ce487503a9dc7859486e56ddc7f",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_12/Final/Non_Mathematics/Regular_Questions_and_Solutions.md",
+      "title": "第十二届全国大学生数学竞赛决赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 12,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "1247b5ccd808e447134457f251ce15a2479942c79a06ad17f1444003ca847380",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_12/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md",
+      "title": "第十二届全国大学生数学竞赛初赛试题及参考答案（数学A类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 12,
+      "stage": "Preliminary",
+      "category": "Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "3c0c26519f8601b90a82947cc056f670495e7a83969020ee94cec99c0d81236b",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_12/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md",
+      "title": "第十二届全国大学生数学竞赛初赛试题及参考答案（数学B类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 12,
+      "stage": "Preliminary",
+      "category": "Mathematics_B",
+      "session": "Regular",
+      "modules": [
+        "01_limit"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "faab6225ae30cb9d92ec4de70631a9790294fce57349894528011abf5dfc0c8e",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_12/Preliminary/Non_Mathematics/Regular_Questions_and_Solutions.md",
+      "title": "第十二届全国大学生数学竞赛初赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 12,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "62b03db9fefcecfd9a4cb16cce2b9bdecdaefe669f8042f0207c76b50266f85a",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_13/Final/Mathematics_Lower_Grades/Regular_Questions_and_Solutions.md",
+      "title": "第十三届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 13,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "6566816d66886af9558af458a6cad25dc981410a385f17b77162f0b2aca32f7d",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_13/Final/Mathematics_Upper_Grades/Regular_Questions_and_Solutions.md",
+      "title": "第十三届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 13,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "03_int1",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "56ea94c9b54470138746270fd02c55e8b60c03479415bac38588250fd86fbaaf",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_13/Final/Non_Mathematics/Regular_Questions_and_Solutions.md",
+      "title": "第十三届全国大学生数学竞赛决赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 13,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "b34271585535a8b5c76f5f66df74500d8b27df13b33ac9536e5622d9ab76c75a",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_13/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md",
+      "title": "第十三届全国大学生数学竞赛初赛试题及参考答案（数学A类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 13,
+      "stage": "Preliminary",
+      "category": "Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "05_intn"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "aea5d4d3c868856af76d0dd0de1139336e7d839588c350343a19aec1aec4c821",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_13/Preliminary/Mathematics_A/Supplementary_Questions_and_Solutions.md",
+      "title": "第十三届全国大学生数学竞赛初赛（数学A类）补赛试题及参考答案",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 13,
+      "stage": "Preliminary",
+      "category": "Mathematics_A",
+      "session": "Supplementary",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "fddad41e91f5013a950a896c4e2baedc3aaf32b43ba7e9723414a34ee4ac09b3",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_13/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md",
+      "title": "第十三届全国大学生数学竞赛初赛试题及参考答案（数学B类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 13,
+      "stage": "Preliminary",
+      "category": "Mathematics_B",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "69e82263e79a192234687402e68f170c39e632acba13afc2e663e5693bf41664",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_13/Preliminary/Mathematics_B/Supplementary_Questions_and_Solutions.md",
+      "title": "第十三届全国大学生数学竞赛初赛（数学B类）补赛试题及参考答案",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 13,
+      "stage": "Preliminary",
+      "category": "Mathematics_B",
+      "session": "Supplementary",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "fde64ba5e0532a4712773a5d6739ae1c3b964eb36feb0012dbb9aedc77b9d560",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_13/Preliminary/Non_Mathematics/Regular_Questions_and_Solutions.md",
+      "title": "第十三届全国大学生数学竞赛初赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 13,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "b9dd9d9b6023e835425ab6586196d1e570525c8ea02037038deec9a94acbc219",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_13/Preliminary/Non_Mathematics/Supplementary_Questions_and_Solutions.md",
+      "title": "第十三届全国大学生数学竞赛初赛（非数学类）补赛试题及参考答案",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 13,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Supplementary",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "221956c33430250a6ddbd3bf6d2b8e0b006178c64a1260c54d04e285778fe357",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_14/Final/Mathematics_Lower_Grades/Regular_Questions_and_Solutions.md",
+      "title": "第十四届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 14,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "cf2f15b8acaac68bc966695b0771f3d5dffd64bbbf5812bb91a9397c0b4c32b1",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_14/Final/Mathematics_Upper_Grades/Regular_Questions_and_Solutions.md",
+      "title": "第十四届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 14,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "929f9c1c321007eddd9d522280dabaf4c33e425b0d959d93a4eb9d7c9869c803",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_14/Final/Non_Mathematics/Regular_Questions_and_Solutions.md",
+      "title": "第十四届全国大学生数学竞赛决赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 14,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "282bf174cb22126b011c727f480d545f3102b795982054e92dc12404d875f55f",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_14/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md",
+      "title": "第十四届全国大学生数学竞赛初赛试题及参考答案（数学A类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 14,
+      "stage": "Preliminary",
+      "category": "Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "ae5cc6c59a8b6438947cd9c54f7f95e122d1d216893ac8b0daf5fa4ea661b8ef",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_14/Preliminary/Mathematics_A/Supplementary_2_Questions_and_Solutions.md",
+      "title": "第十四届全国大学生数学竞赛初赛补赛2A试题及参考答案（数学A类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 14,
+      "stage": "Preliminary",
+      "category": "Mathematics_A",
+      "session": "Supplementary_2",
+      "modules": [
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "783d910f48530787f4903ef2be847f1eecabf842a8da3976a8bb84526314c8c2",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_14/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md",
+      "title": "第十四届全国大学生数学竞赛初赛试题及参考答案（数学B类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 14,
+      "stage": "Preliminary",
+      "category": "Mathematics_B",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "03_int1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "f57a71b0a377d0cb6a9238c4cc3a18a77daf3dfd96cfe2ae0d84d49c3e065f77",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_14/Preliminary/Mathematics_B/Supplementary_2_Questions_and_Solutions.md",
+      "title": "第十四届全国大学生数学竞赛初赛补赛2B试题及参考答案（数学B类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 14,
+      "stage": "Preliminary",
+      "category": "Mathematics_B",
+      "session": "Supplementary_2",
+      "modules": [
+        "01_limit",
+        "04_diffn"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "c7ec9b3422f33d0d5f0a65f9bd5e254e5c69562623d6e4f3395ef2a710f4ae81",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_14/Preliminary/Non_Mathematics/Regular_Questions_and_Solutions.md",
+      "title": "第十四届全国大学生数学竞赛初赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 14,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "4667d140dac2398dd94e21e28c3f2e5a70dde7d627dc73cce76432bdd6189657",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_14/Preliminary/Non_Mathematics/Supplementary_2_Questions_and_Solutions.md",
+      "title": "第十四届全国大学生数学竞赛初赛补赛2试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 14,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Supplementary_2",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "17f90b982f0e6ee59af9ae9f742696f6669dcafad71fabe1e19f406eb1506ecd",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_15/Final/Mathematics_Lower_Grades/Regular_Questions_and_Solutions.md",
+      "title": "第十五届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 15,
+      "stage": "Final",
+      "category": "Mathematics_Lower_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "bc7f5cf90eba928d91b8069b0fe82cf1b63bc43657cce45444b6da964ca75bee",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_15/Final/Mathematics_Upper_Grades/Regular_Questions_and_Solutions.md",
+      "title": "第十五届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 15,
+      "stage": "Final",
+      "category": "Mathematics_Upper_Grades",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "c1a614435c83c79ac0682167b2c5fb318efee8b9672f2dce1749a02ed5dc5274",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_15/Final/Non_Mathematics/Regular_Questions_and_Solutions.md",
+      "title": "第十五届全国大学生数学竞赛决赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 15,
+      "stage": "Final",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "4df81b071535353b00b0221eaeddfc7cd4888bff36ba0170179d2055a98db988",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_15/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md",
+      "title": "第十五届全国大学生数学竞赛初赛试题及参考答案（数学A类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 15,
+      "stage": "Preliminary",
+      "category": "Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "d733d49cdfb57955973ae3c00d4599f2ab695ecaae9386f32d318ea819bc278d",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_15/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md",
+      "title": "第十五届全国大学生数学竞赛初赛试题及参考答案（数学B类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 15,
+      "stage": "Preliminary",
+      "category": "Mathematics_B",
+      "session": "Regular",
+      "modules": [
+        "01_limit"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "9c5c85127c3021675055b6b00a2e1dd8df1c24d58a4d80e4e921d9711e905581",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_15/Preliminary/Non_Mathematics_A/Regular_Questions_and_Solutions.md",
+      "title": "第十五届全国大学生数学竞赛初赛试题及参考答案（非数学A类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 15,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "8bd2ae018925aee303e160336dafc09c63d0451694b7588bed8cdc08e0d4396a",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_15/Preliminary/Non_Mathematics_B/Regular_Questions_and_Solutions.md",
+      "title": "第十五届全国大学生数学竞赛初赛试题及参考答案（非数学B类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 15,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics_B",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "f0985e7c4938c367ae5fbee2856a1ce30811e20939c666f250e46eae65ccd116",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_16/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md",
+      "title": "第十六届全国大学生数学竞赛初赛（数学A类）试题及答案解析",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 16,
+      "stage": "Preliminary",
+      "category": "Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "c9ff44ee1851c287372e85894dbe339aa300d291222e2b2bb22de02683853bc6",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_16/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md",
+      "title": "第十六届全国大学生数学竞赛初赛（数学B类）试题及答案解析",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 16,
+      "stage": "Preliminary",
+      "category": "Mathematics_B",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "0bd411ed4410a9cb71b35c092d29aa67075c0a1cc8152cfd2685846cb74bf8e7",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_16/Preliminary/Non_Mathematics_A/Regular_Questions_and_Solutions.md",
+      "title": "第十六届全国大学生数学竞赛初赛（非数学A类）试题及答案解析",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 16,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "5576b27120afa69e9b1f8e88de4583cb751de6090bb951d6d48465ea5fe124a2",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_16/Preliminary/Non_Mathematics_B/Regular_Questions_and_Solutions.md",
+      "title": "第十六届全国大学生数学竞赛初赛（非数学B类）试题及答案解析",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 16,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics_B",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "54ae591aae7ffda861dd728a752d8a549a4337eaa335d14489331a150eef990d",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_17/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md",
+      "title": "第十七届全国大学生数学竞赛初赛试题及参考答案（数学A类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 17,
+      "stage": "Preliminary",
+      "category": "Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "64f9f671c579dd9bb70321495ce2a30e549feb9c4aaf41ef24927d213bc0da81",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_17/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md",
+      "title": "第十七届全国大学生数学竞赛初赛试题及参考答案（数学B类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 17,
+      "stage": "Preliminary",
+      "category": "Mathematics_B",
+      "session": "Regular",
+      "modules": [
+        "01_limit"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "c54100385d331372867d8702362df22afb38b08cb810820d0942f955476c572b",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_17/Preliminary/Non_Mathematics_A/Regular_Questions_and_Solutions.md",
+      "title": "第十七届全国大学生数学竞赛初赛试题及参考答案（非数学A类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 17,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "a98e024c7b7206e21f3dd272c2f5dd5369abe91ae33d78d234e60251807dc7e0",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_17/Preliminary/Non_Mathematics_B/Regular_Questions_and_Solutions.md",
+      "title": "第十七届全国大学生数学竞赛初赛试题及参考答案（非数学B类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 17,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics_B",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "f0160af1310ab23564addd761ae62b7d71140012b6e909a88fc23087765e33ba",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_01/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md",
+      "title": "第 1 届（2009）非数学类初赛 · 官方参考解答",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 1,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "二",
+          "lines": [
+            71,
+            84
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            85,
+            98
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            99,
+            130
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            131,
+            146
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            147,
+            160
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "七",
+          "lines": [
+            161,
+            178
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "八",
+          "lines": [
+            179,
+            185
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "dde0cd9c5d0b5a7ef41bd8a5902ccd013294e92a2380c0c411087b691f4bd984",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_01/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_01/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md",
+      "title": "2009 年第一届全国大学生数学竞赛初赛试卷（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 1,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一",
+          "lines": [
+            26,
+            27
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "一(1)",
+          "lines": [
+            28,
+            29
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(2)",
+          "lines": [
+            30,
+            31
+          ],
+          "modules": [
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(3)",
+          "lines": [
+            32,
+            33
+          ],
+          "modules": [
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(4)",
+          "lines": [
+            34,
+            37
+          ],
+          "modules": [
+            "02_diff1",
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "二",
+          "lines": [
+            38,
+            45
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            46,
+            51
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            52,
+            61
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            62,
+            67
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            68,
+            73
+          ],
+          "modules": [
+            "03_int1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "七",
+          "lines": [
+            74,
+            79
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "八",
+          "lines": [
+            80,
+            85
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "66e17e68ff9a360c6d2c2ae412372cd8d6cf17bb1582c47f94fa4ac39bad893f",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_01/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_02/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md",
+      "title": "第2届（2010）非数学类初赛 · 官方参考解答",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 2,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "二",
+          "lines": [
+            79,
+            102
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            103,
+            136
+          ],
+          "modules": [
+            "02_diff1",
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            137,
+            154
+          ],
+          "modules": [
+            "02_diff1",
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            155,
+            198
+          ],
+          "modules": [
+            "04_diffn",
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            199,
+            222
+          ],
+          "modules": [
+            "04_diffn",
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "f9821b382f4ef5982dc128c234f02ea21f0142f00beed291f367034d370b0533",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_02/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_02/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md",
+      "title": "2010 年第二届全国大学生数学竞赛初赛试卷（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 2,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一",
+          "lines": [
+            26,
+            39
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1",
+            "04_diffn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "二",
+          "lines": [
+            40,
+            47
+          ],
+          "modules": [
+            "02_diff1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            48,
+            53
+          ],
+          "modules": [
+            "02_diff1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            54,
+            63
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            64,
+            75
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            76,
+            89
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1",
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "7b925f4aa39798bca0f751a6799c49028ec7116dcb5e5813f6d2a11bfc15cc9f",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_02/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_03/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md",
+      "title": "第3届（2011）非数学类初赛 · 官方参考解答",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 3,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "二",
+          "lines": [
+            55,
+            75
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            76,
+            89
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            90,
+            99
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            100,
+            110
+          ],
+          "modules": [
+            "02_diff1",
+            "04_diffn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            111,
+            115
+          ],
+          "modules": [
+            "03_int1"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "09084ad921e1fa8f8bf4e465af1f944bfa0ee5d186c77cbb61dfd097dccfaba3",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_03/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_03/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md",
+      "title": "2011 年第三届全国大学生数学竞赛初赛试卷（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 3,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一",
+          "lines": [
+            24,
+            35
+          ],
+          "modules": [
+            "01_limit",
+            "05_intn",
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "二",
+          "lines": [
+            36,
+            44
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            45,
+            50
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            51,
+            56
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            57,
+            63
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1",
+            "04_diffn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            64,
+            72
+          ],
+          "modules": [
+            "01_limit",
+            "03_int1",
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "0a51841132073708cc140da2ed580d0161bf9798b2959b3a5da1c8dc64207f14",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_03/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_04/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md",
+      "title": "第4届（2012）非数学类初赛 · 官方参考解答",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 4,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "二",
+          "lines": [
+            77,
+            100
+          ],
+          "modules": [
+            "01_limit",
+            "03_int1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            101,
+            114
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            115,
+            134
+          ],
+          "modules": [
+            "02_diff1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            135,
+            144
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            145,
+            192
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "七",
+          "lines": [
+            193,
+            209
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "a21979ed1163a1d97595203ce6329bdeb317c706f902da8905c30a5daa3da499",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_04/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_04/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md",
+      "title": "2012 年第四届全国大学生数学竞赛初赛试卷（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 4,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一",
+          "lines": [
+            24,
+            40
+          ],
+          "modules": [
+            "01_limit",
+            "04_diffn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "二",
+          "lines": [
+            41,
+            46
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            47,
+            52
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            53,
+            60
+          ],
+          "modules": [
+            "02_diff1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            61,
+            67
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            68,
+            75
+          ],
+          "modules": [
+            "01_limit",
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "七",
+          "lines": [
+            76,
+            85
+          ],
+          "modules": [
+            "01_limit",
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "4f629ffe26b3e1643d0b5d5589ee97c746f27a1c19f8828fa32ca802e8aac1f5",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_04/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_05/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md",
+      "title": "第五届（2013）非数学类初赛 · 官方参考解答",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 5,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "04_diffn",
+        "05_intn"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "二",
+          "lines": [
+            65,
+            78
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            79,
+            92
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            93,
+            102
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            103,
+            117
+          ],
+          "modules": [
+            "04_diffn",
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            118,
+            137
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "七",
+          "lines": [
+            138,
+            156
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "fe1e18a9c9df26c59a3d979c9d8a925e6d1767dd2a8b2378fdffa8f698ac1923",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_05/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_05/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md",
+      "title": "2013 年第五届全国大学生数学竞赛初赛试卷（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 5,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一",
+          "lines": [
+            24,
+            35
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1",
+            "03_int1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "二",
+          "lines": [
+            36,
+            41
+          ],
+          "modules": [
+            "03_int1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            42,
+            49
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1",
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            50,
+            55
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            56,
+            63
+          ],
+          "modules": [
+            "03_int1",
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            64,
+            69
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "七",
+          "lines": [
+            70,
+            77
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "00da783914e3d7495e22713c57c60aef0052f4a920bd749a5c45c40f4cc9edb5",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_05/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_06/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md",
+      "title": "第六届（2014）非数学类初赛 · 官方参考解答",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 6,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "05_intn"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "二",
+          "lines": [
+            85,
+            100
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            101,
+            130
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            131,
+            168
+          ],
+          "modules": [
+            "03_int1",
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            169,
+            204
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            205,
+            229
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "5cde88e6f135afa256c155a3cd059d09b0c641eb9511d91fd68fcaff9156ca5c",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_06/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_06/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md",
+      "title": "2014 年第六届全国大学生数学竞赛初赛试卷（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 6,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一",
+          "lines": [
+            26,
+            27
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "一(1)",
+          "lines": [
+            28,
+            29
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(2)",
+          "lines": [
+            30,
+            31
+          ],
+          "modules": [
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(3)",
+          "lines": [
+            32,
+            33
+          ],
+          "modules": [
+            "02_diff1",
+            "03_int1",
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(4)",
+          "lines": [
+            34,
+            35
+          ],
+          "modules": [
+            "01_limit",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(5)",
+          "lines": [
+            36,
+            39
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "二",
+          "lines": [
+            40,
+            46
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            47,
+            55
+          ],
+          "modules": [
+            "02_diff1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            56,
+            66
+          ],
+          "modules": [
+            "03_int1",
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            67,
+            74
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            75,
+            82
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "b0857bc2149d91886ebc70cde058c79b817a56ca2dd13329bfe10c2b652b918b",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_06/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_07/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md",
+      "title": "第07届（2015）非数学类初赛 · 参考答案",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 7,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "二",
+          "lines": [
+            70,
+            81
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            82,
+            102
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            103,
+            130
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            131,
+            148
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            149,
+            163
+          ],
+          "modules": [
+            "04_diffn",
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "c73a15f0529575344864849e95729e867a59e02dce574769af9977bd3f757a80",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_07/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_07/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md",
+      "title": "2015 年第七届全国大学生数学竞赛初赛（非数学类）试卷",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 7,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一",
+          "lines": [
+            26,
+            27
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "一(1)",
+          "lines": [
+            28,
+            31
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(2)",
+          "lines": [
+            32,
+            33
+          ],
+          "modules": [
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(3)",
+          "lines": [
+            34,
+            35
+          ],
+          "modules": [
+            "04_diffn",
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(4)",
+          "lines": [
+            36,
+            37
+          ],
+          "modules": [
+            "01_limit",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(5)",
+          "lines": [
+            38,
+            41
+          ],
+          "modules": [
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "二",
+          "lines": [
+            42,
+            47
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            48,
+            55
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            56,
+            61
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            62,
+            71
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            72,
+            80
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1",
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "946525ce73c612a419c22086435b56310a280c95ded191ef6c4e842866043d34",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_07/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_08/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md",
+      "title": "第八届（2016）非数学类初赛 · 官方参考解答",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 8,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "02_diff1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "二",
+          "lines": [
+            76,
+            91
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            92,
+            121
+          ],
+          "modules": [
+            "04_diffn",
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            122,
+            149
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            150,
+            167
+          ],
+          "modules": [
+            "02_diff1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            168,
+            206
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "533a1a0708b5c50801faba7ab03785d8c080c68f415b4a41ee8335e2f218f971",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_08/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_08/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md",
+      "title": "2016 年第八届全国大学生数学竞赛初赛试卷（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 8,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一",
+          "lines": [
+            26,
+            39
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1",
+            "04_diffn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "二",
+          "lines": [
+            40,
+            46
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            47,
+            53
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "四",
+          "lines": [
+            54,
+            60
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "五",
+          "lines": [
+            61,
+            67
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "六",
+          "lines": [
+            68,
+            73
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        }
+      ],
+      "source_sha256": "54137f17fcddefb5b75184c1002f5bc67b2663e972248b860982c1c3f63c4d7a",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_08/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_09/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md",
+      "title": "第9届（2017）非数学类初赛 · 官方参考解答（含评分标准）",
+      "kind": "past_paper",
+      "role": "Solutions",
+      "edition": 9,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "56f324a4b923029e9341da2478cf4a7e6c7b6f56590c0ef1b6fbebf307e30f91",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_09/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_09/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md",
+      "title": "2017 年第九届全国大学生数学竞赛初赛试卷（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions",
+      "edition": 9,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一",
+          "lines": [
+            24,
+            39
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1",
+            "03_int1",
+            "04_diffn",
+            "05_intn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "二",
+          "lines": [
+            40,
+            45
+          ],
+          "modules": [
+            "02_diff1",
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "三",
+          "lines": [
+            46,
+            51
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "四",
+          "lines": [
+            52,
+            57
+          ],
+          "modules": [
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "五",
+          "lines": [
+            58,
+            63
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "source_topic_table"
+        }
+      ],
+      "source_sha256": "f033c28fbf26c799d46cb83892f77157577de91ffaa1d50493eb9b9fcf618d26",
+      "paired_paths": [
+        "Practice/Mathematics_Competition/Edition_09/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md"
+      ],
+      "pairing_level": "collection_not_individual_question"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_10/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions_and_Solutions.md",
+      "title": "2018 年第十届全国大学生数学竞赛初赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 10,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一",
+          "lines": [
+            24,
+            25
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "一(1)",
+          "lines": [
+            26,
+            33
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(2)",
+          "lines": [
+            34,
+            41
+          ],
+          "modules": [
+            "02_diff1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(3)",
+          "lines": [
+            42,
+            57
+          ],
+          "modules": [
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(4)",
+          "lines": [
+            58,
+            69
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "二",
+          "lines": [
+            70,
+            85
+          ],
+          "modules": [
+            "04_diffn",
+            "05_intn",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "三",
+          "lines": [
+            86,
+            104
+          ],
+          "modules": [
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "四",
+          "lines": [
+            105,
+            126
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "五",
+          "lines": [
+            127,
+            146
+          ],
+          "modules": [
+            "02_diff1",
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "六",
+          "lines": [
+            147,
+            165
+          ],
+          "modules": [
+            "01_limit",
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "七",
+          "lines": [
+            166,
+            184
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        }
+      ],
+      "source_sha256": "ab0394537f16402186dc95c0041c1f7dd7d5a3a9f3e7180c42463f6b983f9b09",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_11/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions_and_Solutions.md",
+      "title": "第十一届全国大学生数学竞赛（非数学类）初赛试题及参考答案",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 11,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一",
+          "lines": [
+            24,
+            59
+          ],
+          "modules": [
+            "01_limit",
+            "03_int1",
+            "04_diffn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "二",
+          "lines": [
+            60,
+            75
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "三",
+          "lines": [
+            76,
+            90
+          ],
+          "modules": [
+            "02_diff1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "四",
+          "lines": [
+            91,
+            107
+          ],
+          "modules": [
+            "03_int1",
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "五",
+          "lines": [
+            108,
+            134
+          ],
+          "modules": [
+            "01_limit",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "六",
+          "lines": [
+            135,
+            159
+          ],
+          "modules": [
+            "02_diff1",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        }
+      ],
+      "source_sha256": "559c415de6fb5ef18ba9167b7e2103718b096ed212723947a30695f1e1a3d38a",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_12/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions_and_Solutions.md",
+      "title": "第十二届全国大学生数学竞赛初赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 12,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一",
+          "lines": [
+            24,
+            59
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1",
+            "04_diffn"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "二",
+          "lines": [
+            60,
+            78
+          ],
+          "modules": [
+            "01_limit",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "三",
+          "lines": [
+            79,
+            94
+          ],
+          "modules": [
+            "02_diff1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "四",
+          "lines": [
+            95,
+            124
+          ],
+          "modules": [
+            "04_diffn",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "五",
+          "lines": [
+            125,
+            145
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "六",
+          "lines": [
+            146,
+            165
+          ],
+          "modules": [
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "七",
+          "lines": [
+            166,
+            202
+          ],
+          "modules": [
+            "01_limit",
+            "03_int1",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        }
+      ],
+      "source_sha256": "66939121eb6b90cdaea5c97f86e5db25a11c3042a1b097c60ceae4724d35081a",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_13/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions_and_Solutions.md",
+      "title": "第十三届全国大学生数学竞赛初赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 13,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一(1)",
+          "lines": [
+            26,
+            31
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(2)",
+          "lines": [
+            32,
+            47
+          ],
+          "modules": [
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(3)",
+          "lines": [
+            48,
+            55
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1",
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(4)",
+          "lines": [
+            56,
+            70
+          ],
+          "modules": [
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(5)",
+          "lines": [
+            71,
+            82
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "二",
+          "lines": [
+            83,
+            96
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "三",
+          "lines": [
+            97,
+            128
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "四",
+          "lines": [
+            129,
+            155
+          ],
+          "modules": [
+            "03_int1",
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "五",
+          "lines": [
+            156,
+            186
+          ],
+          "modules": [
+            "01_limit",
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "六",
+          "lines": [
+            187,
+            206
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        }
+      ],
+      "source_sha256": "6bea46ea8f5a6cbfec6d895707e1839038f6f6285966e85c09aa5aef8855b513",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_13/Preliminary/Non_Mathematics/Supplementary_Community_Transcript_Questions_and_Solutions.md",
+      "title": "第十三届全国大学生数学竞赛初赛补赛试题及参考答案（非数学类，2021 年）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 13,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Supplementary",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一",
+          "lines": [
+            24,
+            79
+          ],
+          "modules": [
+            "01_limit",
+            "06_series"
+          ],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "二",
+          "lines": [
+            80,
+            104
+          ],
+          "modules": [
+            "02_diff1",
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "三",
+          "lines": [
+            105,
+            123
+          ],
+          "modules": [
+            "01_limit",
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "四",
+          "lines": [
+            124,
+            155
+          ],
+          "modules": [
+            "01_limit",
+            "03_int1",
+            "05_intn",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "五",
+          "lines": [
+            156,
+            184
+          ],
+          "modules": [
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "六",
+          "lines": [
+            185,
+            204
+          ],
+          "modules": [
+            "03_int1",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        }
+      ],
+      "source_sha256": "5df86880c1ed4d7c84969e6ea0395bde228bae8479174a98a3f47f44b489b68b",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_14/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions_and_Solutions.md",
+      "title": "第十四届全国大学生数学竞赛初赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 14,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一(1)",
+          "lines": [
+            26,
+            32
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(2)",
+          "lines": [
+            33,
+            38
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(3)",
+          "lines": [
+            39,
+            45
+          ],
+          "modules": [
+            "01_limit",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(4)",
+          "lines": [
+            46,
+            54
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(5)",
+          "lines": [
+            55,
+            72
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "二",
+          "lines": [
+            73,
+            90
+          ],
+          "modules": [],
+          "classification": "keyword_inferred"
+        },
+        {
+          "label": "三",
+          "lines": [
+            91,
+            108
+          ],
+          "modules": [
+            "02_diff1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "四",
+          "lines": [
+            109,
+            127
+          ],
+          "modules": [
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "五",
+          "lines": [
+            128,
+            151
+          ],
+          "modules": [
+            "01_limit",
+            "04_diffn",
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "六",
+          "lines": [
+            152,
+            171
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        }
+      ],
+      "source_sha256": "3a05f4394dd7ab2ee5ef89cc42885c8d2db2892c7e2fa8121e7126e7def7fcc2",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_14/Preliminary/Non_Mathematics/Supplementary_2_Community_Transcript_Questions_and_Solutions.md",
+      "title": "第十四届全国大学生数学竞赛初赛第二次补赛试题及参考答案（非数学类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 14,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics",
+      "session": "Supplementary_2",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一(1)",
+          "lines": [
+            26,
+            32
+          ],
+          "modules": [
+            "01_limit",
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(2)",
+          "lines": [
+            33,
+            45
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(3)",
+          "lines": [
+            46,
+            55
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(4)",
+          "lines": [
+            56,
+            65
+          ],
+          "modules": [
+            "04_diffn",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(5)",
+          "lines": [
+            66,
+            79
+          ],
+          "modules": [
+            "03_int1",
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "二",
+          "lines": [
+            80,
+            98
+          ],
+          "modules": [
+            "02_diff1",
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "三",
+          "lines": [
+            99,
+            122
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "四",
+          "lines": [
+            123,
+            139
+          ],
+          "modules": [
+            "02_diff1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "五",
+          "lines": [
+            140,
+            164
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "六",
+          "lines": [
+            165,
+            188
+          ],
+          "modules": [
+            "06_series",
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        }
+      ],
+      "source_sha256": "50684e7c1611f77727dd720ae080a251869a84e792d4f972f3a8ded5816991f2",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_15/Preliminary/Non_Mathematics_A/Regular_Community_Transcript_Questions_and_Solutions.md",
+      "title": "第十五届全国大学生数学竞赛初赛试题及参考答案（非数学 A 类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 15,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一(1)",
+          "lines": [
+            31,
+            37
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(2)",
+          "lines": [
+            38,
+            48
+          ],
+          "modules": [
+            "02_diff1",
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(3)",
+          "lines": [
+            49,
+            57
+          ],
+          "modules": [
+            "02_diff1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(4)",
+          "lines": [
+            58,
+            63
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(5)",
+          "lines": [
+            64,
+            74
+          ],
+          "modules": [
+            "03_int1",
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "二",
+          "lines": [
+            75,
+            92
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "三",
+          "lines": [
+            93,
+            110
+          ],
+          "modules": [
+            "02_diff1",
+            "04_diffn",
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "四",
+          "lines": [
+            111,
+            125
+          ],
+          "modules": [
+            "01_limit",
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "五",
+          "lines": [
+            126,
+            146
+          ],
+          "modules": [
+            "03_int1",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "六",
+          "lines": [
+            147,
+            176
+          ],
+          "modules": [
+            "01_limit",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        }
+      ],
+      "source_sha256": "34c817f0cb99fc009909d1b59f1d02b6dc7bcd16dd2b1cf3bbea39e447a09fe8",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_16/Preliminary/Non_Mathematics_A/Regular_Community_Transcript_Questions_and_Solutions.md",
+      "title": "第十六届全国大学生数学竞赛初赛试题及参考答案（非数学 A 类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 16,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一(1)",
+          "lines": [
+            31,
+            38
+          ],
+          "modules": [
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(2)",
+          "lines": [
+            39,
+            47
+          ],
+          "modules": [
+            "01_limit",
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(3)",
+          "lines": [
+            48,
+            57
+          ],
+          "modules": [
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(4)",
+          "lines": [
+            58,
+            70
+          ],
+          "modules": [
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(5)",
+          "lines": [
+            71,
+            86
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "二",
+          "lines": [
+            87,
+            126
+          ],
+          "modules": [
+            "04_diffn",
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "三",
+          "lines": [
+            127,
+            153
+          ],
+          "modules": [
+            "01_limit",
+            "02_diff1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "四",
+          "lines": [
+            154,
+            198
+          ],
+          "modules": [
+            "03_int1",
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "五",
+          "lines": [
+            199,
+            216
+          ],
+          "modules": [
+            "03_int1",
+            "02_diff1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "六",
+          "lines": [
+            217,
+            248
+          ],
+          "modules": [
+            "06_series",
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        }
+      ],
+      "source_sha256": "9dbf55eda15080029b056e361e2cc0f609cba5b94278bca9fd391a6f390a042a",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_17/Preliminary/Non_Mathematics_A/Regular_Community_Transcript_Questions_and_Solutions.md",
+      "title": "第十七届全国大学生数学竞赛初赛试题及参考答案（非数学 A 类）",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 17,
+      "stage": "Preliminary",
+      "category": "Non_Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "03_int1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "community_transcript_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [
+        {
+          "label": "一(1)",
+          "lines": [
+            26,
+            33
+          ],
+          "modules": [
+            "01_limit"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(2)",
+          "lines": [
+            34,
+            39
+          ],
+          "modules": [
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(3)",
+          "lines": [
+            40,
+            48
+          ],
+          "modules": [
+            "01_limit",
+            "03_int1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(4)",
+          "lines": [
+            49,
+            59
+          ],
+          "modules": [
+            "04_diffn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "一(5)",
+          "lines": [
+            60,
+            71
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "二",
+          "lines": [
+            72,
+            93
+          ],
+          "modules": [
+            "01_limit",
+            "03_int1",
+            "02_diff1"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "三",
+          "lines": [
+            94,
+            115
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "四",
+          "lines": [
+            116,
+            130
+          ],
+          "modules": [
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "五",
+          "lines": [
+            131,
+            149
+          ],
+          "modules": [
+            "06_series"
+          ],
+          "classification": "source_topic_table"
+        },
+        {
+          "label": "六",
+          "lines": [
+            150,
+            186
+          ],
+          "modules": [
+            "03_int1",
+            "05_intn"
+          ],
+          "classification": "source_topic_table"
+        }
+      ],
+      "source_sha256": "31a66ea66ee7eb486d0a47dab8434ae9d8509d8efe1eb2403b9fb5d9966ea0e5",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_16/Final/Non_Mathematics_A/Regular_Questions_and_Solutions.md",
+      "title": "第十六届决赛非数学A类试卷参考答案",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 16,
+      "stage": "Final",
+      "category": "Non_Mathematics_A",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "02_diff1",
+        "04_diffn",
+        "05_intn",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "c41fdcb6a0988f64774c38897ed8b260e19239e8c7e315299df42e04e9c9c198",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Edition_16/Final/Non_Mathematics_B/Regular_Questions_and_Solutions.md",
+      "title": "第十六届决赛非数学B类试卷参考答案",
+      "kind": "past_paper",
+      "role": "Questions_and_Solutions",
+      "edition": 16,
+      "stage": "Final",
+      "category": "Non_Mathematics_B",
+      "session": "Regular",
+      "modules": [
+        "01_limit",
+        "06_series"
+      ],
+      "quality": "extracted_text_unverified",
+      "classification": "keyword_inferred",
+      "topic_spans": [],
+      "source_sha256": "352a2a78e9d05e99a14f5ade9357085e421017d6274a97b90f348e24f84777af",
+      "paired_paths": []
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Open_Problems/Markdown/MathNet-mda_2023_f9cc8a.md",
+      "title": "MathNet-mda_2023_f9cc8a",
+      "kind": "exercise",
+      "modules": [
+        "03_int1"
+      ],
+      "role": "Questions_and_Solutions",
+      "classification": "existing_question_tags",
+      "source_bank": "Practice/Mathematics_Competition/Open_Problems/mathnet_calculus.json",
+      "question_id": "MathNet-mda_2023_f9cc8a",
+      "quality": "existing_open_reference",
+      "license": "CC BY 4.0"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Open_Problems/Markdown/MathNet-mda_2023_dfee3a.md",
+      "title": "MathNet-mda_2023_dfee3a",
+      "kind": "exercise",
+      "modules": [
+        "03_int1"
+      ],
+      "role": "Questions_and_Solutions",
+      "classification": "existing_question_tags",
+      "source_bank": "Practice/Mathematics_Competition/Open_Problems/mathnet_calculus.json",
+      "question_id": "MathNet-mda_2023_dfee3a",
+      "quality": "existing_open_reference",
+      "license": "CC BY 4.0"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Open_Problems/Markdown/MathNet-mda_2022_6df63a.md",
+      "title": "MathNet-mda_2022_6df63a",
+      "kind": "exercise",
+      "modules": [
+        "06_series"
+      ],
+      "role": "Questions_and_Solutions",
+      "classification": "existing_question_tags",
+      "source_bank": "Practice/Mathematics_Competition/Open_Problems/mathnet_calculus.json",
+      "question_id": "MathNet-mda_2022_6df63a",
+      "quality": "existing_open_reference",
+      "license": "CC BY 4.0"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Open_Problems/Markdown/OCW-18.01SC-F2010-final-2b.md",
+      "title": "OCW-18.01SC-F2010-final-2b",
+      "kind": "exercise",
+      "modules": [
+        "02_diff1"
+      ],
+      "role": "Questions_and_Solutions",
+      "classification": "existing_question_tags",
+      "source_bank": "Practice/Mathematics_Competition/Open_Problems/ocw_calculus.json",
+      "question_id": "OCW-18.01SC-F2010-final-2b",
+      "quality": "existing_open_reference",
+      "license": "CC BY-NC-SA 4.0"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Open_Problems/Markdown/OCW-18.01SC-F2010-final-9.md",
+      "title": "OCW-18.01SC-F2010-final-9",
+      "kind": "exercise",
+      "modules": [
+        "03_int1"
+      ],
+      "role": "Questions_and_Solutions",
+      "classification": "existing_question_tags",
+      "source_bank": "Practice/Mathematics_Competition/Open_Problems/ocw_calculus.json",
+      "question_id": "OCW-18.01SC-F2010-final-9",
+      "quality": "existing_open_reference",
+      "license": "CC BY-NC-SA 4.0"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Open_Problems/Markdown/OCW-18.01SC-F2010-final-10.md",
+      "title": "OCW-18.01SC-F2010-final-10",
+      "kind": "exercise",
+      "modules": [
+        "03_int1"
+      ],
+      "role": "Questions_and_Solutions",
+      "classification": "existing_question_tags",
+      "source_bank": "Practice/Mathematics_Competition/Open_Problems/ocw_calculus.json",
+      "question_id": "OCW-18.01SC-F2010-final-10",
+      "quality": "existing_open_reference",
+      "license": "CC BY-NC-SA 4.0"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Open_Problems/Markdown/OCW-18.01SC-F2010-final-12.md",
+      "title": "OCW-18.01SC-F2010-final-12",
+      "kind": "exercise",
+      "modules": [
+        "06_series"
+      ],
+      "role": "Questions_and_Solutions",
+      "classification": "existing_question_tags",
+      "source_bank": "Practice/Mathematics_Competition/Open_Problems/ocw_calculus.json",
+      "question_id": "OCW-18.01SC-F2010-final-12",
+      "quality": "existing_open_reference",
+      "license": "CC BY-NC-SA 4.0"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Open_Problems/Markdown/OCW-18.01SC-F2010-final-13.md",
+      "title": "OCW-18.01SC-F2010-final-13",
+      "kind": "exercise",
+      "modules": [
+        "03_int1"
+      ],
+      "role": "Questions_and_Solutions",
+      "classification": "existing_question_tags",
+      "source_bank": "Practice/Mathematics_Competition/Open_Problems/ocw_calculus.json",
+      "question_id": "OCW-18.01SC-F2010-final-13",
+      "quality": "existing_open_reference",
+      "license": "CC BY-NC-SA 4.0"
+    },
+    {
+      "path": "Practice/Mathematics_Competition/Open_Problems/Markdown/OCW-18.01SC-F2010-final-15.md",
+      "title": "OCW-18.01SC-F2010-final-15",
+      "kind": "exercise",
+      "modules": [
+        "02_diff1",
+        "03_int1"
+      ],
+      "role": "Questions_and_Solutions",
+      "classification": "existing_question_tags",
+      "source_bank": "Practice/Mathematics_Competition/Open_Problems/ocw_calculus.json",
+      "question_id": "OCW-18.01SC-F2010-final-15",
+      "quality": "existing_open_reference",
+      "license": "CC BY-NC-SA 4.0"
+    }
+  ]
+}

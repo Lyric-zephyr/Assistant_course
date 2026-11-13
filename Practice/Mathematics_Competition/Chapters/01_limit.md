@@ -1,0 +1,155 @@
+# 极限与连续：习题与真题参考
+
+本目录只引用原文件，不重复保存题目。标签用于检索，OCR 和关键词归类尚未逐题校订；答案按资料组关联，仍须核对原题号。
+
+## 章节习题
+
+暂无已归类资料。
+
+
+## 完整真题参考
+
+- [第1届全国大学生数学竞赛数学类决赛试卷（2010年）](../Edition_01/Final/Mathematics/Regular_Questions.md)（Questions）
+- [第1届全国大学生数学竞赛数学类决赛试卷参考答案（2010年）](../Edition_01/Final/Mathematics/Regular_Solutions.md)（Solutions）
+- [第1届全国大学生数学竞赛非数学类决赛试卷（2010年）](../Edition_01/Final/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第1届全国大学生数学竞赛非数学类决赛试卷参考答案（2010年）](../Edition_01/Final/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第1届全国大学生数学竞赛数学类初赛试卷（2009年）](../Edition_01/Preliminary/Mathematics/Regular_Questions.md)（Questions）
+- [第1届全国大学生数学竞赛非数学类初赛试卷（2009年）](../Edition_01/Preliminary/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第1届全国大学生数学竞赛非数学类初赛试卷参考答案（2009年）](../Edition_01/Preliminary/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第2届全国大学生数学竞赛数学类决赛试卷（2011年）](../Edition_02/Final/Mathematics/Regular_Questions.md)（Questions）
+- [第2届全国大学生数学竞赛数学类决赛试卷参考答案（2011年）](../Edition_02/Final/Mathematics/Regular_Solutions.md)（Solutions）
+- [第2届全国大学生数学竞赛非数学类决赛试卷（2011年）](../Edition_02/Final/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第2届全国大学生数学竞赛非数学类决赛试卷参考答案（2011年）](../Edition_02/Final/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第2届全国大学生数学竞赛数学类初赛试卷（2010年）](../Edition_02/Preliminary/Mathematics/Regular_Questions.md)（Questions）
+- [第2届全国大学生数学竞赛数学类初赛试卷参考答案（2010年）](../Edition_02/Preliminary/Mathematics/Regular_Solutions.md)（Solutions）
+- [第2届全国大学生数学竞赛非数学类初赛试卷（2010年）](../Edition_02/Preliminary/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第2届全国大学生数学竞赛非数学类初赛试卷参考答案（2010年）](../Edition_02/Preliminary/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第3届全国大学生数学竞赛数学类决赛试卷参考答案（2012年）](../Edition_03/Final/Mathematics/Regular_Solutions.md)（Solutions）
+- [第3届全国大学生数学竞赛非数学类决赛试卷（2012年）](../Edition_03/Final/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第3届全国大学生数学竞赛数学类初赛试卷（2011年）](../Edition_03/Preliminary/Mathematics/Regular_Questions.md)（Questions）
+- [第3届全国大学生数学竞赛非数学类初赛试卷（2011年）](../Edition_03/Preliminary/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第3届全国大学生数学竞赛非数学类初赛试卷参考答案（2011年）](../Edition_03/Preliminary/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第4届全国大学生数学竞赛数学类决赛试卷参考答案（2013年）](../Edition_04/Final/Mathematics/Regular_Solutions.md)（Solutions）
+- [第4届全国大学生数学竞赛非数学类决赛试卷（2013年）](../Edition_04/Final/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第4届全国大学生数学竞赛非数学类决赛试卷参考答案（2013年）](../Edition_04/Final/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第4届全国大学生数学竞赛数学类初赛试卷参考答案（2012年）](../Edition_04/Preliminary/Mathematics/Regular_Solutions.md)（Solutions）
+- [第4届全国大学生数学竞赛非数学类初赛试卷（2012年）](../Edition_04/Preliminary/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第4届全国大学生数学竞赛非数学类初赛试卷参考答案（2012年）](../Edition_04/Preliminary/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第5届全国大学生数学竞赛数学类三、四年级决赛试卷（2014年）](../Edition_05/Final/Mathematics_Upper_Grades/Regular_Questions.md)（Questions）
+- [第5届全国大学生数学竞赛数学类三、四年级决赛试卷（2014年）参考答案](../Edition_05/Final/Mathematics_Upper_Grades/Regular_Solutions.md)（Solutions）
+- [第5届全国大学生数学竞赛非数学类决赛试卷（2014年）](../Edition_05/Final/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第5届全国大学生数学竞赛数学类初赛试卷（2013年）](../Edition_05/Preliminary/Mathematics/Regular_Questions.md)（Questions）
+- [第5届全国大学生数学竞赛数学类初赛试卷参考答案（2013年）](../Edition_05/Preliminary/Mathematics/Regular_Solutions.md)（Solutions）
+- [第5届全国大学生数学竞赛非数学类初赛试卷（2013年）](../Edition_05/Preliminary/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第5届全国大学生数学竞赛非数学类初赛试卷参考答案（2013年）](../Edition_05/Preliminary/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第6届全国大学生数学竞赛数学类一、二年级决赛试卷（2015年）](../Edition_06/Final/Mathematics_Lower_Grades/Regular_Questions.md)（Questions）
+- [第6届全国大学生数学竞赛数学类三、四年级决赛试卷（2015年）](../Edition_06/Final/Mathematics_Upper_Grades/Regular_Questions.md)（Questions）
+- [第6届全国大学生数学竞赛数学类三、四年级决赛试卷参考答案（2015年）](../Edition_06/Final/Mathematics_Upper_Grades/Regular_Solutions.md)（Solutions）
+- [第6届全国大学生数学竞赛非数学类决赛试卷（2015年）](../Edition_06/Final/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第6届全国大学生数学竞赛非数学类决赛试卷参考答案（2015年）](../Edition_06/Final/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第6届全国大学生数学竞赛数学类初赛试卷参考答案（2014年）](../Edition_06/Preliminary/Mathematics/Regular_Solutions.md)（Solutions）
+- [第6届全国大学生数学竞赛非数学类初赛试卷（2014年）](../Edition_06/Preliminary/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第6届全国大学生数学竞赛非数学类初赛试卷参考答案（2014年）](../Edition_06/Preliminary/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第7届全国大学生数学竞赛数学类一、二年级决赛试卷（2016年）](../Edition_07/Final/Mathematics_Lower_Grades/Regular_Questions.md)（Questions）
+- [第7届全国大学生数学竞赛数学类三、四年级决赛试卷参考答案（2016年）](../Edition_07/Final/Mathematics_Upper_Grades/Regular_Solutions.md)（Solutions）
+- [第7届全国大学生数学竞赛非数学类决赛试卷（2016年）](../Edition_07/Final/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第7届全国大学生数学竞赛非数学类决赛试卷参考答案（2016年）](../Edition_07/Final/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第7届全国大学生数学竞赛数学类初赛试卷（2015年）](../Edition_07/Preliminary/Mathematics/Regular_Questions.md)（Questions）
+- [第7届全国大学生数学竞赛数学类初赛试卷参考答案（2015年）](../Edition_07/Preliminary/Mathematics/Regular_Solutions.md)（Solutions）
+- [第7届全国大学生数学竞赛非数学类初赛试卷（2015年）](../Edition_07/Preliminary/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第7届全国大学生数学竞赛非数学类初赛试卷参考答案（2015年）](../Edition_07/Preliminary/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第8届全国大学生数学竞赛数学类一、二年级决赛试卷（2017年）](../Edition_08/Final/Mathematics_Lower_Grades/Regular_Questions.md)（Questions）
+- [第8届全国大学生数学竞赛数学类一、二年级决赛试卷参考答案（2017年）](../Edition_08/Final/Mathematics_Lower_Grades/Regular_Solutions.md)（Solutions）
+- [第8届全国大学生数学竞赛非数学类决赛试卷（2017年）](../Edition_08/Final/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第8届全国大学生数学竞赛数学类初赛试卷（2016年）](../Edition_08/Preliminary/Mathematics/Regular_Questions.md)（Questions）
+- [第8届全国大学生数学竞赛数学类初赛试卷参考答案（2016年）](../Edition_08/Preliminary/Mathematics/Regular_Solutions.md)（Solutions）
+- [第8届全国大学生数学竞赛非数学类初赛试卷（2016年）](../Edition_08/Preliminary/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第8届全国大学生数学竞赛非数学类初赛试卷参考答案（2016年）](../Edition_08/Preliminary/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第9届全国大学生数学竞赛数学类一、二年级决赛试卷（2018年）](../Edition_09/Final/Mathematics_Lower_Grades/Regular_Questions.md)（Questions）
+- [第9届全国大学生数学竞赛数学类三、四年级决赛试卷（2018年）](../Edition_09/Final/Mathematics_Upper_Grades/Regular_Questions.md)（Questions）
+- [第9届全国大学生数学竞赛非数学类决赛试卷（2018年）](../Edition_09/Final/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第9届全国大学生数学竞赛非数学类决赛试卷参考答案（2018年）](../Edition_09/Final/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第9届全国大学生数学竞赛数学类初赛试卷（2017年）](../Edition_09/Preliminary/Mathematics/Regular_Questions.md)（Questions）
+- [第9届全国大学生数学竞赛数学类初赛试卷参考答案（2017年）](../Edition_09/Preliminary/Mathematics/Regular_Solutions.md)（Solutions）
+- [第9届全国大学生数学竞赛非数学类初赛试卷（2017年）](../Edition_09/Preliminary/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第9届全国大学生数学竞赛非数学类初赛试卷参考答案（2017年）](../Edition_09/Preliminary/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第10届全国大学生数学竞赛数学类一、二年级决赛试卷参考答案（2019年）](../Edition_10/Final/Mathematics_Lower_Grades/Regular_Solutions.md)（Solutions）
+- [第10届全国大学生数学竞赛数学类三、四年级决赛试卷（2019年）](../Edition_10/Final/Mathematics_Upper_Grades/Regular_Questions.md)（Questions）
+- [第10届全国大学生数学竞赛非数学类决赛试卷（2019年）](../Edition_10/Final/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第10届全国大学生数学竞赛非数学类决赛试卷参考答案（2019年）](../Edition_10/Final/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第10届全国大学生数学竞赛数学类初赛试卷（2018年）](../Edition_10/Preliminary/Mathematics/Regular_Questions.md)（Questions）
+- [第10届全国大学生数学竞赛数学类初赛试卷（2018年）参考答案](../Edition_10/Preliminary/Mathematics/Regular_Solutions.md)（Solutions）
+- [第10届全国大学生数学竞赛非数学类初赛试卷（2018年）](../Edition_10/Preliminary/Non_Mathematics/Regular_Questions.md)（Questions）
+- [第10届全国大学生数学竞赛非数学类初赛试卷参考答案（2018年）](../Edition_10/Preliminary/Non_Mathematics/Regular_Solutions.md)（Solutions）
+- [第十一届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）](../Edition_11/Final/Mathematics_Lower_Grades/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十一届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）](../Edition_11/Final/Mathematics_Upper_Grades/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十一届全国大学生数学竞赛决赛试题及参考答案（非数学类）](../Edition_11/Final/Non_Mathematics/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十一届全国大学生数学竞赛初赛试题及参考答案（数学A类）](../Edition_11/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十一届全国大学生数学竞赛初赛试题及参考答案（数学B类）](../Edition_11/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十二届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）](../Edition_12/Final/Mathematics_Lower_Grades/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十二届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）](../Edition_12/Final/Mathematics_Upper_Grades/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十二届全国大学生数学竞赛决赛试题及参考答案（非数学类）](../Edition_12/Final/Non_Mathematics/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十二届全国大学生数学竞赛初赛试题及参考答案（数学A类）](../Edition_12/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十二届全国大学生数学竞赛初赛试题及参考答案（数学B类）](../Edition_12/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十二届全国大学生数学竞赛初赛试题及参考答案（非数学类）](../Edition_12/Preliminary/Non_Mathematics/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十三届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）](../Edition_13/Final/Mathematics_Lower_Grades/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十三届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）](../Edition_13/Final/Mathematics_Upper_Grades/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十三届全国大学生数学竞赛决赛试题及参考答案（非数学类）](../Edition_13/Final/Non_Mathematics/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十三届全国大学生数学竞赛初赛试题及参考答案（数学A类）](../Edition_13/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十三届全国大学生数学竞赛初赛（数学A类）补赛试题及参考答案](../Edition_13/Preliminary/Mathematics_A/Supplementary_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十三届全国大学生数学竞赛初赛试题及参考答案（数学B类）](../Edition_13/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十三届全国大学生数学竞赛初赛（数学B类）补赛试题及参考答案](../Edition_13/Preliminary/Mathematics_B/Supplementary_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十三届全国大学生数学竞赛初赛试题及参考答案（非数学类）](../Edition_13/Preliminary/Non_Mathematics/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十三届全国大学生数学竞赛初赛（非数学类）补赛试题及参考答案](../Edition_13/Preliminary/Non_Mathematics/Supplementary_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十四届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）](../Edition_14/Final/Mathematics_Lower_Grades/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十四届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）](../Edition_14/Final/Mathematics_Upper_Grades/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十四届全国大学生数学竞赛决赛试题及参考答案（非数学类）](../Edition_14/Final/Non_Mathematics/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十四届全国大学生数学竞赛初赛试题及参考答案（数学A类）](../Edition_14/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十四届全国大学生数学竞赛初赛试题及参考答案（数学B类）](../Edition_14/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十四届全国大学生数学竞赛初赛补赛2B试题及参考答案（数学B类）](../Edition_14/Preliminary/Mathematics_B/Supplementary_2_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十四届全国大学生数学竞赛初赛试题及参考答案（非数学类）](../Edition_14/Preliminary/Non_Mathematics/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十四届全国大学生数学竞赛初赛补赛2试题及参考答案（非数学类）](../Edition_14/Preliminary/Non_Mathematics/Supplementary_2_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十五届全国大学生数学竞赛决赛试题及参考答案（数学类低年级组）](../Edition_15/Final/Mathematics_Lower_Grades/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十五届全国大学生数学竞赛决赛试题及参考答案（数学类高年级组）](../Edition_15/Final/Mathematics_Upper_Grades/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十五届全国大学生数学竞赛决赛试题及参考答案（非数学类）](../Edition_15/Final/Non_Mathematics/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十五届全国大学生数学竞赛初赛试题及参考答案（数学A类）](../Edition_15/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十五届全国大学生数学竞赛初赛试题及参考答案（数学B类）](../Edition_15/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十五届全国大学生数学竞赛初赛试题及参考答案（非数学A类）](../Edition_15/Preliminary/Non_Mathematics_A/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十五届全国大学生数学竞赛初赛试题及参考答案（非数学B类）](../Edition_15/Preliminary/Non_Mathematics_B/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十六届全国大学生数学竞赛初赛（数学A类）试题及答案解析](../Edition_16/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十六届全国大学生数学竞赛初赛（数学B类）试题及答案解析](../Edition_16/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十六届全国大学生数学竞赛初赛（非数学A类）试题及答案解析](../Edition_16/Preliminary/Non_Mathematics_A/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十六届全国大学生数学竞赛初赛（非数学B类）试题及答案解析](../Edition_16/Preliminary/Non_Mathematics_B/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十七届全国大学生数学竞赛初赛试题及参考答案（数学A类）](../Edition_17/Preliminary/Mathematics_A/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十七届全国大学生数学竞赛初赛试题及参考答案（数学B类）](../Edition_17/Preliminary/Mathematics_B/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十七届全国大学生数学竞赛初赛试题及参考答案（非数学A类）](../Edition_17/Preliminary/Non_Mathematics_A/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十七届全国大学生数学竞赛初赛试题及参考答案（非数学B类）](../Edition_17/Preliminary/Non_Mathematics_B/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第 1 届（2009）非数学类初赛 · 官方参考解答](../Edition_01/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md)（Solutions）
+- [2009 年第一届全国大学生数学竞赛初赛试卷（非数学类）](../Edition_01/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md)（Questions）
+- [第2届（2010）非数学类初赛 · 官方参考解答](../Edition_02/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md)（Solutions）
+- [2010 年第二届全国大学生数学竞赛初赛试卷（非数学类）](../Edition_02/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md)（Questions）
+- [第3届（2011）非数学类初赛 · 官方参考解答](../Edition_03/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md)（Solutions）
+- [2011 年第三届全国大学生数学竞赛初赛试卷（非数学类）](../Edition_03/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md)（Questions）
+- [第4届（2012）非数学类初赛 · 官方参考解答](../Edition_04/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md)（Solutions）
+- [2012 年第四届全国大学生数学竞赛初赛试卷（非数学类）](../Edition_04/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md)（Questions）
+- [第五届（2013）非数学类初赛 · 官方参考解答](../Edition_05/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md)（Solutions）
+- [2013 年第五届全国大学生数学竞赛初赛试卷（非数学类）](../Edition_05/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md)（Questions）
+- [第六届（2014）非数学类初赛 · 官方参考解答](../Edition_06/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md)（Solutions）
+- [2014 年第六届全国大学生数学竞赛初赛试卷（非数学类）](../Edition_06/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md)（Questions）
+- [第07届（2015）非数学类初赛 · 参考答案](../Edition_07/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md)（Solutions）
+- [2015 年第七届全国大学生数学竞赛初赛（非数学类）试卷](../Edition_07/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md)（Questions）
+- [2016 年第八届全国大学生数学竞赛初赛试卷（非数学类）](../Edition_08/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md)（Questions）
+- [第9届（2017）非数学类初赛 · 官方参考解答（含评分标准）](../Edition_09/Preliminary/Non_Mathematics/Regular_Community_Transcript_Solutions.md)（Solutions）
+- [2017 年第九届全国大学生数学竞赛初赛试卷（非数学类）](../Edition_09/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions.md)（Questions）
+- [2018 年第十届全国大学生数学竞赛初赛试题及参考答案（非数学类）](../Edition_10/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十一届全国大学生数学竞赛（非数学类）初赛试题及参考答案](../Edition_11/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十二届全国大学生数学竞赛初赛试题及参考答案（非数学类）](../Edition_12/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十三届全国大学生数学竞赛初赛试题及参考答案（非数学类）](../Edition_13/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十三届全国大学生数学竞赛初赛补赛试题及参考答案（非数学类，2021 年）](../Edition_13/Preliminary/Non_Mathematics/Supplementary_Community_Transcript_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十四届全国大学生数学竞赛初赛试题及参考答案（非数学类）](../Edition_14/Preliminary/Non_Mathematics/Regular_Community_Transcript_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十四届全国大学生数学竞赛初赛第二次补赛试题及参考答案（非数学类）](../Edition_14/Preliminary/Non_Mathematics/Supplementary_2_Community_Transcript_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十五届全国大学生数学竞赛初赛试题及参考答案（非数学 A 类）](../Edition_15/Preliminary/Non_Mathematics_A/Regular_Community_Transcript_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十六届全国大学生数学竞赛初赛试题及参考答案（非数学 A 类）](../Edition_16/Preliminary/Non_Mathematics_A/Regular_Community_Transcript_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十七届全国大学生数学竞赛初赛试题及参考答案（非数学 A 类）](../Edition_17/Preliminary/Non_Mathematics_A/Regular_Community_Transcript_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十六届决赛非数学A类试卷参考答案](../Edition_16/Final/Non_Mathematics_A/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
+- [第十六届决赛非数学B类试卷参考答案](../Edition_16/Final/Non_Mathematics_B/Regular_Questions_and_Solutions.md)（Questions_and_Solutions）
