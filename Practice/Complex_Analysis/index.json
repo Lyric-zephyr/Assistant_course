@@ -1,0 +1,2117 @@
+{
+  "subject": "Complex_Analysis",
+  "encoding": "UTF-8",
+  "page_numbering": "PDF pages, 1-based",
+  "items": [
+    {
+      "path": "Practice/Complex_Analysis/Textbook_Exercises/01_Complex_Numbers/pages_040-042.md",
+      "title": "教材习题 · 复数与复变函数：第 40–42 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c0a2fa43b6cc7b1156b70166a577a447c6052f54d2f9b5a594e6624e2f5c164b",
+      "source_name": "复变函数与积分变换（第3版） (包革军, 邢宇明, 盖云英(1).pdf",
+      "source_pages": [
+        40,
+        42
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "习 lim f(z) = Z—+ZO f(z) @ 关 0 ） lim g(z) 2 ． 设歹） = + it'@, 办一 一 a + ib, zo = •To + 0 ， 那么 lim 0 ） = lim f(z) = lim 省， = b Z 一砩 ZO ． - 衫 0 题 1 25 3 ． 若 f(z) 和 g(",
+      "keywords": [
+        "复数",
+        "辐角",
+        "开方",
+        "点集",
+        "极限",
+        "连续"
+      ]
+    },
+    {
+      "path": "Practice/Complex_Analysis/Textbook_Exercises/02_Analytic_Functions/pages_079-081.md",
+      "title": "教材习题 · 解析函数：第 79–81 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c0a2fa43b6cc7b1156b70166a577a447c6052f54d2f9b5a594e6624e2f5c164b",
+      "source_name": "复变函数与积分变换（第3版） (包革军, 邢宇明, 盖云英(1).pdf",
+      "source_pages": [
+        79,
+        81
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "64 第 2 章 解析函数 烈 z ） 在内解析 烈 z ） 在 zo 解析 烈 2 ） 在 D 内可导 烈 z ） 在 zo 可导 / （ z ） 在连续 图 2 ， 5 ， 6 习题 1. 下列函数何处可导？ 何处解析？ + i + 2 2 + 俨 （ 2 ） f(z) 2 = 十 lmz. 2 ． 试确定下列函数",
+      "keywords": [
+        "解析函数",
+        "C-R",
+        "调和函数",
+        "初等函数"
+      ]
+    },
+    {
+      "path": "Practice/Complex_Analysis/Textbook_Exercises/03_Complex_Integration/pages_108-110.md",
+      "title": "教材习题 · 复变函数的积分：第 108–110 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c0a2fa43b6cc7b1156b70166a577a447c6052f54d2f9b5a594e6624e2f5c164b",
+      "source_name": "复变函数与积分变换（第3版） (包革军, 邢宇明, 盖云英(1).pdf",
+      "source_pages": [
+        108,
+        110
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "习题 3 孬 ' 93 5 ， 莫累拉定理 设 f(z) 在区域内连续， 且对于刀内任意一条其内部含于刀的简单光滑闭 曲线都有 f(z)dz = 0 z = 2 则 f(z) 在刀内必解析， 习 3+i 1. 沿下列路线计算积分 / z2dz. (1) 自原点到 3 + i 的直线段； 题 3 （ 2 ） 自原点沿实轴",
+      "keywords": [
+        "复积分",
+        "柯西定理",
+        "柯西公式"
+      ]
+    },
+    {
+      "path": "Practice/Complex_Analysis/Textbook_Exercises/04_Series/pages_149-150.md",
+      "title": "教材习题 · 级数：第 149–150 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c0a2fa43b6cc7b1156b70166a577a447c6052f54d2f9b5a594e6624e2f5c164b",
+      "source_name": "复变函数与积分变换（第3版） (包革军, 邢宇明, 盖云英(1).pdf",
+      "source_pages": [
+        149,
+        150
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "134 第 4 章级数 鰨 z 一 20 尸的展开式， 则其系数 1 f(z) dz 一 0 ， 士 1 ， 士 2 ， 一， ） 2 丌 i C (z 一 ZO ） “ 十 1 0 为任意圆周： lz—zol ： 月@1 < < 2 ） ． 圆环的一种蜕化情形是一点的去心邻域， 而当函数在一点的去心邻域内解析， 但并",
+      "keywords": [
+        "级数",
+        "收敛半径",
+        "泰勒",
+        "洛朗"
+      ]
+    },
+    {
+      "path": "Practice/Complex_Analysis/Textbook_Exercises/05_Residues/pages_188-190.md",
+      "title": "教材习题 · 留数：第 188–190 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c0a2fa43b6cc7b1156b70166a577a447c6052f54d2f9b5a594e6624e2f5c164b",
+      "source_name": "复变函数与积分变换（第3版） (包革军, 邢宇明, 盖云英(1).pdf",
+      "source_pages": [
+        188,
+        190
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "习题 5 ； 173 习题 5 1. 问下列各函数有哪些孤立奇点？ 各属于哪一类型？ 如果是极点， 指出它的阶数， 1 （ 1 ） z3 ()2 + 1 ） 2 ' 1 （ 4 ） SIII Z 2 （ 10 ） 1 + zn e S1n Z （ 2 ） （ 5 ） 1 （ 8 ） sin 一 + ln(z 十 1 ）",
+      "keywords": [
+        "奇点",
+        "零点",
+        "留数",
+        "实积分"
+      ]
+    },
+    {
+      "path": "Practice/Complex_Analysis/Textbook_Exercises/06_Conformal_Mapping/pages_222-224.md",
+      "title": "教材习题 · 保形映射：第 222–224 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c0a2fa43b6cc7b1156b70166a577a447c6052f54d2f9b5a594e6624e2f5c164b",
+      "source_name": "复变函数与积分变换（第3版） (包革军, 邢宇明, 盖云英(1).pdf",
+      "source_pages": [
+        222,
+        224
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "习题 6 007 当两圆周上有一个点映射成无穷远点时， 这两圆弧所围成的区域映射成一圆弧 与一直线所围成的区域 ． 当两圆周交点中的一个映射成无穷远点时， 这两圆周的弧所围成的区域映射成 角形区域， 、 几个初等函数所构成的映射 1. 幂函数 w ： z \" ： 2 ， 3 ， ， 幂函数 w = 所构成的映射的特点：",
+      "keywords": [
+        "保形映射",
+        "分式线性映射"
+      ]
+    },
+    {
+      "path": "Practice/Complex_Analysis/Textbook_Exercises/07_Fourier_Transform/pages_286-289.md",
+      "title": "教材习题 · 傅里叶变换：第 286–289 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c0a2fa43b6cc7b1156b70166a577a447c6052f54d2f9b5a594e6624e2f5c164b",
+      "source_name": "复变函数与积分变换（第3版） (包革军, 邢宇明, 盖云英(1).pdf",
+      "source_pages": [
+        286,
+        289
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "习 T dw 题 7 ' 271 F10 ） ） 称 S120 ） = 丆 10 ） 丆 20 ） 为互能量谱密度， 且有 S12@) = S210 ） 丆@12 （丆） ] ： s120 ） ， 丆一 [ s20 ） ] = 蛰 2 （丆） 记丆） 歹@） 歹@ + 丆） 称为歹@） 的自相关函数或简记为相关函数 ．",
+      "keywords": [
+        "傅里叶",
+        "卷积",
+        "广义函数"
+      ]
+    },
+    {
+      "path": "Practice/Complex_Analysis/Textbook_Exercises/08_Laplace_Transform/pages_330-333.md",
+      "title": "教材习题 · 拉普拉斯变换：第 330–333 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c0a2fa43b6cc7b1156b70166a577a447c6052f54d2f9b5a594e6624e2f5c164b",
+      "source_name": "复变函数与积分变换（第3版） (包革军, 邢宇明, 盖云英(1).pdf",
+      "source_pages": [
+        330,
+        333
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "习题 8 ' 315 A(s) 2 ． 若函数丆@ 是有理函数 F(s) = 其中 A(s), 君@ 是互质多项式， 禹 5 ） 的次数为 B(s) 的次数为 m, 并且 “ < m. 又假设刀@） 的零点为 51 ， 阶数分别为内 2 ， 屿 = rn ， 那么在歹@） 的连续点处成立 dP9 一 1 特别地， 如果",
+      "keywords": [
+        "拉普拉斯",
+        "微分方程",
+        "初值"
+      ]
+    },
+    {
+      "path": "Practice/Complex_Analysis/Textbook_Exercises/Answers/pages_335-340.md",
+      "title": "教材习题答案：第 335–340 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c0a2fa43b6cc7b1156b70166a577a447c6052f54d2f9b5a594e6624e2f5c164b",
+      "source_name": "复变函数与积分变换（第3版） (包革军, 邢宇明, 盖云英(1).pdf",
+      "source_pages": [
+        335,
+        340
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "习题答案 习题 1 （ 1 ） Rez = （ 2 ） Rez = （ 3 ） Re z = （ 4 ） Rez = 3 ， Rew = z-Z21 3 lmz 13 ' 3 lmz 7 lmz = 11. 2 lmw 2 13 ' 5 一 13 ， 3 2 13 13 7 13 ， arg Z 13 34 arg z"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Textbook_Exercises/Answers/pages_341-346.md",
+      "title": "教材习题答案：第 341–346 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c0a2fa43b6cc7b1156b70166a577a447c6052f54d2f9b5a594e6624e2f5c164b",
+      "source_name": "复变函数与积分变换（第3版） (包革军, 邢宇明, 盖云英(1).pdf",
+      "source_pages": [
+        341,
+        346
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "326 驴习题答案 （ 4 ） Res[f(z), 0 ] = 一 4 / 3 ； （ 5 ） Res[f(z), 烁 ] = （一 1 严 e Z); （ 6 ） Res f(z), 左 + 一丌 （ 2 ） 一丌 i / 軛 （ 3 ） 0 ； 9 ， （ 1 ） 一 2 丌 i ； （ 4 ） 6 兀 i ； （"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2019_Final/Questions/pages_001-006.md",
+      "title": "2019 秋季期末试题与答案 · Questions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "6e51ae00a2353051dda6ba7aa5242355279d33e3bf86e4945852b8133fa2348c",
+      "source_name": "2019秋季复变函数与积分变换期末试题.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "主管哈尔滨工业大学（深圳）2019/2020 学年秋季学期 领导 审核复变函数与积分变换期末试题签字         题号一二三四五六七总分         得分         阅卷人        注意行为规范遵守考场纪律        一、 填空题（每小题3 分，共15 分）              1. 复数"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2019_Final/Answers/pages_001-006.md",
+      "title": "2019 秋季期末试题与答案 · Answers：第 1–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "095243e61e0b3ffc415eb4d575696c476bfc76bd9f851b9d95cd46ceb9a9a37d",
+      "source_name": "2019秋季复变函数与积分变换期末试题答案.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "主管哈尔滨工业大学（深圳）2019/2020 学年秋季学期 领导 审核复变函数与积分变换期末试题签字         题号一二三四五六七总分         得分         阅卷人        注意行为规范遵守考场纪律        一、 填空题（每小题3 分，共15 分）             π     "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2020_Final/Questions/pages_001-006.md",
+      "title": "2020 秋季期末试题与答案 · Questions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "0dcb822dc776bf981eb41b4d92249202ee114cf4c4282b814a0c1adae46c0b75",
+      "source_name": "2020秋季复变函数与积分变换期末试题.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "主管哈尔滨工业大学（深圳）2020/2021 学年秋季学期 领导 审核复变函数与积分变换期末试题签字         题号一二三四五六七总分         得分         阅卷人        注意行为规范遵守考场纪律        一、 填空题（每小题3 分，共15 分）              1. 复数"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2020_Final/Answers/pages_001-006.md",
+      "title": "2020 秋季期末试题与答案 · Answers：第 1–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "dfec9a01bdca14bfbae592c886b69a2107c759ae4e0728489fdfda00af23fccc",
+      "source_name": "2020秋季复变函数与积分变换期末试题答案.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "主管哈尔滨工业大学（深圳）2020/2021 学年秋季学期 领导 审核复变函数与积分变换期末试题签字         题号一二三四五六七总分         得分         阅卷人        注意行为规范遵守考场纪律        一、 填空题（每小题3 分，共15 分）              5π   "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2023_Final/Questions/pages_001-006.md",
+      "title": "2023 秋季期末试题与答案 · Questions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "e698a7efe2f70f4b1d0549df754ba700709320ba61abd9b39e58e9b1a2faa7d1",
+      "source_name": "2023秋季复变函数与积分变换期末试题.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "哈尔滨工业大学（深圳）2023 年秋季学期主管  领导  审核复变函数与积分变换期末试题  签字        题号一二三四五六七总分        得分        阅卷人        考生须知：本次考试为闭卷考试，考试时间为120 分钟，总分80 分。        一、 本题得分       填空题（每小题2"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2023_Final/Questions/pages_007-008.md",
+      "title": "2023 秋季期末试题与答案 · Questions：第 7–8 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "e698a7efe2f70f4b1d0549df754ba700709320ba61abd9b39e58e9b1a2faa7d1",
+      "source_name": "2023秋季复变函数与积分变换期末试题.pdf",
+      "source_pages": [
+        7,
+        8
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "六、 本题得分              z − 2       （8 分）设函数 f ( z ) =   2   ，计算            z − 7 z + 12             f ( z )             n +1 dz , n = 1,2, 。            I n =  ∫  "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2023_Final/Answers/pages_001-006.md",
+      "title": "2023 秋季期末试题与答案 · Answers：第 1–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "541d05cad2994e7eb9a888dae31305d6c595e733e87d379df1be9f2554672721",
+      "source_name": "2023秋季复变函数与积分变换期末试题答案.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "哈尔滨工业大学（深圳）2023 年秋季学期主管  领导  审核复变函数与积分变换期末试题  签字        题号一二三四五六七总分        得分        阅卷人        考生须知：本次考试为闭卷考试，考试时间为120 分钟，总分80 分。        一、 本题得分       填空题（每小题2"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2023_Final/Answers/pages_007-008.md",
+      "title": "2023 秋季期末试题与答案 · Answers：第 7–8 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "541d05cad2994e7eb9a888dae31305d6c595e733e87d379df1be9f2554672721",
+      "source_name": "2023秋季复变函数与积分变换期末试题答案.pdf",
+      "source_pages": [
+        7,
+        8
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "六、 本题得分              z − 2       （8 分）设函数 f ( z ) =   2   ，计算            z − 7 z + 12             f ( z )             n +1 dz , n = 1,2, 。            I n =  ∫  "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2021_Midterm/Solutions/pages_001-004.md",
+      "title": "2021 秋季期中解答 · Solutions：第 1–4 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "20239ac0973020e7c33d71a2f27e66031ae783065ca49144fb0d2909c706900a",
+      "source_name": "21秋期中解答.pdf",
+      "source_pages": [
+        1,
+        4
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "2021秋数学分析A期中考试解答   一论述题   (1) 陈述可去间断点，跳跃间断点和第二类间断点的定义. 判断证明函数              {             1             x sin     ,    x̸ = 0;             x             f   (x) "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2022_Mock/Questions/pages_001-006.md",
+      "title": "2022 模拟题与答案 · Questions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "bb7a8458d9e197ebdcf28ad6b0cbecff06faaa4c4a99e1caf1443d2bfe9b9d0c",
+      "source_name": "2022复变模拟题.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "native_text_symbols_decoded"
+      ],
+      "preview": "2022 年秋季学期               复变函数与积分变换模拟试题   注意事项：          1. 本次考试为闭卷考试，考试时间为120 分钟，总分            80 分。              注意行为规范遵守考场纪律         得分             一、填空题：每小题2"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2022_Mock/Questions/pages_007-007.md",
+      "title": "2022 模拟题与答案 · Questions：第 7–7 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "bb7a8458d9e197ebdcf28ad6b0cbecff06faaa4c4a99e1caf1443d2bfe9b9d0c",
+      "source_name": "2022复变模拟题.pdf",
+      "source_pages": [
+        7,
+        7
+      ],
+      "methods": [
+        "native_text_symbols_decoded"
+      ],
+      "preview": "得分             七、（5 分） 阅卷人      设函数𝑓(𝑧) 在简单闭曲线𝐶            上及内部𝐷            处处解析且不为常数，𝑛为正整数。 （1）       对于任意的𝑧∈𝐷，证明：             𝑛             [𝑓(𝜉)]            "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2022_Mock/Answers/pages_001-003.md",
+      "title": "2022 模拟题与答案 · Answers：第 1–3 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "d9ee88a936d8be852e08168b1114a93e79ef65034d6b997280861c8c48b5b8c5",
+      "source_name": "2022复变模拟题答案.pdf",
+      "source_pages": [
+        1,
+        3
+      ],
+      "methods": [
+        "native_text_symbols_decoded"
+      ],
+      "preview": "2022 年秋季学期     复变函数与积分变换模拟试题参考答案  一、 填空题（每小题2 分，满分20 分）              2 1. { z = x + yi | y > 0, x 2 + y −  3  > 4}     2. 10πi            (        )            "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2022_Final/Solutions/pages_001-006.md",
+      "title": "2022 秋季期末试题答案 · Solutions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "21da4c1ad4aeaab7829b132bac10d1d66280f6b6195cadb0e89ff0546de2f1dd",
+      "source_name": "2022秋季复变函数与积分变换期末试题答案.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "哈尔滨工业大学（深圳）2022 年秋季学期主管  领导  审核复变函数与积分变换期末试题  签字        题号一二三四五六七总分        得分        阅卷人        考生须知：本次考试为闭卷考试，考试时间为120 分钟，总分80 分。        一、 本题得分       填空题（每小题2"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Exams/2022_Final/Solutions/pages_007-008.md",
+      "title": "2022 秋季期末试题答案 · Solutions：第 7–8 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "21da4c1ad4aeaab7829b132bac10d1d66280f6b6195cadb0e89ff0546de2f1dd",
+      "source_name": "2022秋季复变函数与积分变换期末试题答案.pdf",
+      "source_pages": [
+        7,
+        8
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "六、 本题得分        （5 分）设函数 f ( z ) 及函数(g  z ) 在 z <内解析。又设2            f ( z ) 的所有        零点 a1 , a2 ,    , an 都在 z <内且它们的阶数分别是1              m1 , m2 ,    , mn ，计算 "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/01A/Questions/pages_001-005.md",
+      "title": "2021 秋季作业 01A · Questions：第 1–5 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "7540a791085c2d702dfc360c551fd8c00a2f9cc4d8976b4c30ac948500873a1f",
+      "source_name": "Homework-2021Fall-01A (1).pdf",
+      "source_pages": [
+        1,
+        5
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "作业一A组   1 用直角坐标表示下列复数：              (            )        (            )         (             )        (            )                √       √       2017      "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/01A/Solutions/pages_001-004.md",
+      "title": "2021 秋季作业 01A · Solutions：第 1–4 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "080a3e371747a2e8ea7cbe1ed67958924d69f4121cb97e9a980dc2a4e3f2e3e2",
+      "source_name": "Solution-2021Fall-01A.pdf",
+      "source_pages": [
+        1,
+        4
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "作业一解答A组   1 用直角坐标表示下列复数：              (            )        (            )         (             )        (            )                √       √       2017    "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/01A/Solutions/pages_005-009.md",
+      "title": "2021 秋季作业 01A · Solutions：第 5–9 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "080a3e371747a2e8ea7cbe1ed67958924d69f4121cb97e9a980dc2a4e3f2e3e2",
+      "source_name": "Solution-2021Fall-01A.pdf",
+      "source_pages": [
+        5,
+        9
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "(5) 等式左侧我们有              z1+z2       −z1−z2             e        + e             ch(z1 + z2) =            .             2  等式右侧我们有              z1      −z1     "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/01A/Solutions/pages_010-012.md",
+      "title": "2021 秋季作业 01A · Solutions：第 10–12 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "080a3e371747a2e8ea7cbe1ed67958924d69f4121cb97e9a980dc2a4e3f2e3e2",
+      "source_name": "Solution-2021Fall-01A.pdf",
+      "source_pages": [
+        10,
+        12
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "∮             dz            3 (4)            , C : |z| =           ;             2              2              (z    + 1)(z         + 4)            2          C"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/01B/Questions/pages_001-002.md",
+      "title": "2021 秋季作业 01B · Questions：第 1–2 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "a0e692adef6e0d9ab8f1611a83e1b11b144669eacf9b473130867f6612961665",
+      "source_name": "Homework-2021Fall-01B.pdf",
+      "source_pages": [
+        1,
+        2
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "作业一B组   1 证明下列不等式并说明(1)式的几何意义：      |           |      |           |         z      |           | (1)         −   1   ⩽  | arg z|, z̸ = 0;      |           |   "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/01B/Solutions/pages_001-004.md",
+      "title": "2021 秋季作业 01B · Solutions：第 1–4 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "0b277cf9ae8723dc0dbcb6dd106ffd3108e48a6cd80519752bc4ebf5a8265fc6",
+      "source_name": "Solution-2021Fall-01B.pdf",
+      "source_pages": [
+        1,
+        4
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "作业一解答B组   1 证明下列不等式并说明(1)式的几何意义：      |           |      |           |         z      |           | (1)         −   1   ⩽  | arg z|, z̸ = 0;      |           | "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/01B/Solutions/pages_005-006.md",
+      "title": "2021 秋季作业 01B · Solutions：第 5–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "0b277cf9ae8723dc0dbcb6dd106ffd3108e48a6cd80519752bc4ebf5a8265fc6",
+      "source_name": "Solution-2021Fall-01B.pdf",
+      "source_pages": [
+        5,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "ζ 由于线段C都在左半平面中，因此有max |e            | ⩽   1，命题得证.               n               n−1 8 设f(z)是一个复平面上的解析函数，p(z) = z            + an−1z             + · · · + a0是一  "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/02A/Questions/pages_001-003.md",
+      "title": "2021 秋季作业 02A · Questions：第 1–3 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "9860c2a07a5c35b17aeb5ee9c598f2829bed055057844ee7c94a897995d1312b",
+      "source_name": "Homework02-2021Fall-A.pdf",
+      "source_pages": [
+        1,
+        3
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "作业二A组   1 求下列幂级数的收敛半径：       ∑          n              ∑          n!          ∞            ∞             n            n (1)            z   ; (2)            z  ;"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/02A/Questions/pages_004-004.md",
+      "title": "2021 秋季作业 02A · Questions：第 4–4 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "9860c2a07a5c35b17aeb5ee9c598f2829bed055057844ee7c94a897995d1312b",
+      "source_name": "Homework02-2021Fall-A.pdf",
+      "source_pages": [
+        4,
+        4
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "∮            ∮             3            sin z            3            3z    + 2  (3)               dz, C : |z| =          ; (4)            dz, C : |z| = 4;     "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/02A/Solutions/pages_001-004.md",
+      "title": "2021 秋季作业 02A · Solutions：第 1–4 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "a3d9e8cb22e4568e5a47b6e7d6a28cbb15a3892178faa61531183ca2fa14b60d",
+      "source_name": "Solution-2021Fall-02A.pdf",
+      "source_pages": [
+        1,
+        4
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "作业二解答A组   1 求下列幂级数的收敛半径：          ∞            ∞      ∑            ∑              n            n!             n            n (1)             z   ; (2)          "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/02A/Solutions/pages_005-007.md",
+      "title": "2021 秋季作业 02A · Solutions：第 5–7 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "a3d9e8cb22e4568e5a47b6e7d6a28cbb15a3892178faa61531183ca2fa14b60d",
+      "source_name": "Solution-2021Fall-02A.pdf",
+      "source_pages": [
+        5,
+        7
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "1 (4)            , 0 < |z| < 1, |z| > 1, 0 < |z −1| < 1和|z −1| > 1;             2       z(1 −z)             1 (5)               , 0 < |z| < 1, |z| > 1, 0 < |z −"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/02A/Solutions/pages_008-011.md",
+      "title": "2021 秋季作业 02A · Solutions：第 8–11 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "a3d9e8cb22e4568e5a47b6e7d6a28cbb15a3892178faa61531183ca2fa14b60d",
+      "source_name": "Solution-2021Fall-02A.pdf",
+      "source_pages": [
+        8,
+        11
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "2             z   −  2z + 5            1             2 (7) 我们有分解            =             −             ，则有             2            2             (z −   2)(z  "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/02A/Solutions/pages_012-014.md",
+      "title": "2021 秋季作业 02A · Solutions：第 12–14 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "a3d9e8cb22e4568e5a47b6e7d6a28cbb15a3892178faa61531183ca2fa14b60d",
+      "source_name": "Solution-2021Fall-02A.pdf",
+      "source_pages": [
+        12,
+        14
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "1 (5) z =          是本性奇点；             nπ             (           )             1 (6) z =        n +         π是二阶极点，z = ∞是本性奇点；             2  (7) 若a不是π的整数倍，z = "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/02A/Solutions/pages_015-018.md",
+      "title": "2021 秋季作业 02A · Solutions：第 15–18 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "a3d9e8cb22e4568e5a47b6e7d6a28cbb15a3892178faa61531183ca2fa14b60d",
+      "source_name": "Solution-2021Fall-02A.pdf",
+      "source_pages": [
+        15,
+        18
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "因此              [            ]               [            ]             2            2             z   + 4z −1            z   + 4z −      1             Res     "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/02A/Solutions/pages_019-022.md",
+      "title": "2021 秋季作业 02A · Solutions：第 19–22 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "a3d9e8cb22e4568e5a47b6e7d6a28cbb15a3892178faa61531183ca2fa14b60d",
+      "source_name": "Solution-2021Fall-02A.pdf",
+      "source_pages": [
+        19,
+        22
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "(3) 我们有              ∫            ∮             2π             dθ            4            zdz             =             2            2            2             "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/02B/Questions/pages_001-002.md",
+      "title": "2021 秋季作业 02B · Questions：第 1–2 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2705cf2423324c8a76669e422989e1aac047d354084f2eda7781a3f319788fe7",
+      "source_name": "Homework02-2021Fall-B.pdf",
+      "source_pages": [
+        1,
+        2
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "作业二B组   1 证明等式：             +∞             ∑             1             π cot πz =            .             z + n             n=−∞   2 若f   (z)和g(z)在点z          "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/02B/Solutions/pages_001-003.md",
+      "title": "2021 秋季作业 02B · Solutions：第 1–3 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "8f2ed0cc1910148b3ba1675ba82eb64852b1eb80c6501b86d3388d0f25615c2a",
+      "source_name": "Solution-2021Fall-02B.pdf",
+      "source_pages": [
+        1,
+        3
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "作业二解答B组   1 证明等式：             +∞             ∑             1             π cot πz =            .             z + n             n=−∞   证明：设             +∞       "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/02B/Solutions/pages_004-006.md",
+      "title": "2021 秋季作业 02B · Solutions：第 4–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "8f2ed0cc1910148b3ba1675ba82eb64852b1eb80c6501b86d3388d0f25615c2a",
+      "source_name": "Solution-2021Fall-02B.pdf",
+      "source_pages": [
+        4,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "经计算有              ∫            ∫             2iz            0         2             e      −  1            sin    x −    sin x cos xi              lim          "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/03/Questions/pages_001-003.md",
+      "title": "2021 秋季作业 03 · Questions：第 1–3 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "686573367192c6c3d1b281829d6489bfa6b1261d453687248be3a4bf7fca1f97",
+      "source_name": "Homework-2021Fall-03.pdf",
+      "source_pages": [
+        1,
+        3
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "作业三   1 求下列函数的傅里叶积分公式：              {             2             1 −t     ,    |t| < 1, (1) f(t) =             0,            |t| > 1;             {             −"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/03/Solutions/pages_001-004.md",
+      "title": "2021 秋季作业 03 · Solutions：第 1–4 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "d44891e37ea839d1c4a39c6131679df49e608e8720268a502ba9b36d4a4fc0e3",
+      "source_name": "Solution-2021Fall-03.pdf",
+      "source_pages": [
+        1,
+        4
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "作业三解答   1 求下列函数的傅里叶积分公式：              {             2             1 −t     ,    |t| < 1, (1) f(t) =             0,            |t| > 1;             {            "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/03/Solutions/pages_005-008.md",
+      "title": "2021 秋季作业 03 · Solutions：第 5–8 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "d44891e37ea839d1c4a39c6131679df49e608e8720268a502ba9b36d4a4fc0e3",
+      "source_name": "Solution-2021Fall-03.pdf",
+      "source_pages": [
+        5,
+        8
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "5 求下列函数的卷积：               −αt (1) f1(t) = u(t), f2(t) = e               u(t);               −αt (2) f1(t) = e          u(t), f2(t) = sin t · u(t);              "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/03/Solutions/pages_009-012.md",
+      "title": "2021 秋季作业 03 · Solutions：第 9–12 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "d44891e37ea839d1c4a39c6131679df49e608e8720268a502ba9b36d4a4fc0e3",
+      "source_name": "Solution-2021Fall-03.pdf",
+      "source_pages": [
+        9,
+        12
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "故有             s+5             π           arctan             2             F(s) =            −            .             2(s + 5)             s + 5   (10) 由拉氏变换"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Homework/2021/03/Solutions/pages_013-013.md",
+      "title": "2021 秋季作业 03 · Solutions：第 13–13 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "d44891e37ea839d1c4a39c6131679df49e608e8720268a502ba9b36d4a4fc0e3",
+      "source_name": "Solution-2021Fall-03.pdf",
+      "source_pages": [
+        13,
+        13
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "即             s + 5            1             X(s) =            +            .             2            2             s   + 4s + 3         (s + 1)    (s + 3) 由拉氏"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_01/Questions/pages_001-005.md",
+      "title": "习题 1：作业与同步训练答案 · Questions：第 1–5 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "9cac5b0934691916e44b9de23a660c600d11a24f87458cc955095a107fa15569",
+      "source_name": "哈工大习题册复变作业-1.pdf",
+      "source_pages": [
+        1,
+        5
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "变函数与酲 B 变狈同训练 班级： 姓名："
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_01/Solutions/pages_001-006.md",
+      "title": "习题 1：作业与同步训练答案 · Solutions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "255e5607cdb1ef095c6afebaf8e663978c901decb492ff2b52f6395d632d315b",
+      "source_name": "复变函数与积分变换同步训练习题1答案.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "习题一   1. 将下列复数化简成𝑥+ i𝑦的形式。  (1)  (1 + 2i )3 = (1 + 2i )(1 + 2i )(1 + 2i ) = ( −+3  4i )(1 + 2i ) = −−9  2i 。               n            n            π          "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_01/Solutions/pages_007-012.md",
+      "title": "习题 1：作业与同步训练答案 · Solutions：第 7–12 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "255e5607cdb1ef095c6afebaf8e663978c901decb492ff2b52f6395d632d315b",
+      "source_name": "复变函数与积分变换同步训练习题1答案.pdf",
+      "source_pages": [
+        7,
+        12
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "6. 设 z , z1 , z 2 是三个复数，证明：      (1) z1 + z 2 = z1 + z 2 , z1 z 2 = z1 z 2 , z = z ;      ( 2 ) 当且仅当 z = z 时，z 是实数。              ;     ( 3 )  z1 + z 2 2 = z1 2 "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_02/Questions/pages_001-006.md",
+      "title": "习题 2：作业与同步训练答案 · Questions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "a12809310be1d8f4a20eee2b4b02249d6f6feb69095e11b75e3a9c4d98734e08",
+      "source_name": "哈工大习题册复变作业-2.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "变函数与酲 B 变狈同训练 日页 班级： 姓名："
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_02/Questions/pages_007-010.md",
+      "title": "习题 2：作业与同步训练答案 · Questions：第 7–10 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "a12809310be1d8f4a20eee2b4b02249d6f6feb69095e11b75e3a9c4d98734e08",
+      "source_name": "哈工大习题册复变作业-2.pdf",
+      "source_pages": [
+        7,
+        10
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "Exercises TWO 心得体会拓广疑问 如果） = + ， 是一解析函数， 试证： （ D 00 ） 也是解析函数 （ 2 ） 一是。 的共轭调和函数 · 如果丆 0 ） 一 + iv 是 z 的解析函数， 证明： 2 Ou Oy （ 2 ） 0v 2 2 一丨丆气之） 0 年 月"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_02/Solutions/pages_001-006.md",
+      "title": "习题 2：作业与同步训练答案 · Solutions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "37181c56e946f1157c964595ad6fac5a8bb5acd008beb1822eb69048b1b05885",
+      "source_name": "复变函数与积分变换同步训练习题2答案.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "习题二    1. 下列函数在何处可导？何处解析？               2 − iy;解：(1) f ( z ) = x   由于               ∂u      ∂u     ∂v     ∂v             = 2 x ,    = 0,   = 0,   = −1          "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_02/Solutions/pages_007-012.md",
+      "title": "习题 2：作业与同步训练答案 · Solutions：第 7–12 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "37181c56e946f1157c964595ad6fac5a8bb5acd008beb1822eb69048b1b05885",
+      "source_name": "复变函数与积分变换同步训练习题2答案.pdf",
+      "source_pages": [
+        7,
+        12
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "3 ) 假设  f ( z ) 在D 内是一个常数。故有 u            2 + v 2 = C ( C为常数。因为)   f ( z ) 在区域D 内解析，从而,u v 在D 内可微且满足C − R 条件。在  u 2 + v 2 = C 两边分别对x 和y 求偏导，有              {   ∂"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_02/Solutions/pages_013-018.md",
+      "title": "习题 2：作业与同步训练答案 · Solutions：第 13–18 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "37181c56e946f1157c964595ad6fac5a8bb5acd008beb1822eb69048b1b05885",
+      "source_name": "复变函数与积分变换同步训练习题2答案.pdf",
+      "source_pages": [
+        13,
+        18
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "证：)1 注意到              i  f ( z ) = i ( u − iv ) = v + iu = v − iu = −i ( u + iv ) = −i f ( z ) 。  因为 f ( z ) 是一解析函数，故 i  f ( z ) 也是解析函数。  2 ) 因为 f ( z ) 是一解析函数，"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_02/Solutions/pages_019-020.md",
+      "title": "习题 2：作业与同步训练答案 · Solutions：第 19–20 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "37181c56e946f1157c964595ad6fac5a8bb5acd008beb1822eb69048b1b05885",
+      "source_name": "复变函数与积分变换同步训练习题2答案.pdf",
+      "source_pages": [
+        19,
+        20
+      ],
+      "methods": [
+        "font_recovery",
+        "windows_ocr"
+      ],
+      "preview": "1     z1     − z1 1     z 2     − z 2   1     z1     − z1 1     z 2     − z 2  =   e − e      e  + e   +   e + e      e  − e        (          )   (           )"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_03/Questions/pages_001-006.md",
+      "title": "习题 3：作业与同步训练答案 · Questions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "87a181bd7b9a8c7f662de4090fc93439f1efc1c8273805a75add5a1699ac4c8d",
+      "source_name": "哈工大习题册复变作业-3.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "变函数与酲 B 变同 i 川练 日页 班级： 姓名 ·"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_03/Questions/pages_007-009.md",
+      "title": "习题 3：作业与同步训练答案 · Questions：第 7–9 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "87a181bd7b9a8c7f662de4090fc93439f1efc1c8273805a75add5a1699ac4c8d",
+      "source_name": "哈工大习题册复变作业-3.pdf",
+      "source_pages": [
+        7,
+        9
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "23 ． 、 Exercises Three 心得体会拓广疑问 3 z2 + 7z + 1 dz ， C ： 1 z 十 i ： 1 ； c 十 1)3 dz ， 其中为丨 1 的任何复数， c ： ： c （之一 3 3 之 + 2 年 月"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_03/Solutions/pages_001-006.md",
+      "title": "习题 3：作业与同步训练答案 · Solutions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "94f8a403738a39193b6b0a7c93a42b100a4e8ab5013372298ebacb1382aa7026",
+      "source_name": "复变函数与积分变换同步训练习题3答案.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "习题三               3  i 1. 沿下列路径计算积分    z 2 d z 。            +∫0  (1)自原点到3 + i 的直线段;  (2)自原点沿实轴至3，再由3 垂直向上至3 + i 。  (3)自原点沿虚轴至i，再由i 水平向右至3 + i 。              3 +"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_03/Solutions/pages_007-012.md",
+      "title": "习题 3：作业与同步训练答案 · Solutions：第 7–12 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "94f8a403738a39193b6b0a7c93a42b100a4e8ab5013372298ebacb1382aa7026",
+      "source_name": "复变函数与积分变换同步训练习题3答案.pdf",
+      "source_pages": [
+        7,
+        12
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "9. 如果多项式 Q ( z ) 比多项式(P z ) 的次数至少高2 次，证明：              P ( z )            lim         dz = 0 。            R →∞ ∫ z = R               Q ( z )        P ( z )   an"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_03/Solutions/pages_013-014.md",
+      "title": "习题 3：作业与同步训练答案 · Solutions：第 13–14 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "94f8a403738a39193b6b0a7c93a42b100a4e8ab5013372298ebacb1382aa7026",
+      "source_name": "复变函数与积分变换同步训练习题3答案.pdf",
+      "source_pages": [
+        13,
+        14
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "的z ∈ D ，证明               R 2 − zz ① 函数(g ζ) =   2         f (ζ) 在C 上及内部解析;            R − ζz             1      R 2 − zz            f (ζ) dζ。②   f ( z ) =     ∫"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_04/Questions/pages_001-006.md",
+      "title": "习题 4：作业与同步训练答案 · Questions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "de79a09e6c792208855adfc0f94f2480f2d79644f5f4c3e419b587b17af78a25",
+      "source_name": "哈工大习题册复变作业-4.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "变函数与酬 B 变狈固练 习 班级： 姓名： 题 四"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_04/Questions/pages_007-010.md",
+      "title": "习题 4：作业与同步训练答案 · Questions：第 7–10 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "de79a09e6c792208855adfc0f94f2480f2d79644f5f4c3e419b587b17af78a25",
+      "source_name": "哈工大习题册复变作业-4.pdf",
+      "source_pages": [
+        7,
+        10
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "习题四 Exercises Four 心得体会拓广疑问 设幂级数佑这 \" 的收敛半径 R > 0 ， 其和函数为 ． / 0 ） ， 证明： ” = 0 M(r) · ， 其中 0 < 厂 < ． R ， M （刁一 max | 丿 '()e 力 | · 0 ： 《 ； 2 丌 年 月"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_04/Solutions/pages_001-006.md",
+      "title": "习题 4：作业与同步训练答案 · Solutions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "b4b732970904c2ca82f69cb0b3be097a5758e3ee0e8c19e48ae9f6b8bbdd79e1",
+      "source_name": "复变函数与积分变换同步训练习题4答案.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "习题四                n − 1    2 n1.  (1) 设 z n =    + i   ，求lim z n 。            n →∞               n    3n + 1             i      n − 1            z n      ( 2 )"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_04/Solutions/pages_007-012.md",
+      "title": "习题 4：作业与同步训练答案 · Solutions：第 7–12 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "b4b732970904c2ca82f69cb0b3be097a5758e3ee0e8c19e48ae9f6b8bbdd79e1",
+      "source_name": "复变函数与积分变换同步训练习题4答案.pdf",
+      "source_pages": [
+        7,
+        12
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "∞            ∞            ∞             n 的收敛半径8. 证明：()1 设   an 收敛，但   an 发散，则幂级数   an z              =∑n 0           =∑n 0            =∑n 0   为1；        ∞     "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_04/Solutions/pages_013-018.md",
+      "title": "习题 4：作业与同步训练答案 · Solutions：第 13–18 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "b4b732970904c2ca82f69cb0b3be097a5758e3ee0e8c19e48ae9f6b8bbdd79e1",
+      "source_name": "复变函数与积分变换同步训练习题4答案.pdf",
+      "source_pages": [
+        13,
+        18
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "θ现在利用圆周 ζ= r 的参数方程 ζ = rie  , 0 ≤ θ≤ 2π 将( ∗和()  ∗∗中的线)  积分转换为定积分，得              {     r n   2π    i nθ            iθ            e    f ( re  ) dθ            0 "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_04/Solutions/pages_019-019.md",
+      "title": "习题 4：作业与同步训练答案 · Solutions：第 19–19 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "b4b732970904c2ca82f69cb0b3be097a5758e3ee0e8c19e48ae9f6b8bbdd79e1",
+      "source_name": "复变函数与积分变换同步训练习题4答案.pdf",
+      "source_pages": [
+        19,
+        19
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "证：设函数 f ( z ) 在 z < R 内解析，且               ∞             an z n。            f ( z ) =∑             n = 0   由解析函数泰勒展开式的系数表达式， 有               ( n )            f  "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_05/Questions/pages_001-006.md",
+      "title": "习题 5：作业与同步训练答案 · Questions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "5d7ba0dbf8abaaf89e20f171f1e9aa4b4556b762e098e9659ddcc0c29052e7b0",
+      "source_name": "哈工大习题册复变作业-5.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "0 变函数与酲 B 变狈同 i 川练 班级： 姓名："
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_05/Questions/pages_007-012.md",
+      "title": "习题 5：作业与同步训练答案 · Questions：第 7–12 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "5d7ba0dbf8abaaf89e20f171f1e9aa4b4556b762e098e9659ddcc0c29052e7b0",
+      "source_name": "哈工大习题册复变作业-5.pdf",
+      "source_pages": [
+        7,
+        12
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "习题五 Exercises Five 心得体会拓广疑问 （ 6 ） 丆 0 ） = 1 S1n 之 tan 之 · 年 月"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_05/Questions/pages_013-014.md",
+      "title": "习题 5：作业与同步训练答案 · Questions：第 13–14 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "5d7ba0dbf8abaaf89e20f171f1e9aa4b4556b762e098e9659ddcc0c29052e7b0",
+      "source_name": "哈工大习题册复变作业-5.pdf",
+      "source_pages": [
+        13,
+        14
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "习题五 Exercises Five 心得体会拓广疑问 计算下列各积分 ． tan(mz)dz ， C ： 丨 z 刀， = 1 ， 2 ， 3 ， · dz,C ： c 1 + 丨 | 一 > 1 为自然数 ． 年 月"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_05/Solutions/pages_001-006.md",
+      "title": "习题 5：作业与同步训练答案 · Solutions：第 1–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "f6c6a81e479092bceba9bfadb45ee15e83d5842ae3a2d8c29bf72ca0ab2a4bb1",
+      "source_name": "复变函数与积分变换同步训练习题5答案(1).pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "习题五   1. 下列各函数有哪些孤立奇点？各属于哪一类型？如果是极点，指   出它的阶。         1 (1)               2 ;      z 3  z 2 + 1         (       )  解：它的孤立奇点是 z = 0, z = ±及zi    = ∞。    z = 0 是3"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_05/Solutions/pages_007-012.md",
+      "title": "习题 5：作业与同步训练答案 · Solutions：第 7–12 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "f6c6a81e479092bceba9bfadb45ee15e83d5842ae3a2d8c29bf72ca0ab2a4bb1",
+      "source_name": "复变函数与积分变换同步训练习题5答案(1).pdf",
+      "source_pages": [
+        7,
+        12
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "15. 证明：若 0z 是解析函数 f ( z ) 的本性奇点，且 f ( z ) ≠，则0      0z 也是            f ( z )  的本性奇点。  证：设 0z 是解析函数 f ( z ) 的本性奇点，且 f ( z ) ≠。则0              lim f ( z )        "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_05/Solutions/pages_013-017.md",
+      "title": "习题 5：作业与同步训练答案 · Solutions：第 13–17 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "f6c6a81e479092bceba9bfadb45ee15e83d5842ae3a2d8c29bf72ca0ab2a4bb1",
+      "source_name": "复变函数与积分变换同步训练习题5答案(1).pdf",
+      "source_pages": [
+        13,
+        17
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "1        1             z +            z       z   z   (      1   2  1   3    )(   1  1 1   1 1     )        e   = e e = 1 + z +   z +   z +    1 +  +    +    + "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_05/Solutions/pages_018-023.md",
+      "title": "习题 5：作业与同步训练答案 · Solutions：第 18–23 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "f6c6a81e479092bceba9bfadb45ee15e83d5842ae3a2d8c29bf72ca0ab2a4bb1",
+      "source_name": "复变函数与积分变换同步训练习题5答案(1).pdf",
+      "source_pages": [
+        18,
+        23
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "注意到              1      5            lim            sin  z = 1 ，             z → 0   5            z                 1     5 故 z = 0 是函数  5 sin  z 的可去奇点。因此，有    "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_05/Solutions/pages_024-026.md",
+      "title": "习题 5：作业与同步训练答案 · Solutions：第 24–26 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "f6c6a81e479092bceba9bfadb45ee15e83d5842ae3a2d8c29bf72ca0ab2a4bb1",
+      "source_name": "复变函数与积分变换同步训练习题5答案(1).pdf",
+      "source_pages": [
+        24,
+        26
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "f ( z )            f ( z 0 )            f ( z )其中           2     在点 0z 处解析且   2  ≠。因此，0               0z 是   2 的二阶极点。  ϕ ( z )        ϕ ( z 0 )            g  ("
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_07/Partial_Answers/pages_001-006.md",
+      "title": "习题 7 部分参考答案 · Partial_Answers：第 1–6 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "1b8489867a55dce81ee33ccb9f5a61d39ea004116aa36e9285da7ab12b1784b0",
+      "source_name": "习题7部分题参考答案.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "2 复变函数与积分变换同步训练 Synchronous Train in g of the Com plex Variable Fun ction an d ln tegral Tran sform 心得体会拓广疑问 O 求下列函数的傅里叶变换 ． （ 0 丆 0 ） 0 ， 其他 E e twtdt 0 0 ， （ "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_07/Partial_Answers/pages_007-011.md",
+      "title": "习题 7 部分参考答案 · Partial_Answers：第 7–11 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "1b8489867a55dce81ee33ccb9f5a61d39ea004116aa36e9285da7ab12b1784b0",
+      "source_name": "习题7部分题参考答案.pdf",
+      "source_pages": [
+        7,
+        11
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "8 复变函数与积分变换同步训练 Syn ch ron ous fraining or the CompIex 、 aria b le Fun ction and lntegral Transform 证明： 如果 e 艹到一 F ‰ ） ， 其中 9b(t) 为一实函数， 则 1 2 1 ;Lsin 0 月： —.CF"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_08/Partial_Answers/pages_001-006.md",
+      "title": "习题 8 部分参考答案 · Partial_Answers：第 1–6 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "4916a4dcb51665b7cbfe9e964dfebfebc6a43c762ca40ca0d56f0dd39abe2a6e",
+      "source_name": "习题8部分题参考答案.pdf",
+      "source_pages": [
+        1,
+        6
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "2 复变函数与积分变换同步训练 Syn chron€ ， us Training 補 the Com plex Varia b 腌 Fun ction an d Jn tegral Transform 求下列函数的拉氏变换、 心得体会拓广疑问 3 Re 〔 3 Re （丿 20 （ 2 ） 丆 （ 0 = S 卞 Z "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Workbook/Exercises_08/Partial_Answers/pages_007-011.md",
+      "title": "习题 8 部分参考答案 · Partial_Answers：第 7–11 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "4916a4dcb51665b7cbfe9e964dfebfebc6a43c762ca40ca0d56f0dd39abe2a6e",
+      "source_name": "习题8部分题参考答案.pdf",
+      "source_pages": [
+        7,
+        11
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "11 （ 3 ） / sin d ／ ， a R. 2 求 （ 0 亠 sin ／ 一 S 《 n 3 变换、 对比两者的结果， 你可以得到什么启示？ 2 L [ 5 忉 (t- 5 习题八 Exercises Eight 心得体会拓广疑问 2 一） 的拉氏 3 奇 L ] 一 5 山 L [ 到 COS 2 丨 2 "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Front_Matter/pages_001-003.md",
+      "title": "综合训练封面与目录：第 1–3 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        1,
+        3
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "5 复变函数与积分变换 综合训练 FUNCTIONS OF COMPLEX VARIABLE AND INTEGRAL TRANSFORM COMPREHENSIVE TRAINING 包革军邢宇明主编 必锱多哎麦蓐出版社 扫描全能王创建"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_01/Questions/pages_004-009.md",
+      "title": "专题试题 1 · Questions：第 4–9 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        4,
+        9
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "、 填空题 I. 设 z ： ， 则其实部为 （ 1 + i)3 + 1 复变函數与积分变換试思 （一 》 FunctiotB 補 CompIex “ i 曲 and - 《 TNBform T { ～ 》 心得体会拓广疑问 复变函数与积分变换试题 （一） 回 ． 回 3 ， 虚部为 2 ． 一复数对应的向量按逆时针方"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_01/Questions/pages_010-013.md",
+      "title": "专题试题 1 · Questions：第 10–13 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        10,
+        13
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函数与积分变换试题 （一） Functions 補 CompIex VariabIe and lntegral Transform T t { 0 仳） 八、 解方程 z2 4iz 一 4 + 9i = 0 ， 回 ． 回 心得体会拓广疑问 月 9 日 扫描全能王创建"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_01/Answers/pages_001-003.md",
+      "title": "专题试题 1 · Answers：第 1–3 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "f71c8d85ea4c1bb28f4de23d0edf73a51735dd7efbc13f3fc98192d93912bce6",
+      "source_name": "综合训练答案 (1).pdf",
+      "source_pages": [
+        1,
+        3
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变數与軹分变換试思 （一） 解笞 Functlons CompIex Variable 飠 lntegr•l Tramform Test Axwer(Oæ) 复变函数与积分变换试题 （一） 解答 填空题 2 · + + 科一 3 32 1 4 · COS ' 一 · isin 一单项选择题 I.A 2 · B 3 ·"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_02/Questions/pages_014-019.md",
+      "title": "专题试题 2 · Questions：第 14–19 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        14,
+        19
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函数与积分变换试题 （二 》 Functions Of CompIex Varia b le an d lntegral Transform Test(Two) 心得体会拓广疑问 复变函数与积分变换试题 （二） 、 填空题 = (eJcos y 一 + l(efsin ， 一） 在 l. 函数不是） 处解析 ． 可"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_02/Questions/pages_020-022.md",
+      "title": "专题试题 2 · Questions：第 20–22 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        20,
+        22
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函数与积分变换试题 （二） Functions 0f Com p 《 VarfabIe and ln tegral Transform Test(Two) 八、 设 f(z) 一 \" + 是一个解析函数， 且 “ + = 一， 3 + 3 2 ， 一心得体会拓广疑问 302 一 2 一 2 ， ， 求 f(z) ="
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_02/Answers/pages_004-007.md",
+      "title": "专题试题 2 · Answers：第 4–7 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "f71c8d85ea4c1bb28f4de23d0edf73a51735dd7efbc13f3fc98192d93912bce6",
+      "source_name": "综合训练答案 (1).pdf",
+      "source_pages": [
+        4,
+        7
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "94 回 ． 回 复变函數与軹分变換鐮合诵鐮 Functions Comp1ex 艹 № - Tr•ßt«• T “ 复变函数与积分变换试题 （二） 解答 填空题 1. ， = 一上， C 上无 · 2 · e• sin + C. 3 · 1 ， [ cos （ 2V 丌） + isin （ 2 、 厄 ] ， e Z"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_03/Questions/pages_023-028.md",
+      "title": "专题试题 3 · Questions：第 23–28 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        23,
+        28
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "22 回 ． 回 复变函数与积分变换综合训练 Functions of complex variable and lntegral Transform C P “ “ Training 、 得体会广疑问 复变函数与积分变换试题 （三） 一、 填空题 的积分 I. 沿， ： x （ 8t2 + + l)dz= 2 · 到"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_03/Questions/pages_029-031.md",
+      "title": "专题试题 3 · Questions：第 29–31 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        29,
+        31
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函数与积分变换综合训练 28 Functions of Complex Variable and lntegral Transform Comprehensive Training 回 ． 回 八、 试证 靛 < 8 了 ． 心得体会拓广疑问 年月日 扫描全能王创建"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_03/Answers/pages_008-010.md",
+      "title": "专题试题 3 · Answers：第 8–10 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "f71c8d85ea4c1bb28f4de23d0edf73a51735dd7efbc13f3fc98192d93912bce6",
+      "source_name": "综合训练答案 (1).pdf",
+      "source_pages": [
+        8,
+        10
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "0 。 ： 。 “ 》 c«nprehensive Training 98 复变函数与积分变换试题 （三） 解答 填空题 3 · 0 ， 2 ， 0 ， 2 · 8 ， 0 ． 、 单项选择题 1 、 C 2 ． D 3 ． C 4 、 D 5 、 B 解： 厂 = n U ， 而， ， ， 一 1 < ' < 1 ，"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_04/Questions/pages_032-037.md",
+      "title": "专题试题 4 · Questions：第 32–37 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        32,
+        37
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函数与积分变换试题 （四） Functions of Complex Varia b le and ln tegral Transform Test( Four) 心得体会拓广疑问 复变函数与积分变换试题 （四） 37 一、 填空题 件是 S 1 n 是 （ 2 + + 2 ） ez = zo 的充要条 “ 以 0"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_04/Questions/pages_038-040.md",
+      "title": "专题试题 4 · Questions：第 38–40 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        38,
+        40
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函数与积分变换试題 （四） Functions 0f Com plex Varia ble an d ln tegral Tran sform Test(Four) 心得体会拓广疑问 八、 如果习口 “ \" 的收敛半径为 R ， 证明 ()e 口， ） z ” 的收敛半径大 -0 于或等于 R. 年月 回 ． 回 "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_04/Answers/pages_011-014.md",
+      "title": "专题试题 4 · Answers：第 11–14 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "f71c8d85ea4c1bb28f4de23d0edf73a51735dd7efbc13f3fc98192d93912bce6",
+      "source_name": "综合训练答案 (1).pdf",
+      "source_pages": [
+        11,
+        14
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函数与积分变換试 （四， 解萏 复变函数与积分变换试题 （四） 解答 = ,lim = bo 1 ， 1 4 · | R. 5 ， 1 < 丨 z 一 2 | < 2 ， 单項选择题 I.D 2 ， B 3 · C 4 · B 5 · C = 证： 当 0 < | z 丨 < 1 时， 因为 < z | 0 + 2"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_05/Questions/pages_041-046.md",
+      "title": "专题试题 5 · Questions：第 41–46 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        41,
+        46
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "毒 0 复变函数与积分变换综合训练 复变函数与积分变换试题 （五） 、 填空题 心得体会拓广疑问 Stn ： 的 1 “ ： 为数 f(z) 一 1 2 ． = 0 为函数 f(z) = 3 · ： = 为函数不 z) 一 + 百的 的 奇点 · 点 · 奇点 · 在奇点： 0 的留数为 4 ． 函数 f(z) = 2"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_05/Questions/pages_047-047.md",
+      "title": "专题试题 5 · Questions：第 47–47 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        47,
+        47
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "46 复变函蚊与积分变换综合训练 Functions CompIex Variable and lntegral Transform ComprehensIve Training 八、 若不 z) 在分段光滑闭曲线 c 所围区域内除点 z ： 口外解析， 且 “ 心得体会广 是 f(z) 的 ” 阶极点， 求证： 当一"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_05/Answers/pages_015-018.md",
+      "title": "专题试题 5 · Answers：第 15–18 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "f71c8d85ea4c1bb28f4de23d0edf73a51735dd7efbc13f3fc98192d93912bce6",
+      "source_name": "综合训练答案 (1).pdf",
+      "source_pages": [
+        15,
+        18
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "1 ， 可去， 2 ． 6 阶极 ． 3 ， 可去 ． 4 ． 选择题 1 ， B 2 · B 3 ． C 4 ， A 5 ， D 6 ． A ： “ 1 是的本性奇点； 的一阶极点， z 2 ： 0 是 z()2 + 1)2 1 ， 一到 CO S 之 的可去奇点； 3 ： 0 是 ： 1 是 e 占的本性奇点， z"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_06/Questions/pages_048-053.md",
+      "title": "专题试题 6 · Questions：第 48–53 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        48,
+        53
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函数与积分变换试题 （六） Functions CompIex Variable an d I n tegral Tran sform Test(Six) 心得体会拓广疑问 复变函数与积分变换试题 （六） 、 填空题 1. 设 f(t) ： sin3t ， 则万 [ 不 t) ] = 2 ． 设 [ 不 t) ] "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_06/Questions/pages_054-054.md",
+      "title": "专题试题 6 · Questions：第 54–54 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        54,
+        54
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函数与积分变换试题 （六） Functions Com p 黑 V•riabIe and № t a 《 Transform Test( Six) 5J 八、 求微分积分方程丆气 t) 一 t < + 亠， 且 （ t) 山 = 0 ． 回 ． 回 x(r)dt = e 的解， 其中一亠 < 心得体会拓 0 疑问 "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_06/Answers/pages_019-022.md",
+      "title": "专题试题 6 · Answers：第 19–22 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "f71c8d85ea4c1bb28f4de23d0edf73a51735dd7efbc13f3fc98192d93912bce6",
+      "source_name": "综合训练答案 (1).pdf",
+      "source_pages": [
+        19,
+        22
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函与积分变換试六） 解笞 蜘 9 复变函数与积分变换试题 （六） 解答 —riCö(w + 3 ） 一一 3 月， 5 ， 2 瓦 w). 单項选择题 I. A 2 ， C 3 ． B 4 ． A 5 · D 6 ， B 1 + 例 [ e 一囝 cos 门 = 2 1 + （@ + 1)2 2 （ · + 2 ）"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_07/Questions/pages_055-060.md",
+      "title": "专题试题 7 · Questions：第 55–60 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        55,
+        60
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函数与积分变换综合训练 Functions of Complex Variable and lntegral Trnnsform Comprehensive Training 心得体会拓广 复变函数与积分变换试题 （七） 、 填空题 1. 已知 [ 不 t) ] =F(s) > 0 ， b 冫 0 ， 则 [ 不 "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_07/Questions/pages_061-061.md",
+      "title": "专题试题 7 · Questions：第 61–61 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        61,
+        61
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "七、 求微分方程组 （ 0 ） = 0 ， ， （ 0 ） =y'(0) = 0 的解 复变函数与积分变換试思 （七） F 皿 ct 《 ， CompIex Variable and teval Tr•nsform TBt(Seven) 心得体会拓广疑问 满足初始条件 0 ） 一 回 ． 回 扫描全能王创建 59"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_07/Answers/pages_023-025.md",
+      "title": "专题试题 7 · Answers：第 23–25 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "f71c8d85ea4c1bb28f4de23d0edf73a51735dd7efbc13f3fc98192d93912bce6",
+      "source_name": "综合训练答案 (1).pdf",
+      "source_pages": [
+        23,
+        25
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函与軹分变換试七 } 解 复变函数与积分变换试题 （七） 解答 2 、 一 24S 3 ， Res > 0 ． 3 ． arctan 一 COS t) 6 + 一 3 ） 瑟一 2). “ 单项选择题 I.C 2 ． B 3 ． A 4 ． C 5 ． D 6 ． A [ 2 （ 1 一 cos ） ] ds .1"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_08/Questions/pages_062-067.md",
+      "title": "综合试题 1 · Questions：第 62–67 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        62,
+        67
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "60 、 填空题 回 ． 回 复变函斂与积分变換综合训蠊 Functions of CompIex Variable and lntegral Trøf«n C 的忡 e Tnining 心得体会拓广疑问 复变函数与积分变换试题 （综合一） 在 1. 函数不 z) =zlm 之 + Re z 在 处解析 ． 2 ， 复"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_08/Questions/pages_068-071.md",
+      "title": "综合试题 1 · Questions：第 68–71 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        68,
+        71
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函数与积分变换综合训练 66 Functions 0f CompIex VariabIe and lntegral Transform Compeehensive Training sin 30 八、 计算积分 = 2 ， | a 丨 < 1. 0 1 一 2 “ os 0 + 口 回 · 回 心得体会拓广疑问 扫"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_08/Answers/pages_026-030.md",
+      "title": "综合试题 1 · Answers：第 26–30 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "f71c8d85ea4c1bb28f4de23d0edf73a51735dd7efbc13f3fc98192d93912bce6",
+      "source_name": "综合训练答案 (1).pdf",
+      "source_pages": [
+        26,
+        30
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函敵与积分变換合训蠊 7 76 Functions of complex Variable •nd lnt 》 Transform comprehensive Training 复变函数与积分变换试题 （综合一） 解答 = 0 《 《 冂弓 （汀 回 ． 回 、 填空题 ln 2 一 (± 十 2 “ 刁 1. C"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_09/Questions/pages_072-077.md",
+      "title": "综合试题 2 · Questions：第 72–77 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        72,
+        77
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函与軹分变換鎿合训 Functions 補 C•pk* V 艹 № - - c•prehe•t•e T “ 圄 复变函数与积分变换试题 （综合二） 将下列复数写成 + i ， 的形式 ． 1. cos(l + (i) 《 2 ． 1 万 《 3 ． Ln(3+4i); 4 · Arctan 2i. 扫描全能王创建"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_09/Questions/pages_078-082.md",
+      "title": "综合试题 2 · Questions：第 78–82 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        78,
+        82
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函数与軹分变換合训鮪 h•nctions C - 虍 V 艹 № - 《 _ 一 “ Tr• ， 其中苑： 0 ， 士 七、 已知尸： ， 计箅 土 2 ， ， 扫描全能王创建 心得体会广"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_09/Answers/pages_031-036.md",
+      "title": "综合试题 2 · Answers：第 31–36 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "f71c8d85ea4c1bb28f4de23d0edf73a51735dd7efbc13f3fc98192d93912bce6",
+      "source_name": "综合训练答案 (1).pdf",
+      "source_pages": [
+        31,
+        36
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变嵫最与換试 0 0 、 Føn ction s of complex Variable d lntegral Tnnsfom Tet 朊儲 复变函数与积分变换试题 （综合二） 解答 1 —Cei “ 2 ' + e —i( l+2i) 2 1 2 1 Ce (cos 1 + isin l)+e2(cos 1 一 i"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_09/Answers/pages_037-037.md",
+      "title": "综合试题 2 · Answers：第 37–37 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "f71c8d85ea4c1bb28f4de23d0edf73a51735dd7efbc13f3fc98192d93912bce6",
+      "source_name": "综合训练答案 (1).pdf",
+      "source_pages": [
+        37,
+        37
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复隻还饊与軹分隻換巛地食： 的 Functions Comp № •b № •nd lntev•l T 帽 n 灬 № - { c 灬 - 、 逆变换， 得初值问题的解 l.aplace t) = 还 X(s 月一一挈 1 5 + 1 —(2t+7)e 2 (s+1)2 ， + 3 扫描全能王创建"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_10/Questions/pages_083-088.md",
+      "title": "综合试题 3 · Questions：第 83–88 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        83,
+        88
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变数与积分变換试 0 （莓舍 Functins CompIex V•ria ble nd ln - 虱 Tr 衄灬 T 《 CO “ 灬艹 ' - ） 心得体会拓广疑问 复变函数与积分变换试题 （综合三） 一填空题 1. 一复数对应的向量按逆时针方向旋转时， 对应的复数是 1 + 则原复数是 ec + sin 0 d"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_10/Questions/pages_089-089.md",
+      "title": "综合试题 3 · Questions：第 89–89 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "c35391b3b8515c7ed94cf25572e4fb6a40ca03b772ea50a6152a99f7d063edee",
+      "source_name": "复变函数与积分变换综合训练.pdf",
+      "source_pages": [
+        89,
+        89
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "复变函与积分变換试 0 （合三） Functions 補 Complex Variable an d ln tegral Transform Test(Comprehension Three) 七求解下列初值问题 心得体会拓广疑间 扫描全能王创建 回 ．"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Comprehensive/Set_10/Answers/pages_038-040.md",
+      "title": "综合试题 3 · Answers：第 38–40 页",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "source_id": "f71c8d85ea4c1bb28f4de23d0edf73a51735dd7efbc13f3fc98192d93912bce6",
+      "source_name": "综合训练答案 (1).pdf",
+      "source_pages": [
+        38,
+        40
+      ],
+      "methods": [
+        "windows_ocr"
+      ],
+      "preview": "丿 28 I.D 2 ， A 3.C 4 ， B 5 ． A 一 2 复变函数与軹分变換蠊合训蠊 Functions Complex VariabIe and lntegral Transform Comprehensive Training 复变函数与积分变换试题 （综合 三） 解答 、 填空题 1. 、 fe 一 "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_001-003.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 1–3 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        1,
+        3
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "Chapter 2.6, Page 64        Exercise 1: Prove that              ∫            ∫            √             ∞            ∞             2π             2            2"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_004-006.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 4–6 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        4,
+        6
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "4              Solution. Let ξ = a + bi with a, b ∈               R. Then               ∫            ∫             ∞            ∞             2            2    "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_007-009.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 7–9 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        7,
+        9
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "7                (a) Starting with the RHS,      ∫            (            )            ∫            (            )         2π            iφ            2π      "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_010-012.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 10–12 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        10,
+        12
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "10              we can write              (            )     ∞            ∞        N            ∞    ∑            ∑       ∑            j            ∑           "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_013-015.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 13–15 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        13,
+        15
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "13      Exercise 4: Show that              ∫             ∞             x sin x             −a             dx = πe         ,    for all a > 0.             2     "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_016-018.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 16–18 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        16,
+        18
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "16              2πiz           πiz           Solution. Consider the function f(z) = 1 −               e       = −2ie       sin(πz). (This            clever tric"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_019-021.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 19–21 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        19,
+        21
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "19      As N →       ∞, the LHS approaches zero and we have              N             ∑            2             1               π             =              ."
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_022-025.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 22–25 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        22,
+        25
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "22             where the series converges absolutely in the interior of the annulus. To            prove this, it suﬃces to write              ∫            ∫   "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_026-028.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 26–28 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        26,
+        28
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "26         Exercise 9: Prove that if |z| < 1, then              ∞             ∏             k         1             2         4            2             (1 + z)"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_029-032.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 29–32 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        29,
+        32
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "29               Chapter 5.7, Page 156          Problem 1: Prove that if f is holomorphic in the unit disc, bounded, and              not identically zero, and "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_033-034.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 33–34 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        33,
+        34
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "33        Exercise 9: The hypergeometric series F(α, β, γ; z) was deﬁned in Exercise          16 of Chapter 1. Show that              ∫             1           "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_035-037.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 35–37 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        35,
+        37
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "35               By analytic continuation, these relations both hold for z in the strip              0 < Re(z) < 1.                 (b) The right-hand side of t"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_038-040.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 38–40 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        38,
+        40
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "38             where σ = Re(s). Thus, the tails of the series are dominated by              ∞             ∑             M              σ+1             σn       "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_041-042.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 41–42 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        41,
+        42
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "41            Now             |            |    |∫            |             2n             |            |    |            |             1             1         "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_043-045.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 43–45 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        43,
+        45
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "43               We can estimate this integral in the same manner as before. By con-              cavity,              √             N+1             (log       "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_046-048.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 46–48 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        46,
+        48
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "46                (a) Let              z −α             ψα(z) =            .             1 −   α¯z               Then it is easy to check that ψ            is a"
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_049-050.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 49–50 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        49,
+        50
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "49               equation is b = 0 and a, b, c determined by the (projectively)              unique dependence relation of⃗               x,⃗y,⃗xy.             "
+    },
+    {
+      "path": "Practice/Complex_Analysis/Additional_Exercises/Stein_Shakarchi/Solutions/pages_051-052.md",
+      "title": "Stein–Shakarchi 复分析习题解答选页 · Solutions：第 51–52 页",
+      "kind": "source_text",
+      "quality": "native_math_layout_unverified",
+      "source_id": "2d1b2bc5d202faf6844151b938ae1d14359ef6193be87c390442aeb65d8a0e2c",
+      "source_name": "SteinandShakarchiComplexAnalysis.pdf",
+      "source_pages": [
+        51,
+        52
+      ],
+      "methods": [
+        "font_recovery"
+      ],
+      "preview": "51               2         2           2         2      so the condition for f to preserve angles is that u            + u        = v        + v        and     "
+    }
+  ]
+}
