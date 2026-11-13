@@ -1,0 +1,3506 @@
+{
+  "subject": "Higher_Mathematics",
+  "encoding": "UTF-8",
+  "version": 2,
+  "contents": "Course/Higher_Mathematics/contents.md",
+  "originals": [
+    {
+      "path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "kind": "archive",
+      "indexed": false,
+      "body_lines": [
+        519,
+        13636
+      ]
+    },
+    {
+      "path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "kind": "archive",
+      "indexed": false,
+      "body_lines": [
+        329,
+        12280
+      ]
+    }
+  ],
+  "items": [
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_01_part_01.md",
+      "title": "第1章 函数与极限 / 第1节 映射与函数",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 1,
+      "part": 1,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "映射",
+        "极限",
+        "单调",
+        "平面"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        519,
+        742
+      ],
+      "characters": 5950
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_01_part_02.md",
+      "title": "第1章 函数与极限 / 第1节 映射与函数",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 1,
+      "part": 2,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "映射",
+        "极限",
+        "单调",
+        "有界",
+        "直线",
+        "复合函数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        743,
+        1013
+      ],
+      "characters": 5911
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_01_part_03.md",
+      "title": "第1章 函数与极限 / 第1节 映射与函数",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 1,
+      "part": 3,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "映射",
+        "极限",
+        "等价",
+        "单调",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        1014,
+        1107
+      ],
+      "characters": 1669
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_02_part_01.md",
+      "title": "第1章 函数与极限 / 第2节 数列的极限",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 2,
+      "part": 1,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "数列",
+        "极限",
+        "有界"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        1108,
+        1364
+      ],
+      "characters": 5907
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_02_part_02.md",
+      "title": "第1章 函数与极限 / 第2节 数列的极限",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 2,
+      "part": 2,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "数列",
+        "极限"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        1365,
+        1386
+      ],
+      "characters": 439
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_03_part_01.md",
+      "title": "第1章 函数与极限 / 第3节 函数的极限",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 3,
+      "part": 1,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "极限",
+        "数列",
+        "无穷大",
+        "直线",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        1387,
+        1632
+      ],
+      "characters": 5976
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_03_part_02.md",
+      "title": "第1章 函数与极限 / 第3节 函数的极限",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 3,
+      "part": 2,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "极限"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        1633,
+        1637
+      ],
+      "characters": 147
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_04_part_01.md",
+      "title": "第1章 函数与极限 / 第4节 无穷小与无穷大",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 4,
+      "part": 1,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "无穷大",
+        "无穷小",
+        "极限",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        1638,
+        1765
+      ],
+      "characters": 2428
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_05_part_01.md",
+      "title": "第1章 函数与极限 / 第5节 极限运算法则",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 5,
+      "part": 1,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "极限",
+        "数列",
+        "无穷小",
+        "有界",
+        "复合函数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        1766,
+        2065
+      ],
+      "characters": 5300
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_06_part_01.md",
+      "title": "第1章 函数与极限 / 第6节 极限存在准则、两个重要极限",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 6,
+      "part": 1,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "极限",
+        "数列",
+        "夹逼",
+        "单调",
+        "有界",
+        "柯西",
+        "复合函数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        2066,
+        2335
+      ],
+      "characters": 4286
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_07_part_01.md",
+      "title": "第1章 函数与极限 / 第7节 无穷小的比较",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 7,
+      "part": 1,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "无穷小",
+        "极限",
+        "等价"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        2336,
+        2495
+      ],
+      "characters": 2279
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_08_part_01.md",
+      "title": "第1章 函数与极限 / 第8节 函数的连续性与间断点",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 8,
+      "part": 1,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "极限",
+        "连续",
+        "间断点",
+        "初值"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        2496,
+        2683
+      ],
+      "characters": 4119
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_09_part_01.md",
+      "title": "第1章 函数与极限 / 第9节 连续函数的运算与初等函数的连续性",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 9,
+      "part": 1,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "极限",
+        "连续",
+        "间断点",
+        "单调",
+        "复合函数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        2684,
+        2876
+      ],
+      "characters": 4036
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/01_Limits_and_Continuity/section_10_part_01.md",
+      "title": "第1章 函数与极限 / 第10节 闭区间上连续函数的性质",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 1,
+      "section": 10,
+      "part": 1,
+      "modules": [
+        "01_limit"
+      ],
+      "keywords": [
+        "函数",
+        "极限",
+        "连续",
+        "数列",
+        "间断点",
+        "无穷小",
+        "等价",
+        "有界",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        2877,
+        3110
+      ],
+      "characters": 5193
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/02_Derivatives/section_01_part_01.md",
+      "title": "第2章 导数与微分 / 第1节 导数概念",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 2,
+      "section": 1,
+      "part": 1,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "导数",
+        "微分",
+        "函数",
+        "极限",
+        "无穷大",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        3111,
+        3407
+      ],
+      "characters": 5802
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/02_Derivatives/section_01_part_02.md",
+      "title": "第2章 导数与微分 / 第1节 导数概念",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 2,
+      "section": 1,
+      "part": 2,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "导数",
+        "微分",
+        "函数",
+        "极限",
+        "连续",
+        "无穷小"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        3408,
+        3515
+      ],
+      "characters": 2308
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/02_Derivatives/section_02_part_01.md",
+      "title": "第2章 导数与微分 / 第2节 函数的求导法则",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 2,
+      "section": 2,
+      "part": 1,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "函数",
+        "导数",
+        "微分",
+        "连续",
+        "无穷小",
+        "单调",
+        "复合函数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        3516,
+        3974
+      ],
+      "characters": 5969
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/02_Derivatives/section_02_part_02.md",
+      "title": "第2章 导数与微分 / 第2节 函数的求导法则",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 2,
+      "section": 2,
+      "part": 2,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "函数",
+        "导数",
+        "微分"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        3975,
+        4071
+      ],
+      "characters": 1527
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/02_Derivatives/section_03_part_01.md",
+      "title": "第2章 导数与微分 / 第3节 高阶导数",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 2,
+      "section": 3,
+      "part": 1,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "导数",
+        "微分",
+        "函数",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        4072,
+        4253
+      ],
+      "characters": 2536
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/02_Derivatives/section_04_part_01.md",
+      "title": "第2章 导数与微分 / 第4节 隐函数及由参数方程所确定的函数的导数、相关变化率",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 2,
+      "section": 4,
+      "part": 1,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "函数",
+        "导数",
+        "微分",
+        "隐函数",
+        "复合函数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        4254,
+        4583
+      ],
+      "characters": 5378
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/02_Derivatives/section_05_part_01.md",
+      "title": "第2章 导数与微分 / 第5节 函数的微分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 2,
+      "section": 5,
+      "part": 1,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "函数",
+        "导数",
+        "微分",
+        "无穷小",
+        "复合函数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        4584,
+        4887
+      ],
+      "characters": 5890
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/02_Derivatives/section_05_part_02.md",
+      "title": "第2章 导数与微分 / 第5节 函数的微分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 2,
+      "section": 5,
+      "part": 2,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "函数",
+        "导数",
+        "微分",
+        "连续"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        4888,
+        5123
+      ],
+      "characters": 4805
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/03_Derivative_Applications/section_01_part_01.md",
+      "title": "第3章 微分中值定理与导数的应用 / 第1节 微分中值定理",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 3,
+      "section": 1,
+      "part": 1,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "中值定理",
+        "导数",
+        "微分",
+        "函数",
+        "连续",
+        "罗尔",
+        "拉格朗日",
+        "柯西"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        5124,
+        5377
+      ],
+      "characters": 5796
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/03_Derivative_Applications/section_01_part_02.md",
+      "title": "第3章 微分中值定理与导数的应用 / 第1节 微分中值定理",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 3,
+      "section": 1,
+      "part": 2,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "中值定理",
+        "导数",
+        "微分"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        5378,
+        5388
+      ],
+      "characters": 284
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/03_Derivative_Applications/section_02_part_01.md",
+      "title": "第3章 微分中值定理与导数的应用 / 第2节 洛必达法则",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 3,
+      "section": 2,
+      "part": 1,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "中值定理",
+        "导数",
+        "微分",
+        "洛必达",
+        "函数",
+        "极限",
+        "连续",
+        "无穷小",
+        "无穷大",
+        "等价",
+        "柯西"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        5389,
+        5659
+      ],
+      "characters": 3564
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/03_Derivative_Applications/section_03_part_01.md",
+      "title": "第3章 微分中值定理与导数的应用 / 第3节 泰勒公式",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 3,
+      "section": 3,
+      "part": 1,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "中值定理",
+        "导数",
+        "微分",
+        "泰勒",
+        "函数",
+        "极限",
+        "无穷小",
+        "拉格朗日",
+        "柯西"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        5660,
+        5893
+      ],
+      "characters": 4214
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/03_Derivative_Applications/section_04_part_01.md",
+      "title": "第3章 微分中值定理与导数的应用 / 第4节 函数的单调性与曲线的凹凸性",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 3,
+      "section": 4,
+      "part": 1,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "中值定理",
+        "凹凸",
+        "函数",
+        "单调",
+        "导数",
+        "微分",
+        "连续",
+        "拉格朗日"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        5894,
+        6109
+      ],
+      "characters": 5863
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/03_Derivative_Applications/section_04_part_02.md",
+      "title": "第3章 微分中值定理与导数的应用 / 第4节 函数的单调性与曲线的凹凸性",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 3,
+      "section": 4,
+      "part": 2,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "中值定理",
+        "凹凸",
+        "函数",
+        "单调",
+        "导数",
+        "微分",
+        "连续"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        6110,
+        6191
+      ],
+      "characters": 1724
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/03_Derivative_Applications/section_05_part_01.md",
+      "title": "第3章 微分中值定理与导数的应用 / 第5节 函数的极值与最大值最小值",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 3,
+      "section": 5,
+      "part": 1,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "中值定理",
+        "函数",
+        "导数",
+        "微分",
+        "极值",
+        "连续",
+        "单调"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        6192,
+        6384
+      ],
+      "characters": 5701
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/03_Derivative_Applications/section_05_part_02.md",
+      "title": "第3章 微分中值定理与导数的应用 / 第5节 函数的极值与最大值最小值",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 3,
+      "section": 5,
+      "part": 2,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "中值定理",
+        "函数",
+        "导数",
+        "微分",
+        "极值"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        6385,
+        6566
+      ],
+      "characters": 3843
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/03_Derivative_Applications/section_06_part_01.md",
+      "title": "第3章 微分中值定理与导数的应用 / 第6节 函数图形的描绘",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 3,
+      "section": 6,
+      "part": 1,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "中值定理",
+        "函数",
+        "导数",
+        "微分",
+        "间断点",
+        "凹凸"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        6567,
+        6775
+      ],
+      "characters": 3052
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/03_Derivative_Applications/section_07_part_01.md",
+      "title": "第3章 微分中值定理与导数的应用 / 第7节 曲率",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 3,
+      "section": 7,
+      "part": 1,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "中值定理",
+        "导数",
+        "微分",
+        "曲率",
+        "函数",
+        "极限",
+        "连续",
+        "单调",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        6776,
+        7087
+      ],
+      "characters": 5775
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/03_Derivative_Applications/section_08_part_01.md",
+      "title": "第3章 微分中值定理与导数的应用 / 第8节 方程的近似解",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 3,
+      "section": 8,
+      "part": 1,
+      "modules": [
+        "02_diff1"
+      ],
+      "keywords": [
+        "中值定理",
+        "导数",
+        "微分",
+        "函数",
+        "连续",
+        "曲率"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        7088,
+        7314
+      ],
+      "characters": 5853
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/04_Indefinite_Integrals/section_01_part_01.md",
+      "title": "第4章 不定积分 / 第1节 不定积分的概念与性质",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 4,
+      "section": 1,
+      "part": 1,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "不定积分",
+        "定积分",
+        "函数",
+        "连续",
+        "导数",
+        "微分",
+        "原函数",
+        "微分方程"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        7315,
+        7645
+      ],
+      "characters": 5643
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/04_Indefinite_Integrals/section_02_part_01.md",
+      "title": "第4章 不定积分 / 第2节 换元积分法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 4,
+      "section": 2,
+      "part": 1,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "不定积分",
+        "定积分",
+        "换元",
+        "函数",
+        "单调",
+        "导数",
+        "微分",
+        "原函数",
+        "复合函数",
+        "变换"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        7646,
+        8081
+      ],
+      "characters": 5833
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/04_Indefinite_Integrals/section_02_part_02.md",
+      "title": "第4章 不定积分 / 第2节 换元积分法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 4,
+      "section": 2,
+      "part": 2,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "不定积分",
+        "定积分",
+        "换元",
+        "函数",
+        "变换"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        8082,
+        8305
+      ],
+      "characters": 2675
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/04_Indefinite_Integrals/section_03_part_01.md",
+      "title": "第4章 不定积分 / 第3节 分部积分法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 4,
+      "section": 3,
+      "part": 1,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "不定积分",
+        "分部积分",
+        "定积分",
+        "函数",
+        "导数",
+        "换元",
+        "有理函数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        8306,
+        8507
+      ],
+      "characters": 2803
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/04_Indefinite_Integrals/section_04_part_01.md",
+      "title": "第4章 不定积分 / 第4节 有理函数的积分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 4,
+      "section": 4,
+      "part": 1,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "不定积分",
+        "函数",
+        "定积分",
+        "有理函数",
+        "变换"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        8508,
+        8750
+      ],
+      "characters": 2851
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/04_Indefinite_Integrals/section_05_part_01.md",
+      "title": "第4章 不定积分 / 第5节 积分表的使用",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 4,
+      "section": 5,
+      "part": 1,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "不定积分",
+        "定积分",
+        "函数",
+        "原函数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        8751,
+        8966
+      ],
+      "characters": 2609
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/05_Definite_Integrals/section_01_part_01.md",
+      "title": "第5章 定积分 / 第1节 定积分的概念与性质",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 5,
+      "section": 1,
+      "part": 1,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "定积分",
+        "函数",
+        "极限",
+        "连续",
+        "有界",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        8967,
+        9230
+      ],
+      "characters": 6000
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/05_Definite_Integrals/section_01_part_02.md",
+      "title": "第5章 定积分 / 第1节 定积分的概念与性质",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 5,
+      "section": 1,
+      "part": 2,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "定积分",
+        "函数",
+        "极限",
+        "连续",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        9231,
+        9376
+      ],
+      "characters": 3131
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/05_Definite_Integrals/section_02_part_01.md",
+      "title": "第5章 定积分 / 第2节 微积分基本公式",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 5,
+      "section": 2,
+      "part": 1,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "定积分",
+        "函数",
+        "极限",
+        "连续",
+        "单调",
+        "导数",
+        "微分",
+        "中值定理",
+        "原函数",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        9377,
+        9646
+      ],
+      "characters": 5639
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/05_Definite_Integrals/section_03_part_01.md",
+      "title": "第5章 定积分 / 第3节 定积分的换元法和分部积分法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 5,
+      "section": 3,
+      "part": 1,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "分部积分",
+        "定积分",
+        "换元",
+        "函数",
+        "连续",
+        "微分",
+        "不定积分",
+        "原函数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        9647,
+        9993
+      ],
+      "characters": 4880
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/05_Definite_Integrals/section_04_part_01.md",
+      "title": "第5章 定积分 / 第4节 反常积分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 5,
+      "section": 4,
+      "part": 1,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "反常积分",
+        "定积分",
+        "函数",
+        "极限",
+        "连续",
+        "换元"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        9994,
+        10191
+      ],
+      "characters": 4273
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/05_Definite_Integrals/section_05_part_01.md",
+      "title": "第5章 定积分 / 第5节 反常积分的审敛法、Gamma 函数",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 5,
+      "section": 5,
+      "part": 1,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "Gamma",
+        "函数",
+        "反常积分",
+        "定积分",
+        "审敛",
+        "极限",
+        "连续",
+        "单调",
+        "有界",
+        "洛必达",
+        "原函数",
+        "绝对收敛"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        10192,
+        10545
+      ],
+      "characters": 5989
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/05_Definite_Integrals/section_05_part_02.md",
+      "title": "第5章 定积分 / 第5节 反常积分的审敛法、Gamma 函数",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 5,
+      "section": 5,
+      "part": 2,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "Gamma",
+        "函数",
+        "反常积分",
+        "定积分",
+        "审敛",
+        "连续"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        10546,
+        10577
+      ],
+      "characters": 453
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/06_Integral_Applications/section_01_part_01.md",
+      "title": "第6章 定积分的应用 / 第1节 定积分的元素法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 6,
+      "section": 1,
+      "part": 1,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "定积分",
+        "函数",
+        "极限",
+        "连续"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        10578,
+        10642
+      ],
+      "characters": 1693
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/06_Integral_Applications/section_02_part_01.md",
+      "title": "第6章 定积分的应用 / 第2节 定积分在几何学上的应用",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 6,
+      "section": 2,
+      "part": 1,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "定积分",
+        "极限",
+        "连续",
+        "平面",
+        "直线",
+        "极坐标"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        10643,
+        10930
+      ],
+      "characters": 5645
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/06_Integral_Applications/section_02_part_02.md",
+      "title": "第6章 定积分的应用 / 第2节 定积分在几何学上的应用",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 6,
+      "section": 2,
+      "part": 2,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "定积分",
+        "连续",
+        "导数",
+        "平面",
+        "直线",
+        "极坐标"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        10931,
+        11080
+      ],
+      "characters": 3121
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/06_Integral_Applications/section_03_part_01.md",
+      "title": "第6章 定积分的应用 / 第3节 定积分在物理学上的应用",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 6,
+      "section": 3,
+      "part": 1,
+      "modules": [
+        "03_int1"
+      ],
+      "keywords": [
+        "定积分",
+        "平面",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        11081,
+        11294
+      ],
+      "characters": 5362
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/07_Differential_Equations/section_01_part_01.md",
+      "title": "第7章 微分方程 / 第1节 微分方程的基本概念",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 7,
+      "section": 1,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "微分",
+        "微分方程",
+        "函数",
+        "导数",
+        "初值"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        11295,
+        11469
+      ],
+      "characters": 4500
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/07_Differential_Equations/section_02_part_01.md",
+      "title": "第7章 微分方程 / 第2节 可分离变量的微分方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 7,
+      "section": 2,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "微分",
+        "微分方程",
+        "函数",
+        "连续",
+        "直线",
+        "隐函数",
+        "初值"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        11470,
+        11699
+      ],
+      "characters": 4816
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/07_Differential_Equations/section_03_part_01.md",
+      "title": "第7章 微分方程 / 第3节 齐次方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 7,
+      "section": 3,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "微分",
+        "微分方程",
+        "齐次方程",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        11700,
+        11897
+      ],
+      "characters": 2715
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/07_Differential_Equations/section_04_part_01.md",
+      "title": "第7章 微分方程 / 第4节 一阶线性微分方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 7,
+      "section": 4,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "微分",
+        "微分方程",
+        "函数",
+        "齐次方程",
+        "线性方程",
+        "伯努利",
+        "初值"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        11898,
+        12142
+      ],
+      "characters": 3992
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/07_Differential_Equations/section_05_part_01.md",
+      "title": "第7章 微分方程 / 第5节 可降阶的高阶微分方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 7,
+      "section": 5,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "微分",
+        "微分方程",
+        "降阶",
+        "函数",
+        "直线",
+        "初值"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        12143,
+        12389
+      ],
+      "characters": 3962
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/07_Differential_Equations/section_06_part_01.md",
+      "title": "第7章 微分方程 / 第6节 高阶线性微分方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 7,
+      "section": 6,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "微分",
+        "微分方程",
+        "函数",
+        "齐次方程",
+        "线性方程",
+        "变换"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        12390,
+        12644
+      ],
+      "characters": 5875
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/07_Differential_Equations/section_06_part_02.md",
+      "title": "第7章 微分方程 / 第6节 高阶线性微分方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 7,
+      "section": 6,
+      "part": 2,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "微分",
+        "微分方程",
+        "线性方程"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        12645,
+        12696
+      ],
+      "characters": 1288
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/07_Differential_Equations/section_07_part_01.md",
+      "title": "第7章 微分方程 / 第7节 常系数齐次线性微分方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 7,
+      "section": 7,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "常系数",
+        "微分",
+        "微分方程",
+        "函数",
+        "导数",
+        "特征方程",
+        "欧拉",
+        "初值"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        12697,
+        12995
+      ],
+      "characters": 5987
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/07_Differential_Equations/section_07_part_02.md",
+      "title": "第7章 微分方程 / 第7节 常系数齐次线性微分方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 7,
+      "section": 7,
+      "part": 2,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "常系数",
+        "微分",
+        "微分方程",
+        "特征方程"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        12996,
+        13022
+      ],
+      "characters": 488
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/07_Differential_Equations/section_08_part_01.md",
+      "title": "第7章 微分方程 / 第8节 常系数非齐次线性微分方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 7,
+      "section": 8,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "常系数",
+        "微分",
+        "微分方程",
+        "函数",
+        "齐次方程",
+        "线性方程",
+        "特征方程"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        13023,
+        13290
+      ],
+      "characters": 5949
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/07_Differential_Equations/section_08_part_02.md",
+      "title": "第7章 微分方程 / 第8节 常系数非齐次线性微分方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 7,
+      "section": 8,
+      "part": 2,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "常系数",
+        "微分",
+        "微分方程"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        13291,
+        13321
+      ],
+      "characters": 685
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/07_Differential_Equations/section_09_part_01.md",
+      "title": "第7章 微分方程 / 第9节 欧拉方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 7,
+      "section": 9,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "微分",
+        "微分方程",
+        "欧拉",
+        "常系数",
+        "变换"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        13322,
+        13410
+      ],
+      "characters": 1133
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_1/07_Differential_Equations/section_10_part_01.md",
+      "title": "第7章 微分方程 / 第10节 常系数线性微分方程组解法举例",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 1,
+      "chapter": 7,
+      "section": 10,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "常系数",
+        "微分",
+        "微分方程",
+        "函数",
+        "线性方程",
+        "初值"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "source_sha256": "e38ee5951caf0b1b1280a7763d68666358eb085642e08710354143036c01ff9e",
+      "source_lines": [
+        13411,
+        13636
+      ],
+      "characters": 3772
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/08_Vectors_and_Geometry/section_01_part_01.md",
+      "title": "第8章 向量代数与空间解析几何 / 第1节 向量及其线性运算",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 8,
+      "section": 1,
+      "part": 1,
+      "modules": [
+        "04_diffn",
+        "05_intn"
+      ],
+      "keywords": [
+        "向量",
+        "函数",
+        "平面"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        329,
+        543
+      ],
+      "characters": 5690
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/08_Vectors_and_Geometry/section_01_part_02.md",
+      "title": "第8章 向量代数与空间解析几何 / 第1节 向量及其线性运算",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 8,
+      "section": 1,
+      "part": 2,
+      "modules": [
+        "04_diffn",
+        "05_intn"
+      ],
+      "keywords": [
+        "向量",
+        "线性方程",
+        "平面",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        544,
+        745
+      ],
+      "characters": 4676
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/08_Vectors_and_Geometry/section_02_part_01.md",
+      "title": "第8章 向量代数与空间解析几何 / 第2节 数量积、向量积、混合积",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 8,
+      "section": 2,
+      "part": 1,
+      "modules": [
+        "04_diffn",
+        "05_intn"
+      ],
+      "keywords": [
+        "向量",
+        "向量积",
+        "数量积",
+        "混合积",
+        "平面",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        746,
+        1031
+      ],
+      "characters": 5574
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/08_Vectors_and_Geometry/section_02_part_02.md",
+      "title": "第8章 向量代数与空间解析几何 / 第2节 数量积、向量积、混合积",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 8,
+      "section": 2,
+      "part": 2,
+      "modules": [
+        "04_diffn",
+        "05_intn"
+      ],
+      "keywords": [
+        "向量",
+        "向量积",
+        "数量积",
+        "混合积",
+        "平面"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        1032,
+        1115
+      ],
+      "characters": 1865
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/08_Vectors_and_Geometry/section_03_part_01.md",
+      "title": "第8章 向量代数与空间解析几何 / 第3节 平面及其方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 8,
+      "section": 3,
+      "part": 1,
+      "modules": [
+        "04_diffn",
+        "05_intn"
+      ],
+      "keywords": [
+        "向量",
+        "平面",
+        "直线",
+        "曲面",
+        "空间曲线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        1116,
+        1349
+      ],
+      "characters": 5696
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/08_Vectors_and_Geometry/section_04_part_01.md",
+      "title": "第8章 向量代数与空间解析几何 / 第4节 空间直线及其方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 8,
+      "section": 4,
+      "part": 1,
+      "modules": [
+        "04_diffn",
+        "05_intn"
+      ],
+      "keywords": [
+        "向量",
+        "直线",
+        "平面"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        1350,
+        1627
+      ],
+      "characters": 5141
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/08_Vectors_and_Geometry/section_05_part_01.md",
+      "title": "第8章 向量代数与空间解析几何 / 第5节 曲面及其方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 8,
+      "section": 5,
+      "part": 1,
+      "modules": [
+        "04_diffn",
+        "05_intn"
+      ],
+      "keywords": [
+        "向量",
+        "曲面",
+        "平面",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        1628,
+        1919
+      ],
+      "characters": 5769
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/08_Vectors_and_Geometry/section_06_part_01.md",
+      "title": "第8章 向量代数与空间解析几何 / 第6节 空间曲线及其方程",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 8,
+      "section": 6,
+      "part": 1,
+      "modules": [
+        "04_diffn",
+        "05_intn"
+      ],
+      "keywords": [
+        "向量",
+        "空间曲线",
+        "平面",
+        "直线",
+        "曲面"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        1920,
+        2166
+      ],
+      "characters": 5957
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_01_part_01.md",
+      "title": "第9章 多元函数微分法及其应用 / 第1节 多元函数的基本概念",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 1,
+      "part": 1,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "函数",
+        "多元",
+        "微分",
+        "映射",
+        "极限",
+        "有界",
+        "向量",
+        "平面",
+        "点集",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        2167,
+        2377
+      ],
+      "characters": 5883
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_01_part_02.md",
+      "title": "第9章 多元函数微分法及其应用 / 第1节 多元函数的基本概念",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 1,
+      "part": 2,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "函数",
+        "多元",
+        "微分",
+        "极限",
+        "连续",
+        "间断点",
+        "有界",
+        "直线",
+        "复合函数",
+        "点集",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        2378,
+        2600
+      ],
+      "characters": 4238
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_02_part_01.md",
+      "title": "第9章 多元函数微分法及其应用 / 第2节 偏导数",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 2,
+      "part": 1,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "偏导",
+        "函数",
+        "多元",
+        "导数",
+        "微分",
+        "极限",
+        "连续",
+        "平面",
+        "曲面",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        2601,
+        2885
+      ],
+      "characters": 4060
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_03_part_01.md",
+      "title": "第9章 多元函数微分法及其应用 / 第3节 全微分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 3,
+      "part": 1,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "全微分",
+        "函数",
+        "多元",
+        "微分",
+        "连续",
+        "无穷小",
+        "导数",
+        "偏导"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        2886,
+        3132
+      ],
+      "characters": 5920
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_04_part_01.md",
+      "title": "第9章 多元函数微分法及其应用 / 第4节 多元复合函数的求导法则",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 4,
+      "part": 1,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "函数",
+        "复合函数",
+        "多元",
+        "微分",
+        "连续",
+        "导数",
+        "偏导",
+        "全微分",
+        "极坐标"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        3133,
+        3507
+      ],
+      "characters": 5342
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_05_part_01.md",
+      "title": "第9章 多元函数微分法及其应用 / 第5节 隐函数的求导公式",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 5,
+      "part": 1,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "函数",
+        "多元",
+        "微分",
+        "隐函数",
+        "连续",
+        "导数",
+        "偏导",
+        "复合函数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        3508,
+        3773
+      ],
+      "characters": 4275
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_06_part_01.md",
+      "title": "第9章 多元函数微分法及其应用 / 第6节 多元函数微分学的几何应用",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 6,
+      "part": 1,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "函数",
+        "多元",
+        "微分",
+        "映射",
+        "极限",
+        "连续",
+        "导数",
+        "向量",
+        "平面",
+        "空间曲线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        3774,
+        4032
+      ],
+      "characters": 5259
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_06_part_02.md",
+      "title": "第9章 多元函数微分法及其应用 / 第6节 多元函数微分学的几何应用",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 6,
+      "part": 2,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "函数",
+        "多元",
+        "微分",
+        "连续",
+        "导数",
+        "向量",
+        "平面",
+        "曲面",
+        "偏导",
+        "全微分"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        4033,
+        4190
+      ],
+      "characters": 2876
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_07_part_01.md",
+      "title": "第9章 多元函数微分法及其应用 / 第7节 方向导数与梯度",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 7,
+      "part": 1,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "函数",
+        "多元",
+        "导数",
+        "微分",
+        "方向导数",
+        "梯度",
+        "极限",
+        "连续",
+        "向量",
+        "平面",
+        "曲面",
+        "偏导",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        4191,
+        4478
+      ],
+      "characters": 5943
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_07_part_02.md",
+      "title": "第9章 多元函数微分法及其应用 / 第7节 方向导数与梯度",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 7,
+      "part": 2,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "函数",
+        "多元",
+        "导数",
+        "微分",
+        "方向导数",
+        "梯度"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        4479,
+        4499
+      ],
+      "characters": 661
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_08_part_01.md",
+      "title": "第9章 多元函数微分法及其应用 / 第8节 多元函数的极值及其求法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 8,
+      "part": 1,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "函数",
+        "多元",
+        "微分",
+        "极值",
+        "连续",
+        "导数",
+        "拉格朗日",
+        "平面",
+        "偏导",
+        "隐函数",
+        "条件极值",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        4500,
+        4690
+      ],
+      "characters": 5767
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_08_part_02.md",
+      "title": "第9章 多元函数微分法及其应用 / 第8节 多元函数的极值及其求法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 8,
+      "part": 2,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "函数",
+        "多元",
+        "微分",
+        "极值",
+        "导数",
+        "拉格朗日",
+        "平面",
+        "偏导"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        4691,
+        4852
+      ],
+      "characters": 3655
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_09_part_01.md",
+      "title": "第9章 多元函数微分法及其应用 / 第9节 二元函数的泰勒公式",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 9,
+      "part": 1,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "函数",
+        "多元",
+        "微分",
+        "泰勒",
+        "极限",
+        "连续",
+        "无穷小",
+        "导数",
+        "拉格朗日",
+        "极值",
+        "偏导",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        4853,
+        5009
+      ],
+      "characters": 3984
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_10_part_01.md",
+      "title": "第9章 多元函数微分法及其应用 / 第10节 最小二乘法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 10,
+      "part": 1,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "函数",
+        "多元",
+        "微分",
+        "最小二乘",
+        "连续",
+        "导数",
+        "向量",
+        "平面",
+        "直线",
+        "曲面",
+        "偏导",
+        "方向导数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        5010,
+        5425
+      ],
+      "characters": 5881
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/09_Multivariable_Differentiation/section_10_part_02.md",
+      "title": "第9章 多元函数微分法及其应用 / 第10节 最小二乘法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 9,
+      "section": 10,
+      "part": 2,
+      "modules": [
+        "04_diffn"
+      ],
+      "keywords": [
+        "函数",
+        "多元",
+        "微分",
+        "最小二乘",
+        "导数",
+        "平面",
+        "方向导数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        5426,
+        5439
+      ],
+      "characters": 509
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/10_Multiple_Integrals/section_01_part_01.md",
+      "title": "第10章 重积分 / 第1节 二重积分的概念与性质",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 10,
+      "section": 1,
+      "part": 1,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "二重积分",
+        "重积分",
+        "函数",
+        "极限",
+        "连续",
+        "有界",
+        "定积分",
+        "平面",
+        "直线",
+        "曲面",
+        "多元",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        5440,
+        5604
+      ],
+      "characters": 4394
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/10_Multiple_Integrals/section_02_part_01.md",
+      "title": "第10章 重积分 / 第2节 二重积分的计算法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 10,
+      "section": 2,
+      "part": 1,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "二重积分",
+        "重积分",
+        "函数",
+        "连续",
+        "定积分",
+        "平面",
+        "直线",
+        "极坐标",
+        "区域",
+        "极点",
+        "变换"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        5605,
+        5897
+      ],
+      "characters": 5990
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/10_Multiple_Integrals/section_02_part_02.md",
+      "title": "第10章 重积分 / 第2节 二重积分的计算法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 10,
+      "section": 2,
+      "part": 2,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "二重积分",
+        "重积分",
+        "函数",
+        "极限",
+        "连续",
+        "无穷小",
+        "换元",
+        "平面",
+        "直线",
+        "曲面",
+        "极坐标",
+        "雅可比",
+        "区域",
+        "变换"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        5898,
+        6203
+      ],
+      "characters": 5996
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/10_Multiple_Integrals/section_02_part_03.md",
+      "title": "第10章 重积分 / 第2节 二重积分的计算法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 10,
+      "section": 2,
+      "part": 3,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "二重积分",
+        "重积分",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        6204,
+        6219
+      ],
+      "characters": 395
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/10_Multiple_Integrals/section_03_part_01.md",
+      "title": "第10章 重积分 / 第3节 三重积分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 10,
+      "section": 3,
+      "part": 1,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "三重积分",
+        "重积分",
+        "函数",
+        "极限",
+        "连续",
+        "无穷小",
+        "有界",
+        "定积分",
+        "平面",
+        "直线",
+        "曲面",
+        "二重积分",
+        "极坐标",
+        "区域",
+        "变换"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        6220,
+        6518
+      ],
+      "characters": 5960
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/10_Multiple_Integrals/section_03_part_02.md",
+      "title": "第10章 重积分 / 第3节 三重积分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 10,
+      "section": 3,
+      "part": 2,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "三重积分",
+        "重积分",
+        "平面",
+        "曲面",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        6519,
+        6546
+      ],
+      "characters": 946
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/10_Multiple_Integrals/section_04_part_01.md",
+      "title": "第10章 重积分 / 第4节 重积分的应用",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 10,
+      "section": 4,
+      "part": 1,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "重积分",
+        "函数",
+        "极限",
+        "连续",
+        "有界",
+        "导数",
+        "平面",
+        "曲面",
+        "偏导",
+        "二重积分",
+        "三重积分",
+        "极坐标",
+        "质心",
+        "转动惯量",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        6547,
+        6887
+      ],
+      "characters": 5976
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/10_Multiple_Integrals/section_04_part_02.md",
+      "title": "第10章 重积分 / 第4节 重积分的应用",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 10,
+      "section": 4,
+      "part": 2,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "重积分",
+        "平面",
+        "直线",
+        "曲面",
+        "质心",
+        "转动惯量",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        6888,
+        6924
+      ],
+      "characters": 1157
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/10_Multiple_Integrals/section_05_part_01.md",
+      "title": "第10章 重积分 / 第5节 含参变量的积分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 10,
+      "section": 5,
+      "part": 1,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "含参变量",
+        "重积分",
+        "函数",
+        "极限",
+        "连续",
+        "导数",
+        "微分",
+        "中值定理",
+        "平面",
+        "直线",
+        "曲面",
+        "偏导",
+        "二重积分",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        6925,
+        7226
+      ],
+      "characters": 5485
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/11_Line_and_Surface_Integrals/section_01_part_01.md",
+      "title": "第11章 曲线积分与曲面积分 / 第1节 对弧长的曲线积分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 11,
+      "section": 1,
+      "part": 1,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "曲线积分",
+        "曲面",
+        "曲面积分",
+        "函数",
+        "极限",
+        "连续",
+        "定积分",
+        "向量",
+        "直线",
+        "空间曲线",
+        "质心",
+        "转动惯量",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        7227,
+        7407
+      ],
+      "characters": 4462
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/11_Line_and_Surface_Integrals/section_02_part_01.md",
+      "title": "第11章 曲线积分与曲面积分 / 第2节 对坐标的曲线积分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 11,
+      "section": 2,
+      "part": 1,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "曲线积分",
+        "曲面",
+        "曲面积分",
+        "函数",
+        "极限",
+        "连续",
+        "单调",
+        "定积分",
+        "向量",
+        "直线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        7408,
+        7656
+      ],
+      "characters": 5512
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/11_Line_and_Surface_Integrals/section_02_part_02.md",
+      "title": "第11章 曲线积分与曲面积分 / 第2节 对坐标的曲线积分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 11,
+      "section": 2,
+      "part": 2,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "曲线积分",
+        "曲面",
+        "曲面积分",
+        "函数",
+        "连续",
+        "向量",
+        "直线",
+        "空间曲线"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        7657,
+        7744
+      ],
+      "characters": 2608
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/11_Line_and_Surface_Integrals/section_03_part_01.md",
+      "title": "第11章 曲线积分与曲面积分 / 第3节 格林公式及其应用",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 11,
+      "section": 3,
+      "part": 1,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "曲线积分",
+        "曲面",
+        "曲面积分",
+        "格林",
+        "函数",
+        "连续",
+        "导数",
+        "微分",
+        "平面",
+        "直线",
+        "偏导",
+        "全微分",
+        "重积分",
+        "二重积分",
+        "路径无关",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        7745,
+        8062
+      ],
+      "characters": 5892
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/11_Line_and_Surface_Integrals/section_03_part_02.md",
+      "title": "第11章 曲线积分与曲面积分 / 第3节 格林公式及其应用",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 11,
+      "section": 3,
+      "part": 2,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "曲线积分",
+        "曲面",
+        "曲面积分",
+        "格林",
+        "函数",
+        "连续",
+        "导数",
+        "微分",
+        "微分方程",
+        "向量",
+        "平面",
+        "直线",
+        "偏导",
+        "全微分",
+        "路径无关",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        8063,
+        8294
+      ],
+      "characters": 4765
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/11_Line_and_Surface_Integrals/section_04_part_01.md",
+      "title": "第11章 曲线积分与曲面积分 / 第4节 对面积的曲面积分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 11,
+      "section": 4,
+      "part": 1,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "曲线积分",
+        "曲面",
+        "曲面积分",
+        "函数",
+        "极限",
+        "连续",
+        "有界",
+        "平面",
+        "重积分",
+        "二重积分",
+        "转动惯量",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        8295,
+        8444
+      ],
+      "characters": 3742
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/11_Line_and_Surface_Integrals/section_05_part_01.md",
+      "title": "第11章 曲线积分与曲面积分 / 第5节 对坐标的曲面积分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 11,
+      "section": 5,
+      "part": 1,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "曲线积分",
+        "曲面",
+        "曲面积分",
+        "函数",
+        "极限",
+        "连续",
+        "向量",
+        "平面",
+        "重积分",
+        "二重积分",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        8445,
+        8626
+      ],
+      "characters": 4829
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/11_Line_and_Surface_Integrals/section_05_part_02.md",
+      "title": "第11章 曲线积分与曲面积分 / 第5节 对坐标的曲面积分",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 11,
+      "section": 5,
+      "part": 2,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "曲线积分",
+        "曲面",
+        "曲面积分",
+        "函数",
+        "连续",
+        "向量",
+        "平面",
+        "重积分",
+        "二重积分",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        8627,
+        8756
+      ],
+      "characters": 2554
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/11_Line_and_Surface_Integrals/section_06_part_01.md",
+      "title": "第11章 曲线积分与曲面积分 / 第6节 高斯公式、通量与散度",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 11,
+      "section": 6,
+      "part": 1,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "散度",
+        "曲线积分",
+        "曲面",
+        "曲面积分",
+        "通量",
+        "高斯",
+        "函数",
+        "连续",
+        "导数",
+        "向量",
+        "平面",
+        "直线",
+        "偏导",
+        "重积分",
+        "三重积分",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        8757,
+        9045
+      ],
+      "characters": 5891
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/11_Line_and_Surface_Integrals/section_06_part_02.md",
+      "title": "第11章 曲线积分与曲面积分 / 第6节 高斯公式、通量与散度",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 11,
+      "section": 6,
+      "part": 2,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "散度",
+        "曲线积分",
+        "曲面",
+        "曲面积分",
+        "通量",
+        "高斯",
+        "导数",
+        "向量",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        9046,
+        9065
+      ],
+      "characters": 646
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/11_Line_and_Surface_Integrals/section_07_part_01.md",
+      "title": "第11章 曲线积分与曲面积分 / 第7节 斯托克斯公式、环流量与旋度",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 11,
+      "section": 7,
+      "part": 1,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "斯托克斯",
+        "旋度",
+        "曲线积分",
+        "曲面",
+        "曲面积分",
+        "函数",
+        "连续",
+        "导数",
+        "微分",
+        "向量",
+        "平面",
+        "直线",
+        "空间曲线",
+        "偏导",
+        "重积分",
+        "二重积分",
+        "格林",
+        "通量",
+        "路径无关",
+        "区域",
+        "调和"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        9066,
+        9395
+      ],
+      "characters": 5967
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/11_Line_and_Surface_Integrals/section_07_part_02.md",
+      "title": "第11章 曲线积分与曲面积分 / 第7节 斯托克斯公式、环流量与旋度",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 11,
+      "section": 7,
+      "part": 2,
+      "modules": [
+        "05_intn"
+      ],
+      "keywords": [
+        "斯托克斯",
+        "旋度",
+        "曲线积分",
+        "曲面",
+        "曲面积分",
+        "函数",
+        "连续",
+        "导数",
+        "向量",
+        "平面",
+        "偏导",
+        "路径无关",
+        "区域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        9396,
+        9482
+      ],
+      "characters": 2497
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/12_Infinite_Series/section_01_part_01.md",
+      "title": "第12章 无穷级数 / 第1节 常数项级数的概念和性质",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 12,
+      "section": 1,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "级数",
+        "函数",
+        "数列",
+        "极限",
+        "柯西",
+        "审敛"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        9483,
+        9733
+      ],
+      "characters": 4520
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/12_Infinite_Series/section_02_part_01.md",
+      "title": "第12章 无穷级数 / 第2节 常数项级数的审敛法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 12,
+      "section": 2,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "审敛",
+        "级数",
+        "数列",
+        "极限",
+        "无穷小",
+        "单调",
+        "有界",
+        "正项",
+        "交错",
+        "绝对收敛",
+        "条件收敛",
+        "调和"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        9734,
+        10078
+      ],
+      "characters": 5731
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/12_Infinite_Series/section_02_part_02.md",
+      "title": "第12章 无穷级数 / 第2节 常数项级数的审敛法",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 12,
+      "section": 2,
+      "part": 2,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "审敛",
+        "级数",
+        "数列",
+        "极限",
+        "单调",
+        "柯西",
+        "正项",
+        "绝对收敛"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        10079,
+        10194
+      ],
+      "characters": 2026
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/12_Infinite_Series/section_03_part_01.md",
+      "title": "第12章 无穷级数 / 第3节 幂级数",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 12,
+      "section": 3,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "幂级数",
+        "级数",
+        "函数",
+        "数列",
+        "连续",
+        "审敛",
+        "交错",
+        "绝对收敛",
+        "收敛半径",
+        "收敛域"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        10195,
+        10503
+      ],
+      "characters": 5327
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/12_Infinite_Series/section_04_part_01.md",
+      "title": "第12章 无穷级数 / 第4节 函数展开成幂级数",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 12,
+      "section": 4,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "函数",
+        "幂级数",
+        "级数",
+        "极限",
+        "导数",
+        "泰勒",
+        "收敛半径"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        10504,
+        10793
+      ],
+      "characters": 4513
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/12_Infinite_Series/section_05_part_01.md",
+      "title": "第12章 无穷级数 / 第5节 函数的幂级数展开式的应用",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 12,
+      "section": 5,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "函数",
+        "幂级数",
+        "级数",
+        "微分",
+        "定积分",
+        "微分方程",
+        "欧拉",
+        "平面",
+        "绝对收敛",
+        "一致收敛",
+        "复数",
+        "辐角",
+        "初值"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        10794,
+        11182
+      ],
+      "characters": 5478
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/12_Infinite_Series/section_06_part_01.md",
+      "title": "第12章 无穷级数 / 第6节 函数项级数的一致收敛性及一致收敛级数的基本性质",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 12,
+      "section": 6,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "一致收敛",
+        "函数",
+        "级数",
+        "数列",
+        "极限",
+        "连续",
+        "导数",
+        "审敛",
+        "幂级数",
+        "收敛半径"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        11183,
+        11434
+      ],
+      "characters": 5728
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/12_Infinite_Series/section_07_part_01.md",
+      "title": "第12章 无穷级数 / 第7节 傅里叶级数",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 12,
+      "section": 7,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "傅里叶",
+        "级数",
+        "函数",
+        "极限",
+        "连续",
+        "间断点",
+        "幂级数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        11435,
+        11765
+      ],
+      "characters": 5801
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/12_Infinite_Series/section_07_part_02.md",
+      "title": "第12章 无穷级数 / 第7节 傅里叶级数",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 12,
+      "section": 7,
+      "part": 2,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "傅里叶",
+        "级数",
+        "函数",
+        "连续"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        11766,
+        11948
+      ],
+      "characters": 2928
+    },
+    {
+      "path": "Course/Higher_Mathematics/Textbook/Tongji_Volume_2/12_Infinite_Series/section_08_part_01.md",
+      "title": "第12章 无穷级数 / 第8节 一般周期函数的傅里叶级数",
+      "kind": "textbook_section",
+      "quality": "ocr_unverified",
+      "volume": 2,
+      "chapter": 12,
+      "section": 8,
+      "part": 1,
+      "modules": [
+        "06_series"
+      ],
+      "keywords": [
+        "傅里叶",
+        "函数",
+        "级数",
+        "正项",
+        "绝对收敛",
+        "条件收敛",
+        "幂级数",
+        "复数"
+      ],
+      "source_path": "Course/Higher_Mathematics/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "source_sha256": "fcc48573efd692367d4fa9964394a3fc40bf97dfb2b39a29697bbed38e0816b8",
+      "source_lines": [
+        11949,
+        12280
+      ],
+      "characters": 3966
+    }
+  ]
+}
