@@ -1,0 +1,47 @@
+{
+  "subject": "Mathematics_Competition",
+  "encoding": "UTF-8",
+  "items": [
+    {
+      "path": "Course/Mathematics_Competition/Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR.md",
+      "title": "Tongji_Higher_Mathematics_7th_Edition_Volume_1_OCR",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "keywords": [
+        "极限",
+        "连续",
+        "间断点",
+        "导数",
+        "微分",
+        "中值定理",
+        "不定积分",
+        "定积分",
+        "级数",
+        "微分方程"
+      ]
+    },
+    {
+      "path": "Course/Mathematics_Competition/Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR.md",
+      "title": "Tongji_Higher_Mathematics_7th_Edition_Volume_2_OCR",
+      "kind": "source_text",
+      "quality": "ocr_unverified",
+      "keywords": [
+        "极限",
+        "连续",
+        "间断点",
+        "导数",
+        "微分",
+        "中值定理",
+        "定积分",
+        "积分应用",
+        "偏导",
+        "全微分",
+        "重积分",
+        "曲线积分",
+        "曲面积分",
+        "级数",
+        "微分方程"
+      ]
+    }
+  ]
+}
