@@ -6,7 +6,7 @@
     {
       "path": "Course/Complex_Analysis/Notes/01_Complex_Numbers.md",
       "title": "复数与几何表示",
-      "kind": "cleaned_notes",
+      "kind": "archive",
       "quality": "visually_reconstructed",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -27,7 +27,7 @@
     {
       "path": "Course/Complex_Analysis/Notes/02_Domains_and_Continuity.md",
       "title": "点集、区域、极限与连续",
-      "kind": "cleaned_notes",
+      "kind": "archive",
       "quality": "visually_reconstructed",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -53,7 +53,7 @@
     {
       "path": "Course/Complex_Analysis/Notes/03_Analytic_Functions.md",
       "title": "解析函数、初等函数与调和函数",
-      "kind": "cleaned_notes",
+      "kind": "archive",
       "quality": "visually_reconstructed",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -81,7 +81,7 @@
     {
       "path": "Course/Complex_Analysis/Notes/04_Complex_Integration.md",
       "title": "复积分与柯西理论",
-      "kind": "cleaned_notes",
+      "kind": "archive",
       "quality": "visually_reconstructed",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -111,7 +111,7 @@
     {
       "path": "Course/Complex_Analysis/Notes/05_Series.md",
       "title": "级数、泰勒展开与洛朗展开",
-      "kind": "cleaned_notes",
+      "kind": "archive",
       "quality": "visually_reconstructed",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -136,7 +136,7 @@
     {
       "path": "Course/Complex_Analysis/Notes/06_Singularities_and_Residues.md",
       "title": "孤立奇点、零点与留数",
-      "kind": "cleaned_notes",
+      "kind": "archive",
       "quality": "visually_reconstructed",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -161,7 +161,7 @@
     {
       "path": "Course/Complex_Analysis/Notes/07_Real_Integrals.md",
       "title": "留数计算实积分与主值",
-      "kind": "cleaned_notes",
+      "kind": "archive",
       "quality": "visually_reconstructed",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -186,7 +186,7 @@
     {
       "path": "Course/Complex_Analysis/Notes/08_Fourier_Transform.md",
       "title": "傅里叶变换、卷积与广义函数",
-      "kind": "cleaned_notes",
+      "kind": "archive",
       "quality": "visually_reconstructed",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -211,7 +211,7 @@
     {
       "path": "Course/Complex_Analysis/Notes/09_Laplace_Transform.md",
       "title": "拉普拉斯变换与微分方程",
-      "kind": "cleaned_notes",
+      "kind": "archive",
       "quality": "visually_reconstructed",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -238,7 +238,7 @@
     {
       "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_001-006.md",
       "title": "高瑜讲义逐页识别文本：第 1–6 页",
-      "kind": "source_text",
+      "kind": "archive",
       "quality": "ocr_unverified",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -258,7 +258,7 @@
     {
       "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_007-012.md",
       "title": "高瑜讲义逐页识别文本：第 7–12 页",
-      "kind": "source_text",
+      "kind": "archive",
       "quality": "ocr_unverified",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -279,7 +279,7 @@
     {
       "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_013-018.md",
       "title": "高瑜讲义逐页识别文本：第 13–18 页",
-      "kind": "source_text",
+      "kind": "archive",
       "quality": "ocr_unverified",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -300,7 +300,7 @@
     {
       "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_019-024.md",
       "title": "高瑜讲义逐页识别文本：第 19–24 页",
-      "kind": "source_text",
+      "kind": "archive",
       "quality": "ocr_unverified",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -321,7 +321,7 @@
     {
       "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_025-030.md",
       "title": "高瑜讲义逐页识别文本：第 25–30 页",
-      "kind": "source_text",
+      "kind": "archive",
       "quality": "ocr_unverified",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -344,7 +344,7 @@
     {
       "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_031-036.md",
       "title": "高瑜讲义逐页识别文本：第 31–36 页",
-      "kind": "source_text",
+      "kind": "archive",
       "quality": "ocr_unverified",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -367,7 +367,7 @@
     {
       "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_037-042.md",
       "title": "高瑜讲义逐页识别文本：第 37–42 页",
-      "kind": "source_text",
+      "kind": "archive",
       "quality": "ocr_unverified",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -387,7 +387,7 @@
     {
       "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_043-046.md",
       "title": "高瑜讲义逐页识别文本：第 43–46 页",
-      "kind": "source_text",
+      "kind": "archive",
       "quality": "ocr_unverified",
       "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
       "source_name": "高瑜复变讲义1-16讲.pdf",
@@ -2166,6 +2166,430 @@
         "极点",
         "初值"
       ]
+    },
+    {
+      "path": "Course/Complex_Analysis/Lectures/01_Complex_Numbers.md",
+      "title": "模块一：复数与复变函数",
+      "kind": "cleaned_notes",
+      "quality": "visually_reconstructed",
+      "modules": [
+        "01_complex_numbers"
+      ],
+      "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
+      "source_name": "高瑜复变讲义1-16讲.pdf",
+      "source_pages": [
+        2,
+        8
+      ],
+      "source_parts": [
+        {
+          "path": "Course/Complex_Analysis/Notes/01_Complex_Numbers.md",
+          "source_pages": [
+            2,
+            5
+          ],
+          "sha256": "389649a5868cb7d5e238c3a36dbc993f9ae4b76e2fc68ab72d48cc14c5ddf0e2"
+        },
+        {
+          "path": "Course/Complex_Analysis/Notes/02_Domains_and_Continuity.md",
+          "source_pages": [
+            6,
+            8
+          ],
+          "sha256": "900e6e934aee1a7b3d0c1f743e954e33c22e8372b22ab27483c93389fe8136a4"
+        }
+      ],
+      "ocr_fragments": [
+        {
+          "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_001-006.md",
+          "source_pages": [
+            2,
+            6
+          ]
+        },
+        {
+          "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_007-012.md",
+          "source_pages": [
+            7,
+            8
+          ]
+        }
+      ],
+      "topics": [
+        "复数运算",
+        "辐角、极形式与乘除",
+        "乘方与开方",
+        "扩充复平面",
+        "点集与区域",
+        "复变函数与映射",
+        "极限与连续"
+      ],
+      "keywords": [
+        "函数",
+        "复数",
+        "极限",
+        "连续",
+        "有界",
+        "平面",
+        "辐角",
+        "区域"
+      ],
+      "priority": 1
+    },
+    {
+      "path": "Course/Complex_Analysis/Lectures/02_Analytic_Functions.md",
+      "title": "模块二：解析函数及应用",
+      "kind": "cleaned_notes",
+      "quality": "visually_reconstructed",
+      "modules": [
+        "02_analytic_functions"
+      ],
+      "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
+      "source_name": "高瑜复变讲义1-16讲.pdf",
+      "source_pages": [
+        9,
+        15
+      ],
+      "source_parts": [
+        {
+          "path": "Course/Complex_Analysis/Notes/03_Analytic_Functions.md",
+          "source_pages": [
+            9,
+            15
+          ],
+          "sha256": "83a70f98cff0df3bd56070bf404438f760c8bf7b192f803a8f792096d5a897cd"
+        }
+      ],
+      "ocr_fragments": [
+        {
+          "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_007-012.md",
+          "source_pages": [
+            9,
+            12
+          ]
+        },
+        {
+          "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_013-018.md",
+          "source_pages": [
+            13,
+            15
+          ]
+        }
+      ],
+      "topics": [
+        "导数与解析",
+        "Cauchy–Riemann 条件",
+        "指数、对数与幂",
+        "三角、双曲与反函数",
+        "调和与共轭调和"
+      ],
+      "keywords": [
+        "函数",
+        "解析函数",
+        "连续",
+        "导数",
+        "平面",
+        "偏导",
+        "区域",
+        "C-R",
+        "调和",
+        "主值"
+      ],
+      "priority": 1
+    },
+    {
+      "path": "Course/Complex_Analysis/Lectures/03_Complex_Integration.md",
+      "title": "模块三：复变函数的积分",
+      "kind": "cleaned_notes",
+      "quality": "visually_reconstructed",
+      "modules": [
+        "03_complex_integration"
+      ],
+      "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
+      "source_name": "高瑜复变讲义1-16讲.pdf",
+      "source_pages": [
+        16,
+        20
+      ],
+      "source_parts": [
+        {
+          "path": "Course/Complex_Analysis/Notes/04_Complex_Integration.md",
+          "source_pages": [
+            16,
+            20
+          ],
+          "sha256": "8e0c73a0ebb2fe65f6824143f1c2c163e43bcbd35cb16758a3965ee38a86d729"
+        }
+      ],
+      "ocr_fragments": [
+        {
+          "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_013-018.md",
+          "source_pages": [
+            16,
+            18
+          ]
+        },
+        {
+          "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_019-024.md",
+          "source_pages": [
+            19,
+            20
+          ]
+        }
+      ],
+      "topics": [
+        "定义、参数化与估计",
+        "柯西–古萨定理与复合闭路",
+        "原函数与路径无关",
+        "柯西积分公式与高阶导数",
+        "重要推论"
+      ],
+      "keywords": [
+        "函数",
+        "连续",
+        "等价",
+        "有界",
+        "柯西",
+        "原函数",
+        "区域",
+        "解析函数",
+        "奇点"
+      ],
+      "priority": 1
+    },
+    {
+      "path": "Course/Complex_Analysis/Lectures/04_Series.md",
+      "title": "模块四：级数概念及分类",
+      "kind": "cleaned_notes",
+      "quality": "visually_reconstructed",
+      "modules": [
+        "04_series"
+      ],
+      "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
+      "source_name": "高瑜复变讲义1-16讲.pdf",
+      "source_pages": [
+        21,
+        26
+      ],
+      "source_parts": [
+        {
+          "path": "Course/Complex_Analysis/Notes/05_Series.md",
+          "source_pages": [
+            21,
+            26
+          ],
+          "sha256": "6e6e112c5101093c506f1cec9b4f879d2b4ce86554104bd7cc466a1383ed7db9"
+        }
+      ],
+      "ocr_fragments": [
+        {
+          "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_019-024.md",
+          "source_pages": [
+            21,
+            24
+          ]
+        },
+        {
+          "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_025-030.md",
+          "source_pages": [
+            25,
+            26
+          ]
+        }
+      ],
+      "topics": [
+        "复数项与函数项级数",
+        "幂级数与收敛半径",
+        "泰勒定理与常用展开",
+        "洛朗定理"
+      ],
+      "keywords": [
+        "级数",
+        "函数",
+        "绝对收敛",
+        "一致收敛",
+        "洛朗"
+      ],
+      "priority": 1
+    },
+    {
+      "path": "Course/Complex_Analysis/Lectures/05_Residues.md",
+      "title": "模块五：留数相关及应用",
+      "kind": "cleaned_notes",
+      "quality": "visually_reconstructed",
+      "modules": [
+        "05_residues"
+      ],
+      "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
+      "source_name": "高瑜复变讲义1-16讲.pdf",
+      "source_pages": [
+        27,
+        35
+      ],
+      "source_parts": [
+        {
+          "path": "Course/Complex_Analysis/Notes/06_Singularities_and_Residues.md",
+          "source_pages": [
+            27,
+            31
+          ],
+          "sha256": "5e293dcce85379f5107e20bd20aa25da76a723acc842d4ecc8c08a242ac9f5e0"
+        },
+        {
+          "path": "Course/Complex_Analysis/Notes/07_Real_Integrals.md",
+          "source_pages": [
+            32,
+            35
+          ],
+          "sha256": "889c93f9e4c6e983703a4bfa870cb795a9321e8b46ddd6f9a8cebcd1f6db85b6"
+        }
+      ],
+      "ocr_fragments": [
+        {
+          "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_025-030.md",
+          "source_pages": [
+            27,
+            30
+          ]
+        },
+        {
+          "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_031-036.md",
+          "source_pages": [
+            31,
+            35
+          ]
+        }
+      ],
+      "topics": [
+        "孤立奇点分类",
+        "零点与极点的阶数",
+        "无穷远点",
+        "留数与计算规则",
+        "留数定理与无穷远留数",
+        "三角有理式积分",
+        "有理函数的整轴积分",
+        "指数因子与实轴极点",
+        "Fresnel 积分"
+      ],
+      "keywords": [
+        "留数",
+        "函数",
+        "极限",
+        "等价",
+        "平面",
+        "解析函数",
+        "奇点",
+        "极点",
+        "主值"
+      ],
+      "priority": 1
+    },
+    {
+      "path": "Course/Complex_Analysis/Lectures/06_Fourier_Transform.md",
+      "title": "模块六：傅里叶变换相关",
+      "kind": "cleaned_notes",
+      "quality": "visually_reconstructed",
+      "modules": [
+        "06_fourier"
+      ],
+      "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
+      "source_name": "高瑜复变讲义1-16讲.pdf",
+      "source_pages": [
+        36,
+        42
+      ],
+      "source_parts": [
+        {
+          "path": "Course/Complex_Analysis/Notes/08_Fourier_Transform.md",
+          "source_pages": [
+            36,
+            42
+          ],
+          "sha256": "f23758f8ab4cd7374265f38cbb753ffc13dfd19d00acbae143742f22a6bfe64b"
+        }
+      ],
+      "ocr_fragments": [
+        {
+          "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_031-036.md",
+          "source_pages": [
+            36,
+            36
+          ]
+        },
+        {
+          "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_037-042.md",
+          "source_pages": [
+            37,
+            42
+          ]
+        }
+      ],
+      "topics": [
+        "统一约定与逆变换",
+        "典型变换对",
+        "性质",
+        "卷积",
+        "Dirac 分布"
+      ],
+      "keywords": [
+        "傅里叶",
+        "变换",
+        "函数",
+        "连续",
+        "导数",
+        "微分",
+        "卷积"
+      ],
+      "priority": 1
+    },
+    {
+      "path": "Course/Complex_Analysis/Lectures/07_Laplace_Transform.md",
+      "title": "模块七：拉普拉斯之变换",
+      "kind": "cleaned_notes",
+      "quality": "visually_reconstructed",
+      "modules": [
+        "07_laplace"
+      ],
+      "source_id": "dd568a034659f110d5762c8abf90f188d0d8839d54240a2d75c727346d5074f8",
+      "source_name": "高瑜复变讲义1-16讲.pdf",
+      "source_pages": [
+        43,
+        46
+      ],
+      "source_parts": [
+        {
+          "path": "Course/Complex_Analysis/Notes/09_Laplace_Transform.md",
+          "source_pages": [
+            43,
+            46
+          ],
+          "sha256": "43c5b77f9f93f06c5ad8bcd4aa88a6fbd6580041df90537b6a4f79eaa1717d80"
+        }
+      ],
+      "ocr_fragments": [
+        {
+          "path": "Course/Complex_Analysis/Lectures/Page_Text/pages_043-046.md",
+          "source_pages": [
+            43,
+            46
+          ]
+        }
+      ],
+      "topics": [
+        "定义、收敛域与基本变换对",
+        "性质",
+        "反演",
+        "初值问题"
+      ],
+      "keywords": [
+        "变换",
+        "拉普拉斯",
+        "函数",
+        "微分",
+        "Gamma",
+        "平面"
+      ],
+      "priority": 1
     },
     {
       "path": "Course/Complex_Analysis/Textbook/01_Complex_Numbers/chapter.md",
@@ -5851,5 +6275,14 @@
     }
   ],
   "version": 2,
-  "contents": "Course/Complex_Analysis/contents.md"
+  "contents": "Course/Complex_Analysis/contents.md",
+  "lecture_modules": [
+    "Course/Complex_Analysis/Lectures/01_Complex_Numbers.md",
+    "Course/Complex_Analysis/Lectures/02_Analytic_Functions.md",
+    "Course/Complex_Analysis/Lectures/03_Complex_Integration.md",
+    "Course/Complex_Analysis/Lectures/04_Series.md",
+    "Course/Complex_Analysis/Lectures/05_Residues.md",
+    "Course/Complex_Analysis/Lectures/06_Fourier_Transform.md",
+    "Course/Complex_Analysis/Lectures/07_Laplace_Transform.md"
+  ]
 }
